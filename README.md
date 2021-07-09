@@ -11,14 +11,14 @@
 | 名称 | 支持 |  
 | :---: | :---: |  
 | [Python][python] | 简单易学的编程语言 |  
-| [航天爱好者网][spaceflightfans] | 数据源 | 
+| [航天爱好者网][spaceflightfans] | 数据源 |  
 | [Requests][requests] | 方便的 HTTP 工具 |  
 | [icalendar][icalendar] | 功能齐全的 iCalendar 解析工具 |  
 | [BeautifulSoup][beautifulsoup] | 简单的 HTML 解析工具 |  
 | [Github][github] | 代码托管及自动运行环境 |  
 
 [rfc5545]: https://www.ietf.org/rfc/rfc5545.txt
-[usage]: https://github.com/zhoushengdao/rocket_calendar/blob/master/usage.md
+[usage]: usage.md
 [python]: https://www.python.org/
 [spaceflightfans]: http://www.spaceflightfans.cn/
 [requests]: https://requests.readthedocs.io/
