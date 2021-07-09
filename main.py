@@ -1,4 +1,5 @@
 import datetime
+from os import system
 
 import requests
 from bs4 import BeautifulSoup
@@ -17,6 +18,13 @@ def 打开文件():
 def 写入文件(写入内容):
     with open(文件名, 'wb') as 文件:
         文件.write(写入内容)
+
+def 自动提交():
+    system('git config --global user.email "26922dd@sina.com"')
+    system('git config --global user.name "周盛道"')
+    system('git add .')
+    system('git commit -m \'%s 自动更新\'' % datetime.now().strftime('%Y-%m-%dT%H:%M:%S'))
+    system('git push')
 
 def 获取页码(日历):
     
