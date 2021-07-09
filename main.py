@@ -23,7 +23,7 @@ def 自动提交():
     system('git config --global user.email "26922dd@sina.com"')
     system('git config --global user.name "周盛道"')
     system('git add .')
-    system('git commit -m \'%s 自动更新\'' % datetime.now().strftime('%Y-%m-%dT%H:%M:%S'))
+    system('git commit -m \'%s 自动更新\'' % datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S'))
     system('git push')
 
 def 获取页码(日历):
