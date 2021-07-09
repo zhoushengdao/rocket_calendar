@@ -11,7 +11,7 @@ SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第七批次组网发
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210529T013800
 DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210529T013800
 UID:4768
-CATEGORIES:Roscosmos\,Soyuz 2\,俄罗斯发射
+CATEGORIES:Roscosmos,Soyuz 2,俄罗斯发射
 CLASS:PUBLIC
 DESCRIPTION:\n\n本次任务logo\n地点：东方航天发射场\n火箭
  ：Soyuz 2.1b/Fregat-M，No.1935枚R-7系列运载火箭；Soyuz2.1b/Frage
@@ -244,8 +244,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征七号遥三火箭 • 天舟二号货运飞船 • 8小时
  快速对接 •发射成功 • LongMarch-7 Y3 • Tianzhou-2
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210529T205500
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210529T205500
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210528T205500
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210528T205500
 UID:4757
 CATEGORIES:中国发射\,中国航天科技集团\,长征七号
 CLASS:PUBLIC
@@ -501,8 +501,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征三号乙 • 风云四号02星 • LongMarch-3B/G3 Y72 • 
  FengYun-4B • 发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210603T001700
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210603T001700
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210602T001700
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210602T001700
 UID:4795
 CATEGORIES:中国发射\,中国航天科技集团\,长征三号乙
 CLASS:PUBLIC
@@ -560,8 +560,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • CRS-22 • 国际空间站货运补给任务 • 波
  音太阳能帆板运输快递 • 发射成功 • 一级回收成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210604T012500
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210604T012500
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210603T012500
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210603T012500
 UID:4737
 CATEGORIES:Falcon 9\,SpaceX\,美国发射
 CLASS:PUBLIC
@@ -606,8 +606,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • SiriusXM SXM-8同步轨道通信卫星 • 发射成
  功 • 一级回收成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210606T122600
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210606T122600
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210605T122600
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210605T122600
 UID:4803
 CATEGORIES:Falcon 9\,SpaceX\,美国发射
 CLASS:PUBLIC
@@ -628,8 +628,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号丁 • 北京三号01星/海丝二号/仰望一号 
  • LongMarch-2D • BeiJing-3-01/HaiSi-2/YangWang-1 • 发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210611T110300
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210611T110300
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210610T110300
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210610T110300
 UID:4804
 CATEGORIES:中国发射\,中国航天科技集团\,长征二号丁
 CLASS:PUBLIC
@@ -662,8 +662,8 @@ URL:http://www.spaceflightfans.cn/event/long-march-2d-launch-beijing-3-sat
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Simorgh • Zafar-2 • 任务失败 • 真的失败了
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210612T000000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210612T000000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210611T000000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210611T000000
 UID:4851
 CATEGORIES:Simorgh\,伊朗发射
 CLASS:PUBLIC
@@ -683,8 +683,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pegasus XL • TacRL-2 • 美国空间与导弹系统中心试验
  卫星 • 发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210613T161100
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210613T161100
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210612T161100
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210612T161100
 UID:4817
 CATEGORIES:NorthropGrumman\,Pegasus\,美国发射
 CLASS:PUBLIC
@@ -699,8 +699,8 @@ URL:http://www.spaceflightfans.cn/event/pegasus-xl-%e2%80%a2-tacrl-2?insta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minotaur I • NROL-111 • System F6试验星 • 发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210615T213500
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210615T213500
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210614T213500
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210614T213500
 UID:4819
 CATEGORIES:Minotaur\,NorthropGrumman\,美国发射
 CLASS:PUBLIC
@@ -722,8 +722,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号F/G(Y12) • 神舟十二号载人飞船 •6小时快
  速对接模式 • LongMarch 2F/G Y12 • Shenzhou-12 • 发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210617T092200
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210617T092200
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210616T092200
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210616T092200
 UID:4820
 CATEGORIES:中国发射\,中国航天科技集团\,长征二号F
 CLASS:PUBLIC
@@ -1191,8 +1191,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • GPSⅢA-5 • 第三代GPS导航定位卫星第5发 
  • 发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210618T000900
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210618T000900
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210617T000900
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210617T000900
 UID:4813
 CATEGORIES:Falcon 9\,SpaceX\,美国发射
 CLASS:PUBLIC
@@ -1213,8 +1213,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号丙 • 遥感三十号09组卫星/天启星座14星 
  • LongMarcg-2C Y48 • Yaogan-30-09/Tianqi-14 • 发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210618T143000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210618T143000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210617T143000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210617T143000
 UID:4824
 CATEGORIES:中国发射\,中国航天科技集团\,长征二号丙
 CLASS:PUBLIC
@@ -1246,8 +1246,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b • Pion-NKS №1(Kosmos-2550)电子侦察卫星 • 
  发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210626T035000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210626T035000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210625T035000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210625T035000
 UID:4855
 CATEGORIES:Roscosmos\,Soyuz 2\,俄罗斯发射
 CLASS:PUBLIC
@@ -1278,8 +1278,8 @@ BEGIN:VEVENT
 SUMMARY:Soyuz 2.1a • Progress МS-17 (78P) 货运飞船 • 国际空间
  站补给任务 • 科罗廖夫能源航天集团成立七十五周年纪
  念箭 • 发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210630T072700
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210630T072700
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210629T072700
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210629T072700
 UID:4793
 CATEGORIES:Roscosmos\,Soyuz 2\,俄罗斯发射
 CLASS:PUBLIC
@@ -1614,8 +1614,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LauncherOne • Tubular Bells\, Part One • 军方STP载荷和国
  际小卫星等共计六颗 • 发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210630T224700
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210630T224700
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210629T224700
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210629T224700
 UID:4875
 CATEGORIES:
 CLASS:PUBLIC
@@ -1698,8 +1698,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • Transporter-2 • 小卫星拼车任务第二弹 • 
  发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210701T025600
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210701T025600
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210630T025600
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210630T025600
 UID:4870
 CATEGORIES:Falcon 9\,SpaceX\,美国发射
 CLASS:PUBLIC
@@ -1776,8 +1776,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第八批次组网发
  射 • 发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210701T204800
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210701T204800
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210630T204800
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210630T204800
 UID:4857
 CATEGORIES:Roscosmos\,Soyuz 2\,俄罗斯发射
 CLASS:PUBLIC
@@ -2025,8 +2025,8 @@ BEGIN:VEVENT
 SUMMARY:长征二号丁 • 吉林一号宽幅01B星 • 吉林一号高
  分03D-01/02/03星 • LongMarch-2D Y59 • JiLin-1-KF01B • JiLin-1-GF03
  D-01/02/03 • 发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210703T104400
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210703T104400
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210702T104400
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210702T104400
 UID:4871
 CATEGORIES:中国发射\,中国航天科技集团\,长征二号丁
 CLASS:PUBLIC
@@ -2060,8 +2060,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征四号丙 • 风云三号E(05)气象卫星 • 首颗晨昏
  轨道气象卫星 • LongMarch-4C • FengYun-3E-3E • 发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210705T071600
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210705T071600
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210704T071600
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210704T071600
 UID:4880
 CATEGORIES:中国发射\,中国航天科技集团\,长征四号丙
 CLASS:PUBLIC
@@ -2175,8 +2175,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征三号丙 • 天链一号05星 • LongMarch-3C Y18 • Tia
  nlian-1-05 • 发射成功
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210706T235300
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210706T235300
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210705T235300
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210705T235300
 UID:4910
 CATEGORIES:中国发射\,中国航天科技集团\,长征三号丙
 CLASS:PUBLIC
@@ -2221,7 +2221,7 @@ SUMMARY:长征六号 • 宁夏一号02组卫星，钟子号02组卫星
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210709T195300
 DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210709T195300
 UID:4877
-CATEGORIES:中国发射\,中国航天科技集团\,长征六号
+CATEGORIES:中国发射,中国航天科技集团,长征六号
 CLASS:PUBLIC
 DESCRIPTION:\n地点(Launch Site)：中国太原卫星发射中心LC-9 \n
  火箭(Vehicle)：长征六号运载火箭（LongMarch-6） \n载荷(Paylo
@@ -2239,7 +2239,7 @@ SUMMARY:【7月10日左右】双曲线一号遥五火箭 • “天书”
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210710T000000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210710T000000
 UID:4874
-CATEGORIES:中国发射\,双曲线一号\,星际荣耀
+CATEGORIES:中国发射,双曲线一号,星际荣耀
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95B场坪\
  n火箭(Vehicle)：双曲线一号遥五运载火箭（Hyperbola-1 Y5）\n
@@ -2256,7 +2256,7 @@ SUMMARY:Falcon 9 • V1.0-L29批次Starlink通信卫星组网发射
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210712T000000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210712T000000
 UID:4891
-CATEGORIES:Falcon 9\,SpaceX\,美国发射
+CATEGORIES:Falcon 9,SpaceX,美国发射
 CLASS:PUBLIC
 DESCRIPTION:\n地点：TBD\n火箭：Falcon 9\n载荷：V1.0 L29批次星
  链组网卫星（Starlink）\n质量：单星260kg\n客户：SpaceX\n轨
@@ -2275,7 +2275,7 @@ SUMMARY:Proton M • MLM Nauka （科学号）• 国际空间站新试验
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210716T011800
 DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210716T011800
 UID:4837
-CATEGORIES:ILS\,Proton M\,俄罗斯发射
+CATEGORIES:ILS,Proton M,俄罗斯发射
 CLASS:PUBLIC
 DESCRIPTION:\n地点：哈萨克斯坦拜科努尔航天发射场 LC200/39
  \n火箭：Proton-M\n载荷：MLM Nauka科学号实验舱\n客户：Roscos
@@ -2500,8 +2500,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:捷龙一号遥二火箭 • 仪征二号/仪征三号 • SmartDr
  agon-1 Y2 • YiZheng-2/YiZheng-3
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210720T000000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210720T000000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210719T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210719T160000
 UID:4853
 CATEGORIES:中国发射\,中国航天科技集团\,捷龙一号
 CLASS:PUBLIC
@@ -2521,8 +2521,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号丙 • 遥感三十号10组卫星/创新五号10组 
  • LongMarcg-2C Y49 • Yaogan-30-10/CX-5-10
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210723T000000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210723T000000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210722T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210722T160000
 UID:4893
 CATEGORIES:中国发射\,中国航天科技集团\,长征二号丙
 CLASS:PUBLIC
@@ -2539,8 +2539,8 @@ URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%ba%8c%e5%8f%
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ariane 5 ECA VZ-254 • Star One D2 • Eutelsat-Quantum
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210727T083000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210727T083000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210726T083000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210726T083000
 UID:4901
 CATEGORIES:Ariane 5\,Arianespace\,欧洲发射
 CLASS:PUBLIC
@@ -2559,8 +2559,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:【TBD\,7月复飞】快舟一号甲遥四”和平精英号“ 
  • 吉林一号高分02-D星 • Kuaizhou-1A Y4 • Jinlin-1-Gaofen-02-D
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210731T000000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210731T000000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210730T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210730T160000
 UID:4786
 CATEGORIES:中国发射\,中国航天科工集团\,快舟一号甲
 CLASS:PUBLIC
@@ -2589,8 +2589,8 @@ URL:http://www.spaceflightfans.cn/event/kuaizhou-1a-rocket-launch-jilin-1-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L30批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210731T000000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210731T000000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210730T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210730T160000
 UID:4831
 CATEGORIES:Falcon 9\,SpaceX\,美国发射
 CLASS:PUBLIC
@@ -2605,8 +2605,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz-2.1a / Fregat-M•“秃鹰-FKA”（Kondor-FKA）01星•
  俄首颗民用对地观测雷达卫星•18年开始不断延期
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210731T000000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210731T000000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210730T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210730T160000
 UID:4733
 CATEGORIES:Soyuz\,Soyuz 2\,Soyuz 2\,俄罗斯发射\,俄罗斯国防部
 CLASS:PUBLIC
@@ -2672,8 +2672,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas 5 • OFT-2 • 波音Starliner载人飞船 • 第二次无
  人测试飞行
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210731T025300
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210731T025300
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210730T025300
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210730T025300
 UID:4699
 CATEGORIES:Atlas 5\,ULA（联合发射联盟）\,美国发射
 CLASS:PUBLIC
@@ -2735,7 +2735,7 @@ SUMMARY:Antares • Cygnus NG-16• 国际空间站货运补给任务
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210801T000000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210801T000000
 UID:4834
-CATEGORIES:Antares\,美国发射
+CATEGORIES:Antares,美国发射
 CLASS:PUBLIC
 DESCRIPTION:\n地点：美国维吉尼亚州Wallops Island(瓦勒普斯岛
  )， Pad 0A发射台 \n火箭：Antares II(加强版) \n载荷：Cygnus NG
@@ -2800,8 +2800,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第九批次组网发
  射
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210802T000000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210802T000000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210801T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210801T160000
 UID:4900
 CATEGORIES:Roscosmos\,Soyuz 2\,俄罗斯发射
 CLASS:PUBLIC
@@ -2817,8 +2817,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征三号乙 • 中星2E通信卫星 • 宽带通信卫星 
  • LongMarch-3B/G2 • CHINASAT-2E
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210809T000000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210809T000000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210808T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210808T160000
 UID:4898
 CATEGORIES:中国发射\,中国航天科技集团\,长征三号乙
 CLASS:PUBLIC
@@ -2835,8 +2835,8 @@ URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%b8%89%e5%8f%
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vega • Pléiades-Neo 4地球遥感卫星
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210810T095000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210810T095000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210809T095000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210809T095000
 UID:4832
 CATEGORIES:
 CLASS:PUBLIC
@@ -2855,8 +2855,8 @@ URL:http://www.spaceflightfans.cn/event/vega-%e2%80%a2-launch-pleiades-neo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • CRS-23 • 国际空间站货运补给任务
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210813T000000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210813T000000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210812T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210812T160000
 UID:4484
 CATEGORIES:Falcon 9\,NASA\,SpaceX\,美国发射
 CLASS:PUBLIC
@@ -2875,8 +2875,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alpha • Spinnaker 3\, NPS-CENETIX-Orbital 1\, Teachers in Space 
  CubeSat 1等多颗卫星  • 此为该型号运载火箭首飞任务
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210831T000000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210831T000000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4885
 CATEGORIES:Alpha\,Firefly\,美国发射
 CLASS:PUBLIC
@@ -2898,8 +2898,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ariane 5 ECA •  SES 17 / Ovzon-3 一箭双星• 重型猎鹰丢
  掉订单
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210831T000000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210831T000000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4620
 CATEGORIES:Ariane 5\,Arianespace\,欧洲发射
 CLASS:PUBLIC
@@ -2950,8 +2950,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 511 • AFSPC-8（GSSAP-5＆6监视卫星） • 新构型
  首飞
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210831T000000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210831T000000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4572
 CATEGORIES:Atlas 5\,ULA（联合发射联盟）\,美国发射
 CLASS:PUBLIC
@@ -2970,8 +2970,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 •  Space Test Program-3(含有NASA的STPSat 6和六
  颗军方载荷)
-DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210831T000000
-DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210831T000000
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4882
 CATEGORIES:Atlas 5\,ULA（联合发射联盟）\,美国发射
 CLASS:PUBLIC
@@ -47701,5 +47701,385 @@ DESCRIPTION:发射台：肯尼迪航天中心LC-39A发射台\n火箭：Sta
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/starship-first-orbit-flight?instan
  ce_id=4562
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:长征六号 • 宁夏一号02组卫星/钟子号02组卫星 • 
+ LongMarch-6 • NingXia-1-02/ZhongZi-02 • 发射成功
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210708T195900
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210708T195900
+UID:4915
+CATEGORIES:中国发射\,中国航天科技集团\,长征六号
+CLASS:PUBLIC
+DESCRIPTION:\n\n地点(Launch Site)：中国太原卫星发射中心LC-9 \
+ n火箭(Vehicle)：长征六号运载火箭（LongMarch-6） \n载荷(Payl
+ oad)：宁夏一号02组卫星/钟子号02组卫星 \n客户(Customer)：
+ 宁夏金硅信息技术有限公司\n重量(Mass)：TBD\n轨道(Orbit)：
+ LEO 低地球轨道\n设计寿命(Designed Life)：TBD\n7月9日19时59分
+ ，在太原卫星发射中心，长征六号运载火箭点火升空，
+ 随后将“钟子号”卫星星座02组卫星准确送入预定轨道，
+ 发射任务取得圆满成功。“钟子号”卫星星座02组卫星由
+ 中国航天科技集团有限公司五院所属的航天东方红卫星
+ 有限公司抓总研制。.\n长征六号运载火箭由航天科技集
+ 团八院研制，属于新一代无毒、无污染低温液体快速发
+ 射三级火箭，可执行多种轨道发射任务，支持单星发射
+ 、多星发射和搭载发射，700公里太阳同步轨道运载能力
+ 可达1吨。这是长六火箭的第6次飞行。2015年9月20日，长
+ 六火箭成功首飞，将20颗卫星发射升空，开创了我国一箭
+ 多星发射的新纪录。2017年11月21日，长六火箭首次执行商
+ 业发射任务，成功发射3颗“吉林一号”视频卫星。2020年
+ 11月6日，长六火箭首次承接国际商业卫星发射服务，成
+ 功将13颗卫星送入预定轨道。\n   \nNOTAMS：\n动态：\n【2021
+ 年07月09日】19:59分 火箭点火升空，卫星顺利进入预定轨
+ 道\n【2021年07月01日】添加此次任务。NOTAM已出。\n
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/long-march-6-satellite-launch-ning
+ xia-group-2-satellite?instance_id=4915
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proton M • MLM Nauka （科学号）• 国际空间站新试验
+ 舱发射•地面吃灰20年，俄罗斯在服役22年的国际空间站
+ 的【首个】科学实验舱• 质子号火箭空间站舱段落幕任
+ 务
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210720T225800
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210720T225800
+UID:4912
+CATEGORIES:ILS\,Proton M\,俄罗斯发射
+CLASS:PUBLIC
+DESCRIPTION:\n地点：哈萨克斯坦拜科努尔航天发射场 LC200/39
+ \n火箭：Proton-M\n载荷：MLM Nauka科学号实验舱\n客户：Roscos
+ mos\n轨道：LEO/ISS\n \n\n\n\n（MLM会对接在Pirs码头舱段接口
+ ，而码头舱段则会随着进步MS-16货运飞船会一同再入大气
+ 层）\n简介：俄罗斯制造的“科学号”实验舱( MLM)基于“
+ 曙光号”功能货舱开发，实验舱长13米，直径4.11米，质
+ 量20.5吨，气密空间70.1立方米。携带欧洲航天局制造的活
+ 动机械臂，专门的实验机柜设施和具备“星辰”号核心
+ 舱的手动对接系统，生命保障循环设备和休息区域。\n谁
+ 知道这俩组件在天上等了十几年。。。\n另外：需要注意
+ 的是，本次科学号的发射，舱段自身是没有携带节点舱
+ 扩容气闸舱与散热板块的，因为—-它们早在2010年5月14日
+ 同黎明号小型试验舱段一道由亚特兰蒂斯号航天飞机STS-1
+ 32任务送入国际空间站，对接至曙光号货运货舱节点舱，
+ 在科学号实验舱实验舱入轨对接后由其携带的欧洲机械
+ 臂拿取后同出舱行走的航天员一道安装至科学号实验舱
+ 内。\n\n气闸舱和散热板安装示意图\n\n\n黎明号小型实验/
+ 节点舱的示意与实物在肯尼迪航天中心整装测试图\n更多
+ 详情请看本站原创文章：【保证没有乳新时代的全面战
+ 略协作伙伴】长五B携带天和号核心舱转场时刻，瞅一瞅
+ 俄罗斯还在地上的“科学号”实验/核心舱与未来的独立
+ 空间站\n\n（“新闻”，历史的厚重感）：\n2020年消息：\
+ n2020年08月11日晚上，搭载新的俄罗斯ISS (国际空间站) 新
+ 舱段 (俄罗斯科学模块) 的列车从赫鲁尼切夫中心出发运
+ 往拜科努尔航天发射场，该模块已经完成了整个气动及
+ 真空等一系列测试。列车将被送往拜科努尔航天发射场
+ 的254号技术综合大楼，之后还将进行一系列复杂的发射
+ 前的测试准备工作，检查测试周期和发射前准备工作大
+ 约需要9个月，目前计划于2021年04月份发射，与国际空间
+ 站成功对接后被纳入ISS俄罗斯部分。\n据俄罗斯卫星网5
+ 月23日报道：俄罗斯国家航天集团发言人向俄罗斯卫星通
+ 讯表示，俄罗斯”科学”号实验舱将于2021年第二季度前
+ 发射，前往国际空间站。俄罗斯国家航天集团发言人表
+ 示：“实验舱发射将于明年第二季度前准备就绪，发射
+ 时间表目前正在审批中。”此前，俄罗斯火箭和航天工
+ 业另一位消息人士也向俄罗斯卫星网透露了同样的发射
+ 时间。\n俄罗斯国家航天集团总经理德米特里·罗戈津4月
+ 初曾发布消息称，受新冠疫情影响，赫鲁尼切夫国家航
+ 天科研生产中心工作人数减少，”科学”号实验舱的发
+ 射从2020年被推迟到2021年。4月中旬，罗戈津表示，”科
+ 学”号实验舱已在真空室进行为期一个月的测试。此后
+ ，实验舱将运送到拜科努尔航天发射场。\n“科学”号实
+ 验舱将包括第三名俄罗斯宇航员的睡眠区域以及国际空
+ 间站俄罗斯轨道段的第二个卫生间。俄罗斯“星辰”号
+ 服务舱体内有两名宇航员的休息区和一个卫生间。\n\n进
+ 入全面小康社会前最后更新：一句话，让明年12月11日发
+ 射的进步MS-16飞船在停泊国际空间站星辰号核心舱尾部220
+ 天后同分离空间站与最老的码头气闸舱对接，码头舱分
+ 离同进步飞船一起再入大气层坠毁，以给MLM腾出地方，
+ 本来这个任务是由进步MS-15飞船执行的。（从12年开始年
+ 年让进步飞船执行码头舱的退役任务）。。。。。\nA Soyu
+ z-2-1a rocket to launch the Progress MS-16 cargo ship (production No. 445\
+ , ISS mission 77P) from Baikonur’s Site 31 to the International Space St
+ ation\, ISS. The vehicle is expected to fly a two-day rendezvous profile a
+ nd dock at the aft port of the Zvezda Service Module\, SM\, a part of the 
+ ISS’ Russian Segment. During the planning of the ISS launch manifest in 
+ the Fall of 2019\, the Progress MS-16 mission was expected to last 220 day
+ s\, but its December 11\, 2020\, launch date also put the cargo ship into 
+ the time frame for a potential back-up role as “burial” vehicle for th
+ e Pirs Docking Compartment\, SO1. The disposal operation would free the na
+ dir (Earth-facing) docking port on the Zvezda Service Module\, SM\, for th
+ e arrival of the MLM Nauka module. The primary role to discard Pirs was at
+  the time assigned to the Progress MS-15 mission\, however a potential del
+ ay with the December 2020 launch of the Nauka would shift the responsibili
+ ty for Pirs’ disposal to Progress MS-16\, because mission control wanted
+  to keep Pirs at the station until the delivery of Nauka was imminent. To 
+ perform its disposal backup duty\, Progress MS-16 would need a number of a
+ vionics for automated and manual control\, which would have to be installe
+ d during its pre-launch processing in Baikonur. The exact launch date of P
+ rogress MS-16 was also subject to change depending on the status of the ML
+ M launch (Insider Content).\n\n中新网据俄罗斯卫星网报道，俄
+ 赫鲁尼切夫航天科研生产中心的“礼炮”设计局总设计
+ 师库兹涅佐夫表示，俄方已制造载荷能量更强的“质子-M
+ ”号专用火箭，用于2020年6月向国际空间站发送多用途实
+ 验室舱“科学”号，目的是将其送入更高的轨道。\n“科
+ 学号”实验舱于1995年作为国际空间站第一个“曙光”号
+ 实验舱的地面备份舱开始制造。2004年决定将备份舱改装
+ 为真正的飞行舱。原定于2007年将其发送至空间站，但由
+ 于未能按时完工，该实验舱的发射每年都被推迟。\n俄罗
+ 斯国家航天集团公司总裁罗戈津此前表示，鉴于“科学
+ ”号实验舱仪表和发动机性能的期限限制，因此需在2020
+ 年夏季前将其送往国际空间站。因此，俄方决定用“巡
+ 航舰”助推器（fregat）的燃料箱取代“科学”号舱被金
+ 属刨屑污染的燃料箱。\n【fregat上面级】\n库兹涅佐夫说
+ ，计划在“科学”号舱上安装30个“巡航舰”助推器的燃
+ 料箱(6组，每组5个燃料箱)代替6个旧的燃料箱，新燃料箱
+ 内的燃料将比旧燃料箱内的燃料少，因此，需研制实验
+ 舱飞往国际空间站更省燃料的模式。\n\n（旧闻，仅供参
+ 考）：\n俄罗斯卫星通讯社阿德莱德（澳大利亚）9月25日
+ 电 俄罗斯国家航天集团总裁科马罗夫证实，计划于2018年
+ 发射俄罗斯新型科学号实验舱（又称多用途实验舱），
+ 并使之与国际空间站对接。\n澳大利亚国际宇航大会期间
+ ，科马罗夫在俄、欧、日、中、美航天机构负责人新闻
+ 发布会上说：”俄罗斯正朝这一方向努力。计划于2018年
+ 上半年发射多用途实验舱。”\n此前有报道称，因发现燃
+ 料系统出现堵塞问题，国际空间站俄罗斯多用途实验舱
+ 的发射工作由2017年年底推迟到2018年。解决该问题只能是
+ 对燃料舱进行切割。\n莫斯科中央科研工艺研究所（Techno
+ mash）所长德米特里·帕诺夫此前在接受俄新社采访时表
+ 示，将使用特殊装置清除燃料系统的堵塞，正进行该装
+ 置的制造工作。（该尝试明显失败）莫斯科中央科研工
+ 艺研究所（Technomash）是俄国家航天集团联邦航天计划新
+ 工艺实施领域的首席企业。\nPS：这个舱就是曙光号的备
+ 份舱段，看来已经要GG了。\n\n俄罗斯的“多功能实验室
+ 舱”（MLM）原本拟在2007年加装到国际空间站上，但却因
+ 各种问题而一直留在地面，其中就包括推进系统污染问
+ 题。技术人员最近又在其主推进剂贮箱中发现了污染。
+ 由于这些贮箱建造于上世纪90年代，所以很难通过更换贮
+ 箱来解决问题。按目前的安排，MLM要在今年底或明年初
+ 由质子号火箭发射。目前暂不清楚这一污染问题会让发
+ 射时间推迟多久。\nMLM又称“科学”，拟作为国际空间站
+ 俄罗斯部分的核心舱，并打算在国际空间站退役后充当
+ 俄本国空间站的核心。俄1998年发射了国际空间站首个舱
+ 段“曙光”舱，用于在该站建设初期提供电力和推进。
+ 因该舱所担负的任务非常关键，所以俄还开始为该舱建
+ 造一个备份，以防发生重大事故。6年后，俄航天局决定
+ 把这个备份舱改造成MLM，以节省专门新造一个实验室舱
+ 所需的费用。该舱原定2007年发射，但因各种原因而反复
+ 推迟。2013年，工程技术人员发现有加注阀门存在泄漏，
+ 并发现推进系统存在污染。当时有报道说修理和清理工
+ 作需花近10个月，不料这10个月最终变成了几年。过去4年
+ 里，工程技术人员一直在辛苦地更换推进系统的众多管
+ 路、阀门和推力器，以期清除在升级改造过程中不慎造
+ 成的锯屑污染。此外，由于在地面存放太久，MLM舱的某
+ 些部件已过了质保期。\n枯燥乏味的清理和修理工作今年
+ 进入最后阶段，该舱终于看到了在今年底或明年上半年
+ 发射的希望。但接下来却出现了更糟糕的事情。近几周
+ 来，工程技术人员在MLM的推进剂贮箱里也发现了他们几
+ 年来一直在奋力清除的相同污染。修理队伍曾试图把污
+ 染物冲洗掉，但迄今为止所有清除努力均告失败。更糟
+ 的是，这些贮箱是在上世纪90年代初设计的，目前已不再
+ 生产，所以难以通过更换来解决问题。幸运的是，俄航
+ 天局当初为该舱设计了第二套较短的贮箱，只是为了在
+ 舱外安装机械臂和其它科学仪器而被拆掉。这些有可能
+ 未被污染的贮箱现在或许是MLM能装到国际空间站上的唯
+ 一机会。\n\n动态：\n【2021年06月28日】舱段与组合体于254
+ 号场区装配测试大楼内完成整流罩的安装工作，准备前
+ 往31号场区进行常温燃料与压缩气体的加注。\n【2021年06
+ 月22日】拜科努尔航天发射场92号场区的92A-50号总装测试
+ 厂房内，发射科学号实验舱的质子M火箭基本完成了进场
+ 后的装配工作，等待与载荷/整流罩组合体的组装对接。\
+ n【2021年06月21日】科学号实验舱与适配仪器段完成连接
+ ，适配段安装有火箭的全箭控制系统，负责载荷与火箭
+ 的电气连接，之后技术人员将完成空间站舱段控制称重
+ 和确定舱段质心的工作，再准备合罩与舱段燃料加注等
+ 工作。\n【2021年06月08日】科学号实验舱基本完成发射前
+ 测试，俄罗斯组织新老航天员队伍代表参观科学号实验
+ 舱，听取航天员的意见。\n【2021年5月20日】科学号实验
+ 舱与欧洲航天局提供的机械臂整合；发射工位完成维护
+ ，具备发射条件。\n【2021年04月24日】科学号实验舱完成
+ 热真空测试。\n【2021年03月27日】抵达拜科努尔准备进行
+ 载人飞行任务的联盟MS-18俄罗斯航天员成员组进入科学号
+ 实验舱进行操作培训。\n【2021年01月22日】科学号实验/核
+ 心舱已经完成了80的地面整体测试与设备的安装，例如对
+ 电视通信系统和电视系统的天线馈线设备（包括电视电
+ 路和编码器）以及通过舱段后面通用工作人员场所进行
+ 的电视通信进行了测试；测试了模块温度控制系统的主
+ 要和备用设置，还安装了Nauka推进系统的组件，模块的运
+ 动和导航控制系统。同时，进行了加压系统和向燃料和
+ 氧化剂的高压和低压箱的燃料供应以及加压和燃料供应
+ 系统的压力传感器的测试。太阳帆板已经测试完成，欧
+ 洲机械臂也抵达拜科努尔进行调试准备安装，赶紧上去
+ ，再不上去星辰号那些老掉牙的制氧机与空调设备要支
+ 撑不住了。\n【2020年12月21日】俄罗斯Nauka发射推迟到不
+ 早于明年7月15日。废物。。。\n【2020年12月04日】RSW消息
+ ，推迟到七月\n【2020年11月03日】航天员再次进行熟悉科
+ 目训练，之后前往休斯敦航天中心进行美国舱段的相关
+ 训练。\n【2020年10月10日】正在拜科努尔进行联盟MS-17载
+ 人航天备份任务 的俄罗斯航天员奥列格.维克托洛和彼
+ 得.瓦列列维奇根据上级有关任务安排前往“科学号”舱
+ 段所在的245号厂房，进行22岁“新舱段“相关科目培训。
+ \n【2020年09月12日】俄罗斯官方发布消息，舱段正在进行
+ 紧锣密鼓的测试工作具体参见俄官网。\n【2020年09月04日
+ 】8月份11日晚上MLM可算是启程，在抵达了拜科努尔后于21
+ 日开始进行一系列准备测试，这将是最后一个纯正礼炮
+ 血统的空间站舱段，以后俄罗斯规划的舱段就都是俄罗
+ 斯联邦在本世纪全新概念设计的新舱段而不是前朝的老
+ 设计了。而且不出意外，这将是质子号火箭自1970年代以
+ 来最后一次执行空间站舱段发射任务，（此前一次还是20
+ 00年质子K发射星辰号核心舱），跳票王也代表着一个旧
+ 时代的落幕，一路向前，未来可期。\n【2020年07月29日】M
+ LM未能按照原计划运往拜科努尔，现在计划8月中旬起运
+ 。\n【2020年05月20日】发射推迟到明年5月。。。看你这厮
+ 跳多久。\n【2020年04月19日】舱段开始真空环境测试。\n
+ 【2020年04月03日】预计五月份完成最后的制造工作，接下
+ 来运抵拜科努尔进行电气测试，预计明年年初发射，放
+ 置一季度待定。\n【2019年11月24日】 毛子目前计划，让明
+ 年12月11日发射的进步MS-16飞船在停泊国际空间站星辰号
+ 核心舱尾部220天后同分离空间站与最老的码头气闸舱对
+ 接，码头舱分离同进步飞船一起再入大气层坠毁，以给ML
+ M腾出地方，本来这个任务是由进步MS-15飞船执行的。（
+ 从12年开始年年让进步飞船执行码头舱的退役任务）。。
+ 。。。因此明年基本上打不了了，需要2021年才可以，暂
+ 且丢到2021年年底待定。\n【2019年05月22日】塔斯社消息，
+ 继续推迟，干脆置于2099年待定，说不定真能拖到那时候
+ 呢。\n【2019年04月04日】来了点消息，老大难的燃料系统
+ 问题采用17年提出的方案：由于推进剂储箱问题被金属屑
+ 污染的问题一直无法解决，毛子决定将躺在地上多年的
+ 科学号实验舱原本的6个储箱换成30个fregat上面级的推进
+ 剂储箱。十年磨一剑，终于磨出山了。\n【2019年02月08日
+ 】推迟到2020年中，2019年底起运拜科努尔。\n【2018年05月3
+ 0日】维修进度不佳，再推三个月，不早于19年11月，再推
+ 的话我兔空间站都要发了。。。\n【2818年04月12日】据外
+ 媒消息，不早于19年8月，也可能干脆废弃该舱段。。。
+ 。\n【2018年03月24日】燃料系统问题仍未处理完成，继续
+ 跳票。\n【2017年12月15日】添加此次任务。\n\n任务图片：
+                                                                           
+                                                                           
+                                                           \n（科学号
+ 实验舱内部，接近于核心舱的加压容积了）\n（运输MLM的
+ 火车抵达拜科努尔）\n      \n（罗戈津进行记者见面会为M
+ LM介绍，为出征拜科努尔壮行）\n  \n（抵达拜科努尔进行
+ 测试的科学号实验舱）\n\n（俄官网19年4月份发布的最新
+ 状况）\n（罗戈津于推特发表的2020年近期照片）\n \n\n（1
+ 9年的最终决定）\n（17年提出的解决方案之一）\n（标配
+ 推进剂储箱）\n（13年之前的）\n   \n
+LOCATION:哈萨克斯坦拜科努尔航天发射场
+URL:http://www.spaceflightfans.cn/event/proton-m-rocket-launch-mlm-nauka?i
+ nstance_id=4912
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 • V1.0-L29批次Starlink通信卫星组网发射
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210730T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210730T160000
+UID:4918
+CATEGORIES:Falcon 9\,SpaceX\,美国发射
+CLASS:PUBLIC
+DESCRIPTION:\n地点：TBD\n火箭：Falcon 9\n载荷：V1.0 L29批次星
+ 链组网卫星（Starlink）\n质量：单星260kg\n客户：SpaceX\n轨
+ 道：LEO\n芯级：TBD\n回收：海上回收\n动态：\n【2021年07月
+ 09日】发射推迟\n【2021年06月27日】预计07月12日发射\n【20
+ 21年04月08日】添加此次任务\n
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
+ -0-l29?instance_id=4918
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soyuz 2.1a • Bars-M No. 3光学侦察卫星
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210730T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210730T160000
+UID:4914
+CATEGORIES:Roscosmos\,Soyuz 2\,俄罗斯发射
+CLASS:PUBLIC
+DESCRIPTION:\n地点：普列谢茨克航天发射场\n火箭：Soyuz 2.1a
+ \n载荷：Bars-M No. 3\n客户：俄罗斯太空部队\n质量：4000kg\n
+ 轨道：SSO\n倾角：98°\n动态：\n【2021年07月09日】添加此
+ 次任务\n
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%80%a2-bars-m-no-3?i
+ nstance_id=4914
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:双曲线一号遥五火箭 • “天书”发射失利后复飞 
+ • 载荷未知 • Hyperbola-1 Y5
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210730T160000
+DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210730T160000
+UID:4917
+CATEGORIES:中国发射\,双曲线一号\,星际荣耀
+CLASS:PUBLIC
+DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95B场坪\
+ n火箭(Vehicle)：双曲线一号遥五运载火箭（Hyperbola-1 Y5）\n
+ 载荷(Payload)：N/A\n轨道(Orbit)：SSO\n动态：\n【2021年3月6日
+ 】添加此次任务。\n
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e5%8f%8c%e6%
+ 9b%b2%e7%ba%bf%e4%b8%80%e5%8f%b7%e9%81%a5%e4%ba%94%e7%81%ab%e7%ae%ad-%e2%8
+ 0%a2-%e5%a4%a9%e4%b9%a6%e5%8f%91%e5%b0%84%e5%a4%b1%e5%88%a9%e5%90%8e?insta
+ nce_id=4917
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antares • Cygnus NG-16• 国际空间站货运补给任务
+DTSTART;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210810T055500
+DTEND;TZID=Asia/Shanghai;VALUE=DATE-TIME:20210810T055500
+UID:4916
+CATEGORIES:Antares\,美国发射
+CLASS:PUBLIC
+DESCRIPTION:\n地点：美国维吉尼亚州Wallops Island(瓦勒普斯岛
+ )， Pad 0A发射台 \n火箭：Antares II(加强版) \n载荷：Cygnus NG
+ -16货运飞船 \n飞船质量：8050kg \n货物质量：待定\n客户：
+ NASA \n轨道：LEO/ISS \n任务时常约8分52秒\n搭载清单：\nFBCE\
+ , CIRReconfigure\,FIRReconfigure\,ACE T5-3and T9-3\n安塔瑞斯火箭与
+ 载荷介绍与运载示意图：\n安塔瑞斯运载火箭，集轨道科
+ 学公司的制导控制能力和总体设计之大成，结合了乌克
+ 兰南方设计局的增压技术，曾使用传奇的苏联NK-33火箭发
+ 动机后来换用俄罗斯产的强大的RD-181火箭发动机。\n\n再
+ 后来，轨道科学公司被诺斯罗普·格鲁曼公司整体收购。
+ \n\n2011年12月12日，轨道科学公司将火箭名称从原本指定
+ 的“金牛座Ⅱ号”，改用恒星心宿二的名称来命名为“
+ 安塔瑞斯”。2013年4月21日首次试飞成功。2014年10月28日
+ 携带美国“天鹅座”（Cygnus）宇宙飞船的“安塔瑞斯”
+ （Antares）号运载火箭在弗吉尼亚州瓦勒普斯岛发射升空
+ 时爆炸，爆炸燃起巨大火球，运载火箭没有载人。调查
+ 显示，该火箭使用了50年前的苏联火箭发动机技术，使用
+ 的AJ-26发动机，是由苏联NK-33发动机翻新改装而成。这一
+ 事实遭致美国国内舆论质疑和批评。这也造成其此次原
+ 定向国际空间站运送补给物资的计划遭遇挫折。\n\n2016年
+ 10月17日晚7时45分，美国“安塔瑞斯”号(Antares)运载火箭
+ 在弗吉尼亚州瓦勒普斯岛成功发射升空，运送物资到国
+ 际太空站。此次发射是“安塔瑞斯”号两年前爆炸以来
+ ，首次恢复飞行。\n\n2018年5月21日，搭载“天鹅座”号(Cy
+ gnus)货运飞船的“安塔瑞斯”号(Antares)运载火箭（俄制新
+ 型RD-181发动机）从位于美国弗吉尼亚州瓦勒普斯岛的航
+ 天基地成功发射升空。“天鹅”号第9次为美国国家航空
+ 航天局执行的前往国际空间站的合同任务。\n\n安塔瑞斯
+ 火箭采用110号配置，第一级使用RP-1与液氧作为燃烧推进
+ 剂，并在内部安装有两部Aerojet公司参考俄罗斯NK-33火箭
+ 发动机研发并销售的AJ26火箭发动机。而轨道科学公司为
+ 了能够获得第一节火箭的轨道发射之经验与大型液态推
+ 进剂使用之技术，因此与乌克兰南方设计局签约以获得
+ 天顶号运载火箭相关设计来作为参考。\n\n第二级火箭则
+ 采用固态火箭发动机卡斯托30火箭发动机，而其发动机则
+ 是参考阿连特科技系统（英语：AlliantTechsystems）所研发
+ 的卡斯托120辅助火箭发动机而成，并且透过相关技术能
+ 够达成推力向量的效果。\n\n作为可搭配选项的第三级火
+ 箭的发动机则可为双推进剂第三节系统（Bi-PropellantThirdSt
+ age）或者是阿连特科技系统的星48BV型固体燃料火箭（英
+ 语：Star48），其中前者为轨道科学公司其主要卫星平台
+ ，使用四氧化二氮与联氨作为推进燃料，计划是拿来将
+ 有效载荷精确放置最终轨道之中；而后者则是基于星48型
+ 固体燃料火箭开发而成，主要是计划负责需要更多推进
+ 能量以前往指定轨道的任务。\n\n天鹅号货运飞船由服务
+ 推进舱和加压舱两部分组成，其中服务推进舱（上图中
+ 下方的模块）由诺斯罗普格鲁门（前身 Orbital ATK）建造
+ ，加压舱（上图中上方的模块）由意大利图灵的泰雷兹
+ 阿莱尼亚航天制造。\n“天鹅座”飞船是目前美国货运补
+ 给国际空间站飞船之一。2014年1月9日 ，“天鹅座”飞船
+ 成功发射，正式开始为国际空间站运送物资。此后，“
+ 天鹅座”飞船多次执行太空补给任务。\n公司同NASA签有
+ 涉及至少17次发射的空间站补给服务合同，其中11次包括
+ 在2008年最初签订、后经修订的CRS1合同中，而2016年签订
+ 的后续CRS2合同则将包括至少6次飞行。\n动态：\n【2021年0
+ 7月09日】预计08月11日 05:55发射\n【2021年02月14日】添加此
+ 次任务，目前计划21年7月份发射。\n
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/antares-%e2%80%a2-cygnus-ng-15-%e2
+ %80%a2-international-space-station-ng-16-resupply-mission?instance_id=4916
 END:VEVENT
 END:VCALENDAR
