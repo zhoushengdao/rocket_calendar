@@ -1,5 +1,5 @@
 import datetime
-from os import system
+from os import system, getenv
 
 import requests
 from bs4 import BeautifulSoup
@@ -108,8 +108,7 @@ def 事件属性写入(事件, 日历事件, 标志=False):
     日历事件['location'] = vText(事件['venue'])
     日历事件['uid'] = vText(事件['instance_id'])
     日历事件['summary'] = vText(事件['filtered_title'])
-    日历事件['description'] = vText(BeautifulSoup(
-            事件['filtered_content'], 'html.parser').get_text())
+    日历事件['description'] = vText(事件['post_excerpt'])
     日历事件['categories'] = vText(BeautifulSoup(
             事件['categories_html'], 'html.parser').get_text(',', strip=True))
     if 标志:
@@ -166,7 +165,8 @@ def 主函数():
             elif 页码 == 2:
                 日历['x-2-edt'] = 修改时间
     写入文件(日历.to_ical())
-    自动提交()
+    if getenv('CI') == 'true':
+        自动提交()
 
 if __name__ == '__main__':
     主函数()
