@@ -2992,7 +2992,7 @@ SUMMARY:Electron • 玛西亚发射场LC-1B工位首射 • 任务待定
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4883
-CATEGORIES:Electron\,美国发射
+CATEGORIES:Electron,美国发射
 CLASS:PUBLIC
 DESCRIPTION:简要信息：\n地点：新西兰Launch Complex 1B\n火箭
  ：Electron(电子)\n载荷：TBD\n质量：TBD\n客户：TBD\n轨道：LE
@@ -3011,7 +3011,7 @@ SUMMARY:Falcon 9 • SARah 1 • 德国侦察卫星星座
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4884
-CATEGORIES:Falcon 9\,SpaceX\,美国发射
+CATEGORIES:Falcon 9,SpaceX,美国发射
 CLASS:PUBLIC
 DESCRIPTION:\n地点：范登堡空军基地SLC-4E\n火箭：Falcon 9 Bloc
  k 5\n载荷：SARah 1\n重量：不详\n客户：Bundeswehr\n轨道：SSO
@@ -3035,7 +3035,7 @@ SUMMARY:Falcon 9 • V1.0-L31批次Starlink通信卫星组网发射
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4886
-CATEGORIES:Falcon 9\,SpaceX\,美国发射
+CATEGORIES:Falcon 9,SpaceX,美国发射
 CLASS:PUBLIC
 DESCRIPTION:\n地点：TBD\n火箭：Falcon 9\n载荷：V1.0 L-31批次星
  链组网卫星（Starlink）\n质量：单星260kg\n客户：SpaceX\n轨
@@ -3050,7 +3050,7 @@ SUMMARY:Falcon 9 • V1.0-L32批次Starlink通信卫星组网发射
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4887
-CATEGORIES:Falcon 9\,SpaceX\,美国发射
+CATEGORIES:Falcon 9,SpaceX,美国发射
 CLASS:PUBLIC
 DESCRIPTION:\n地点：TBD\n火箭：Falcon 9\n载荷：V1.0 L-32批次星
  链组网卫星（Starlink）\n质量：单星260kg\n客户：SpaceX\n轨
@@ -3065,7 +3065,7 @@ SUMMARY:Falcon 9 • V1.0-L33批次Starlink通信卫星组网发射
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4888
-CATEGORIES:Falcon 9\,SpaceX\,美国发射
+CATEGORIES:Falcon 9,SpaceX,美国发射
 CLASS:PUBLIC
 DESCRIPTION:\n地点：TBD\n火箭：Falcon 9\n载荷：V1.0 L-33批次星
  链组网卫星（Starlink）\n质量：单星260kg\n客户：SpaceX\n轨
@@ -3080,7 +3080,7 @@ SUMMARY:Falcon 9 • V1.0-L34批次Starlink通信卫星组网发射
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4722
-CATEGORIES:Falcon 9\,SpaceX\,美国发射
+CATEGORIES:Falcon 9,SpaceX,美国发射
 CLASS:PUBLIC
 DESCRIPTION:\n地点：TBD\n火箭：Falcon 9\n载荷：V1.0 L-31批次星
  链组网卫星（Starlink）\n质量：单星260kg\n客户：SpaceX\n轨
@@ -3095,7 +3095,7 @@ SUMMARY:Falcon 9 • V1.0-L35批次Starlink通信卫星组网发射
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4724
-CATEGORIES:Falcon 9\,SpaceX\,美国发射
+CATEGORIES:Falcon 9,SpaceX,美国发射
 CLASS:PUBLIC
 DESCRIPTION:\n地点：TBD\n火箭：Falcon 9\n载荷：V1.0 L-35批次星
  链组网卫星（Starlink）\n质量：单星260kg\n客户：SpaceX\n轨
@@ -3110,7 +3110,7 @@ SUMMARY:Falcon 9 • V1.0-L36批次Starlink通信卫星组网发射
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4725
-CATEGORIES:Falcon 9\,SpaceX\,美国发射
+CATEGORIES:Falcon 9,SpaceX,美国发射
 CLASS:PUBLIC
 DESCRIPTION:\n地点：TBD\n火箭：Falcon 9\n载荷：V1.0 L-36批次星
  链组网卫星（Starlink）\n质量：单星260kg\n客户：SpaceX\n轨
@@ -3126,7 +3126,7 @@ SUMMARY:Soyuz 2.1a • Soyuz MS-20•  俄罗斯12天太空游客服务，
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4368
-CATEGORIES:Soyuz\,Soyuz 2\,俄罗斯发射
+CATEGORIES:Soyuz,Soyuz 2,俄罗斯发射
 CLASS:PUBLIC
 DESCRIPTION:\n联盟飞船太空游客商业旅行任务logo\n\n（国际
  空间站徽标）\n地点：哈萨克斯坦拜科努尔航天发射场 LC
@@ -3591,7 +3591,7 @@ SUMMARY:快舟一号甲遥五”新洲号“ • 吉林一号高分02-F星
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4688
-CATEGORIES:中国发射\,中国航天科工集团\,快舟一号甲
+CATEGORIES:中国发射,中国航天科工集团,快舟一号甲
 CLASS:PUBLIC
 DESCRIPTION:相关信息：\n地点：中国酒泉卫星发射中心95A场
  坪\n火箭(Vehicle)：快舟一号甲遥五运载火箭“新洲号”(Ku
@@ -3611,7 +3611,7 @@ SUMMARY:长征四号丙 • 高分三号02星 • LongMarch-4C Y28 • Gao
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4909
-CATEGORIES:中国发射\,中国航天科技集团\,长征四号丙
+CATEGORIES:中国发射,中国航天科技集团,长征四号丙
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心LC-94\n火
  箭(Vehicle)：长征四号丙遥二十八运载火箭（CZ-4C Y28） \n
@@ -3629,7 +3629,7 @@ SUMMARY:长征四号丙 • 高分五号02星 • LongMarch-4C Y38 • GF-
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210830T160000
 UID:4760
-CATEGORIES:中国发射\,中国航天科技集团\,长征四号丙
+CATEGORIES:中国发射,中国航天科技集团,长征四号丙
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国太原卫星发射中心LC-9\n火
  箭(Vehicle)：长征四号丙运载火箭（LongMarch 4C Y38） \n载荷(
@@ -3648,7 +3648,7 @@ SUMMARY:【TBD】长征三号乙 • 中星9B通信卫星 • 中星9A替
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210907T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210907T160000
 UID:4895
-CATEGORIES:中国发射\,中国航天科技集团\,长征三号乙
+CATEGORIES:中国发射,中国航天科技集团,长征三号乙
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国西昌卫星发射中心\n火箭(V
  ehicle)：长征三号乙改二运载火箭（LongMarch 3B/G2） \n载荷(
@@ -3668,7 +3668,7 @@ SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第十批次组网发
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210908T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210908T160000
 UID:4902
-CATEGORIES:Roscosmos\,Soyuz 2\,俄罗斯发射
+CATEGORIES:Roscosmos,Soyuz 2,俄罗斯发射
 CLASS:PUBLIC
 DESCRIPTION:\n地点：东方航天发射场\n火箭：Soyuz 2.1b/Fregat-M
  \n载荷：第十批次36颗OneWeb互联网通讯卫星\n质量：5810kg\n
@@ -3686,7 +3686,7 @@ SUMMARY:【不早于9月份】Falcon 9 •Crew Dragon Inspiration4 •纯
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210914T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210914T160000
 UID:4577
-CATEGORIES:Falcon 9\,SpaceX\,美国发射
+CATEGORIES:Falcon 9,SpaceX,美国发射
 CLASS:PUBLIC
 DESCRIPTION:\nInspiration4任务徽章\n敲定名单的4名成员\n地点
  ：肯尼迪航天中心LC-39A发射台\n火箭：Falcon 9 Block5\n载荷
@@ -3993,7 +3993,7 @@ SUMMARY:Atlas V 401构型 • LandSat-9地球遥感卫星
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210915T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210915T160000
 UID:4501
-CATEGORIES:Atlas 5\,ULA（联合发射联盟）\,美国发射
+CATEGORIES:Atlas 5,ULA（联合发射联盟）,美国发射
 CLASS:PUBLIC
 DESCRIPTION:\n地点：范德堡空军基地 SLC-3E\n火箭：Atlas V 401
  （宇宙神5，401构型） \n箭体：TBD \n载荷：LandSat-9\,CuPID\,C
@@ -4013,7 +4013,7 @@ SUMMARY:长征七号遥四 • 天舟三号货运飞船 • LongMarch 7 Y4
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210919T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210919T160000
 UID:4897
-CATEGORIES:中国发射\,中国航天科技集团\,长征七号
+CATEGORIES:中国发射,中国航天科技集团,长征七号
 CLASS:PUBLIC
 DESCRIPTION:天舟三号货运飞船实物，天舟二号成功发射后
  官宣截图\n地点：中国西昌卫星发射中心文昌航天发射场
@@ -4036,7 +4036,7 @@ SUMMARY:【TBD】Electron • CAPSTONE • 该火箭首次执行月球轨
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210929T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210929T160000
 UID:4836
-CATEGORIES:Electron\,RocketLab\,美国发射
+CATEGORIES:Electron,RocketLab,美国发射
 CLASS:PUBLIC
 DESCRIPTION: \n\n简要信息：\n地点：瓦普勒斯岛 Launch Complex
   2\n火箭：Electron(电子)\n箭体名：TBD\n载荷：CAPSTONE\n质量
@@ -4052,7 +4052,7 @@ SUMMARY:【TBD】快舟一号甲遥16运载火箭 • 吉利卫星双星
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210929T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210929T160000
 UID:4689
-CATEGORIES:中国发射\,中国航天科工集团\,快舟一号甲
+CATEGORIES:中国发射,中国航天科工集团,快舟一号甲
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95A场坪 
  \n火箭(Vehicle)：快舟一号甲遥16运载火箭（Kuaizhou-1A Y16） 
@@ -4072,7 +4072,7 @@ SUMMARY:【TBD】快舟一号甲遥17运载火箭 • 和德二号C\,D双
 DTSTART;TZID=Asia/Shanghai;VALUE=DATE:20210929T160000
 DTEND;TZID=Asia/Shanghai;VALUE=DATE:20210929T160000
 UID:4690
-CATEGORIES:中国发射\,中国航天科工集团\,快舟一号甲
+CATEGORIES:中国发射,中国航天科工集团,快舟一号甲
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95A场坪 
  \n火箭(Vehicle)：快舟一号甲遥17运载火箭（Kuaizhou-1A Y17） 
