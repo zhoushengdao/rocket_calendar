@@ -1,0 +1,5 @@
+*.py text eol=crlf
+*.ics text eol=crlf
+*.md text eol=crlf
+
+*.png binary
