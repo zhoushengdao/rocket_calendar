@@ -1,4 +1,4 @@
-import datetime
+from datetime import timezone, timedelta, datetime, date
 from os import system, getenv
 
 import requests
@@ -8,7 +8,7 @@ from icalendar.prop import vText, vUri
 from icalendar.parser import Parameters
 
 文件名 = 'rocket_calendar.ics'
-utc8 = datetime.timezone(datetime.timedelta(hours=8), name='Asia/Shanghai')
+默认时区 = timezone(timedelta(hours=8), name='Asia/Shanghai')
 网址 = 'http://www.spaceflightfans.cn/global-space-flight-schedule/action~agenda/page_offset~%d/request_format~json?request_type=json&ai1ec_doing_ajax=true'
 
 def 打开文件():
@@ -25,17 +25,17 @@ def 自动提交():
     system('git config --global user.name "周盛道"')
     system('git config --global core.autocrlf true')
     system('git add .')
-    system('git commit -m \'%s 自动更新\'' % datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S'))
+    system('git commit -m \'%s 自动更新\'' % datetime.now(tz=默认时区).strftime('%Y-%m-%dT%H:%M:%S'))
     system('git push')
 
 def 获取页码(日历):
     
     需抓取页码 = [-1, 0]
 
-    当前时间 = datetime.datetime.now(tz=utc8).date()
-    第一页修改时间 = datetime.datetime.strptime(日历['x-1-edt'], "%Y-%m-%dT%H:%M:%S").date()
-    第二页修改时间 = datetime.datetime.strptime(日历['x-2-edt'], "%Y-%m-%dT%H:%M:%S").date()
-    其他页修改时间 = datetime.datetime.strptime(日历['x-o-edt'], "%Y-%m-%dT%H:%M:%S").date()
+    当前时间 = datetime.now(tz=默认时区).date()
+    第一页修改时间 = datetime.strptime(日历['x-1-edt'], "%Y-%m-%dT%H:%M:%S").date()
+    第二页修改时间 = datetime.strptime(日历['x-2-edt'], "%Y-%m-%dT%H:%M:%S").date()
+    其他页修改时间 = datetime.strptime(日历['x-o-edt'], "%Y-%m-%dT%H:%M:%S").date()
 
     if (当前时间 - 第一页修改时间).days >= 1:
         需抓取页码.append(1)
@@ -69,7 +69,7 @@ def 抓取(url):
 def 处理结果(数据, 日历):
     for 日期 in 数据:
         事件集 = 数据[日期]['events']['allday'] + 数据[日期]['events']['notallday']
-        # for 事件 in 事件集:
+        # 倒序循环，避免下标错误
         for 下标 in range(len(事件集)-1, -1, -1):
             事件 = 事件集[下标]
             事件['date'] = 日期
@@ -84,20 +84,20 @@ def 处理结果(数据, 日历):
 def 获取日期(事件):
     开始时间 = 结束时间 = 0
     参数 = {'tzid': 'Asia/Shanghai'}
-    日期时间 = datetime.datetime.fromtimestamp(int(事件['date']), tz=utc8)
+    日期时间 = datetime.fromtimestamp(int(事件['date']), tz=默认时区)
     if 事件['is_allday'] == '1':
         开始时间 = 日期时间.date()
         结束时间 = 日期时间.date()
     elif 事件['is_multiday'] == '1':
         开始时间 = 日期时间.date()
-        日期时间 = datetime.date(int(事件['enddate_info']['year']), 
+        日期时间 = date(int(事件['enddate_info']['year']), 
                 int(事件['enddate_info']['month'][:-1]), 
                 int(事件['enddate_info']['day']))
         结束时间 = 日期时间
     else:
-        日期时间 = datetime.datetime(日期时间.year, 日期时间.month, 日期时间.day, 
+        日期时间 = datetime(日期时间.year, 日期时间.month, 日期时间.day, 
                 int(事件['short_start_time'].split(':')[0]), 
-                int(事件['short_start_time'].split(':')[1]), tzinfo=utc8)
+                int(事件['short_start_time'].split(':')[1]), tzinfo=默认时区)
         开始时间 = 日期时间
         结束时间 = 日期时间
     return (开始时间, 结束时间, 参数)
@@ -136,7 +136,7 @@ def 修改事件(事件, 日历):
 def 主函数():
     日历 = 打开文件()
     需抓取页码 = 获取页码(日历)
-    修改时间 = vText(datetime.datetime.now(tz=utc8).strftime('%Y-%m-%dT%H:%M:%S'))
+    修改时间 = vText(datetime.now(tz=默认时区).strftime('%Y-%m-%dT%H:%M:%S'))
     for 页码 in 需抓取页码:
         退出 = 0
         if 页码 == '~':
