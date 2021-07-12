@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-07-12T00:32:07
+X-1-EDT:2021-07-13T00:33:45
 X-2-EDT:2021-07-11T16:40:16
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -1450,13 +1450,11 @@ CLASS:PUBLIC
 DESCRIPTION:地点：范登堡空军基地SLC-4E 火箭：Falcon 9 Block 5
   载荷：SARah 1 重量：不详 客户：Bundeswehr 轨道：SSO 箭体
  ：待定 回收：待定 直播：http://www.spacex.com/webcast 国内转
- 播：https://live.bilibili.com/269007 SAR-Lupe is Germany&#8216\;s firs
- t reconnaissance satellite system and is used for military purposes. SAR
-  is an abbreviation for synthetic aperture radar and &#8220\;Lupe&#8221\
- ; is German for magnifying glass. The &hellip\; <a href="http://www.space
- flightfans.cn/event/falcon-9-rocket-launch-sarah1-satellite" class="more-l
- ink">继续阅读<span class="screen-reader-text">Falcon 9 • SARah 1 •
-  德国侦察卫星星座</span> <span class="meta-nav">&rarr\;</span></a>
+ 播：https://live.bilibili.com/269007 SAR-Lupe is Germany‘s first re
+ connaissance satellite system and is used for military purposes. SAR is a
+ n abbreviation for synthetic aperture radar and “Lupe” is German for
+  magnifying glass. The … 继续阅读Falcon 9 • SARah 1 • 德国侦
+ 察卫星星座 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-sarah1-sate
  llite?instance_id=4884
@@ -1621,12 +1619,8 @@ DESCRIPTION:联盟飞船太空游客商业旅行任务logo （国际空间
  行任务的日本富豪前泽友作，在月球旅行前将先前往国
  际空间站一游。其助理平野洋三将陪同乘坐联盟MS-20号飞
  船前往，指令长为俄罗斯专业航天员亚历山大·米苏尔金
- 。 &hellip\; <a href="http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%
- 80%a2-soyuz-ms-20%e2%80%a2-%e4%bf%84%e7%bd%97%e6%96%af%e9%87%8d%e5%90%af%e
- 5%a4%aa%e7%a9%ba%e6%b8%b8%e5%ae%a2%e6%9c%8d%e5%8a%a1" class="more-link">
- 继续阅读<span class="screen-reader-text">Soyuz 2.1a • Soyuz MS-20•
-   俄罗斯12天太空游客服务，钱则友作绕月前太空预热豪
- 迈</span> <span class="meta-nav">&rarr\;</span></a>
+ 。 … 继续阅读Soyuz 2.1a • Soyuz MS-20•  俄罗斯12天太空游
+ 客服务，钱则友作绕月前太空预热豪迈 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%80%a2-soyuz-ms-20%e
  2%80%a2-%e4%bf%84%e7%bd%97%e6%96%af%e9%87%8d%e5%90%af%e5%a4%aa%e7%a9%ba%e6
@@ -1828,15 +1822,10 @@ DESCRIPTION:Inspiration4任务徽章 敲定名单的4名成员 地点：
  曼未透露他要为这次飞行或与该项目相关的广告等其它
  开销花多少钱。该项目的一个宣传广告已经在2月7日的超
  级碗比赛期间播出。艾萨克曼说，2亿美元的资金筹集目
- 标“将肯定远远高于任务本身的费用”。 &hellip\; <a href="
- http://www.spaceflightfans.cn/event/%e3%80%90%e5%9b%9b%e5%ad%a3%e5%ba%a6%e
- 5%be%85%e5%ae%9a%e3%80%91falcon-9-%e2%80%a2crew-dragon-inspiration4-%e2%80
- %a2%e7%ba%af%e6%97%85%e6%b8%b8%e7%9a%84%e8%bd%bd%e4%ba%ba%e8%88%aa%e5%a4%a
- 9%e9%a1%b9" class="more-link">继续阅读<span class="screen-reader-text"
- >【不早于9月份】Falcon 9 •Crew Dragon Inspiration4 •纯旅游
- 的载人航天项目•企业家购买“载人龙”任务，其他3个
- 座位船票兼做慈善，不对接国际空间站</span> <span class="me
- ta-nav">&rarr\;</span></a>
+ 标“将肯定远远高于任务本身的费用”。 … 继续阅读【
+ 不早于9月份】Falcon 9 •Crew Dragon Inspiration4 •纯旅游的载
+ 人航天项目•企业家购买“载人龙”任务，其他3个座位
+ 船票兼做慈善，不对接国际空间站 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e3%80%90%e5%9b%9b%e5%ad%a3%e5%ba%
  a6%e5%be%85%e5%ae%9a%e3%80%91falcon-9-%e2%80%a2crew-dragon-inspiration4-%e
@@ -1897,10 +1886,10 @@ CATEGORIES:Electron
 CATEGORIES:RocketLab
 CATEGORIES:美国发射
 CLASS:PUBLIC
-DESCRIPTION:&nbsp\; 简要信息： 地点：瓦普勒斯岛 Launch Comple
- x 2 火箭：Electron(电子) 箭体名：TBD 载荷：CAPSTONE 质量：2
- 5kg(12u 立方星) 客户：NASA 轨道：LTO 火箭信息： 动态： 
- 【2020.01.09】添加此次任务
+DESCRIPTION:  简要信息： 地点：瓦普勒斯岛 Launch Complex 2 
+ 火箭：Electron(电子) 箭体名：TBD 载荷：CAPSTONE 质量：25kg(
+ 12u 立方星) 客户：NASA 轨道：LTO 火箭信息： 动态： 【202
+ 0.01.09】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron-rocket-launch-nasa-capsto
  ne-mission?instance_id=4836
