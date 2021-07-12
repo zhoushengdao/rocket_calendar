@@ -4,6 +4,7 @@
 1. [Github raw][gh]（主地址）
 2. [Github Pages][ghp]（主地址）  
 3. [Cloudflare][cf]（官方镜像）  
+4. [Vercel][ve]（官方镜像）  
 4. [iCal Exchange][ice]（官方镜像）  
 5. [Fast Git][fg]（非官方镜像）
 
@@ -32,6 +33,7 @@
 [gh]: https://github.com/zhoushengdao/rocket_calendar/raw/master/rocket_calendar.ics
 [ghp]: https://zhoushengdao.github.io/rocket_calendar/rocket_calendar.ics
 [cf]: https://rocket-calendar.pages.dev/rocket_calendar.ics
+[ve]: https://rc-ics.vercel.app/rocket_calendar.ics
 [ice]: http://www.icalx.com/public/zhoushengdao/rocket_calendar.ics
 [fg]: https://hub.fastgit.org/zhoushengdao/rocket_calendar/raw/master/rocket_calendar.ics
 [ics]: #日历文件的地址
