@@ -1,5 +1,5 @@
 from datetime import timezone, timedelta, datetime, date
-from os import system, getenv
+from os import getenv, system, environ
 
 import requests
 from bs4 import BeautifulSoup
@@ -9,6 +9,9 @@ from icalendar.parser import Parameters
 
 文件名 = 'rocket_calendar.ics'
 默认时区 = timezone(timedelta(hours=8), name='Asia/Shanghai')
+当前时间 = datetime.now(tz=默认时区)
+提交消息 = '%s 自动更新' % 当前时间.strftime('%Y-%m-%dT%H:%M:%S')
+推送网址 = 'http://pushplus.hxtrip.com/send?token=%s&title=%s&content=%s&template=html'
 网址 = 'http://www.spaceflightfans.cn/global-space-flight-schedule/action~agenda/page_offset~%d/request_format~json?request_type=json&ai1ec_doing_ajax=true'
 
 def 打开文件():
@@ -16,32 +19,34 @@ def 打开文件():
         日历 = 文件.read()
         return Calendar.from_ical(日历)
 
-def 写入文件(写入内容):
+def 自动提交(内容):
     with open(文件名, 'wb') as 文件:
-        文件.write(写入内容)
-
-def 自动提交():
-    system('git config --global user.email "26922dd@sina.com"')
-    system('git config --global user.name "周盛道"')
-    system('git config --global core.autocrlf true')
-    system('git add .')
-    system('git commit -m \'%s 自动更新\'' % datetime.now(tz=默认时区).strftime('%Y-%m-%dT%H:%M:%S'))
-    system('git push')
+        文件.write(内容)
+    结果 = requests.put('http://icalx.com/public/zhoushengdao/rocket_calendar.ics', 
+            auth=('zhoushengdao', environ['ICALX_PASSWORD']), data=内容)
+    print(结果.status_code, 结果.url)
+    if getenv('CI') == 'true':
+        system('git config --global user.email "26922dd@sina.com"')
+        system('git config --global user.name "周盛道"')
+        system('git config --global core.autocrlf true')
+        system('git add .')
+        system('git commit -m \'%s\'' % 提交消息)
+        system('git push')
 
 def 获取页码(日历):
     
     需抓取页码 = [-1, 0]
 
-    当前时间 = datetime.now(tz=默认时区).date()
+    当前日期 = 当前时间.date()
     第一页修改时间 = datetime.strptime(日历['x-1-edt'], "%Y-%m-%dT%H:%M:%S").date()
     第二页修改时间 = datetime.strptime(日历['x-2-edt'], "%Y-%m-%dT%H:%M:%S").date()
     其他页修改时间 = datetime.strptime(日历['x-o-edt'], "%Y-%m-%dT%H:%M:%S").date()
 
-    if (当前时间 - 第一页修改时间).days >= 1:
+    if (当前日期 - 第一页修改时间).days >= 1:
         需抓取页码.append(1)
-    if (当前时间 - 第二页修改时间).days >= 30:
+    if (当前日期 - 第二页修改时间).days >= 30:
         需抓取页码.append(2)
-    if (当前时间 - 其他页修改时间).days >= 365:
+    if (当前日期 - 其他页修改时间).days >= 365:
         需抓取页码.append('~')
         需抓取页码.append('*')
 
@@ -83,7 +88,6 @@ def 处理结果(数据, 日历):
 
 def 获取日期(事件):
     开始时间 = 结束时间 = 0
-    参数 = {'tzid': 'Asia/Shanghai'}
     日期时间 = datetime.fromtimestamp(int(事件['date']), tz=默认时区)
     if 事件['is_allday'] == '1':
         开始时间 = 日期时间.date()
@@ -100,31 +104,33 @@ def 获取日期(事件):
                 int(事件['short_start_time'].split(':')[1]), tzinfo=默认时区)
         开始时间 = 日期时间
         结束时间 = 日期时间
-    return (开始时间, 结束时间, 参数)
+    return (开始时间, 结束时间)
 
-def 事件属性写入(事件, 日历事件, 标志=False):
+def 事件属性写入(事件, 日历事件, 新建=False):
     日期时间 = 获取日期(事件)
+    参数 = {'tzid': 'Asia/Shanghai'}
     日历事件['class'] = vText('PUBLIC')
     日历事件['url'] = vUri(事件['permalink'])
     日历事件['location'] = vText(事件['venue'])
     日历事件['uid'] = vText(事件['post_id'])
     日历事件['summary'] = vText(事件['filtered_title'])
-    日历事件['description'] = vText(事件['post_excerpt'])
+    日历事件['description'] = vText(BeautifulSoup(事件['post_excerpt'], 
+            'html.parser').get_text())
     日历事件['categories'] = BeautifulSoup(事件['categories_html'], 
             'html.parser').get_text(',', strip=True).split(',')
-    if 标志:
-        日历事件.add('dtstart', 日期时间[0], 日期时间[2])
-        日历事件.add('dtend', 日期时间[1], 日期时间[2])
+    if 新建:
+        日历事件.add('dtstart', 日期时间[0], 参数)
+        日历事件.add('dtend', 日期时间[1], 参数)
     else:
         日历事件['dtstart'].dt = 日期时间[0]
-        日历事件['dtstart'].params = Parameters(日期时间[2])
+        日历事件['dtstart'].params = Parameters(参数)
         日历事件['dtend'].dt = 日期时间[1]
-        日历事件['dtend'].params = Parameters(日期时间[2])
+        日历事件['dtend'].params = Parameters(参数)
 
 def 新建事件(事件, 日历):
     日历事件 = Event()
     日历.add_component(日历事件)
-    事件属性写入(事件, 日历事件, 标志=True)
+    事件属性写入(事件, 日历事件, 新建=True)
 
 def 修改事件(事件, 日历):
     for 日历事件 in 日历.subcomponents:
@@ -136,7 +142,7 @@ def 修改事件(事件, 日历):
 def 主函数():
     日历 = 打开文件()
     需抓取页码 = 获取页码(日历)
-    修改时间 = vText(datetime.now(tz=默认时区).strftime('%Y-%m-%dT%H:%M:%S'))
+    修改时间 = vText(当前时间.strftime('%Y-%m-%dT%H:%M:%S'))
     for 页码 in 需抓取页码:
         退出 = 0
         if 页码 == '~':
@@ -165,9 +171,15 @@ def 主函数():
                 日历['x-1-edt'] = 修改时间
             elif 页码 == 2:
                 日历['x-2-edt'] = 修改时间
-    写入文件(日历.to_ical())
-    if getenv('CI') == 'true':
-        自动提交()
+    自动提交(日历.to_ical())
 
 if __name__ == '__main__':
-    主函数()
+    try:
+        主函数()
+    except Exception as 错误:
+        提交消息 = '%s 失败' % 提交消息
+        结果 = requests.get(推送网址 % (environ['PUSH_TOKEN'], 提交消息, 错误))
+    else:
+        提交消息 = '%s 成功' % 提交消息
+        结果 = requests.get(推送网址 % (environ['PUSH_TOKEN'], 提交消息, 提交消息))
+    print(结果.status_code, 结果.url)

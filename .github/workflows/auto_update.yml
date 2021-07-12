@@ -10,8 +10,10 @@ on:
 
 jobs:
   update:
-
     runs-on: ubuntu-latest
+    env: 
+      ICALX_PASSWORD: ${{ secrets.ICALX_PASSWORD }}
+      PUSH_TOKEN: ${{ secrets.PUSH_TOKEN }}
 
     steps:
     - uses: actions/checkout@v2

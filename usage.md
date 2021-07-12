@@ -4,7 +4,8 @@
 1. [Github raw][gh]（主地址）
 2. [Github Pages][ghp]（主地址）  
 3. [Cloudflare][cf]（官方镜像）  
-4. [Fast Git][fg]（非官方镜像）
+4. [iCal Exchange][ice]（官方镜像）  
+5. [Fast Git][fg]（非官方镜像）
 
 ## 通过 Mozilla Thunderbird  
 1. 复制[日历文件的地址][ics]。  
@@ -31,6 +32,7 @@
 [gh]: https://github.com/zhoushengdao/rocket_calendar/raw/master/rocket_calendar.ics
 [ghp]: https://zhoushengdao.github.io/rocket_calendar/rocket_calendar.ics
 [cf]: https://rocket-calendar.pages.dev/rocket_calendar.ics
+[ice]: http://www.icalx.com/public/zhoushengdao/rocket_calendar.ics
 [fg]: https://hub.fastgit.org/zhoushengdao/rocket_calendar/raw/master/rocket_calendar.ics
 [ics]: #日历文件的地址
 [thunderbirdhelp]: https://support.mozilla.org/zh-CN/kb/%E6%B7%BB%E5%8A%A0%E5%81%87%E6%9C%9F%E6%97%A5%E5%8E%86#w_ding-yue-yuan-cheng-ri-li
