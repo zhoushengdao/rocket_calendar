@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-07-16T00:33:32
+X-1-EDT:2021-07-17T00:34:29
 X-2-EDT:2021-07-11T16:40:16
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -23208,5 +23208,26 @@ DESCRIPTION:发射台：肯尼迪航天中心LC-39A发射台 火箭：Star
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/starship-first-orbit-flight?instan
  ce_id=4562
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:长征六号遥七火箭 • 中科院KL-β双星 • LongMarch-6 
+ Y7 • KL-β
+DTSTART;TZID=Asia/Shanghai:20210831
+DTEND;TZID=Asia/Shanghai:20210831
+UID:95630
+CATEGORIES:中国发射
+CATEGORIES:中国航天科技集团
+CATEGORIES:长征六号
+CLASS:PUBLIC
+DESCRIPTION:  地点(Launch Site)：中国太原卫星发射中心LC-16 
+ 火箭(Vehicle)：长征六号遥七火箭（CZ-6 Y7） 载荷(Payload)：
+ KL-β双星 客户(Customer)：中国科学院 轨道(Orbit)：SSO 载荷
+ 质量：？ 动态： 【2021年07月16日】：由航空航天港“没
+ 有最笨”消息，此次任务由长征六号运载火箭执飞。
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e5%85%ad%e5%8f%
+ b7%e9%81%a5%e4%b8%83%e7%81%ab%e7%ae%ad-%e2%80%a2-%e4%b8%ad%e7%a7%91%e9%99%
+ a2kl-%ce%b2%e5%8f%8c%e6%98%9f-%e2%80%a2-longmarch-6-y7-%e2%80%a2-kl-%ce%b2
+ ?instance_id=4926
 END:VEVENT
 END:VCALENDAR
