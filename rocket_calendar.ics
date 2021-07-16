@@ -903,8 +903,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号丙 • 遥感三十号10组卫星/创新五号10组 
  • LongMarcg-2C Y49 • Yaogan-30-10/CX-5-10
-DTSTART;TZID=Asia/Shanghai:20210723
-DTEND;TZID=Asia/Shanghai:20210723
+DTSTART;TZID=Asia/Shanghai:20210719T081600
+DTEND;TZID=Asia/Shanghai:20210719T081600
 UID:93890
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
@@ -913,13 +913,12 @@ CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国西昌卫星发射中心LC-2 火
  箭(Vehicle)：长征二号丙遥四十九运载火箭（LongMarch 2C Y49
  ） 载荷(Payload)：遥感三十号10组卫星（YG-30-10） 轨道(Orbi
- t)：600km 35°LEO 任务代号： 起飞时： 【2021.05.27】添加此
+ t)：600km 35°LEO 任务代号： 起飞时：   动态： 【2021年07
+ 月16日】根据航行警告调整时间 【2021年05月27日】添加此
  次任务。
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%ba%8c%e5%8f%
- b7%e4%b8%99%e9%81%a5%e5%9b%9b%e5%8d%81%e4%b9%9d-%e2%80%a2-%e9%81%a5%e6%84%
- 9f%e4%b8%89%e5%8d%81%e5%8f%b710%e7%bb%84%e5%8d%ab%e6%98%9f-%e5%88%9b%e6%96
- %b0%e4%ba%94?instance_id=4893
+URL:http://www.spaceflightfans.cn/event/long-march-2c-rocket-launch-yaogan
+ 30-10-satellite?instance_id=4921
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ariane 5 ECA VZ-254 • Star One D2 • Eutelsat-Quantum
@@ -943,10 +942,10 @@ URL:http://www.spaceflightfans.cn/event/ariane-5-eca-%e2%80%a2launch-star-
  one-d2-%e2%80%a2-eutelsat-quantum?instance_id=4901
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【TBD\,7月复飞】快舟一号甲遥四”和平精英号“ 
+SUMMARY:【TBD\,8月复飞】快舟一号甲遥四”和平精英号“ 
  • 吉林一号高分02-D星 • Kuaizhou-1A Y4 • Jinlin-1-Gaofen-02-D
-DTSTART;TZID=Asia/Shanghai:20210731
-DTEND;TZID=Asia/Shanghai:20210731
+DTSTART;TZID=Asia/Shanghai:20210831
+DTEND;TZID=Asia/Shanghai:20210831
 UID:79280
 CATEGORIES:中国发射
 CATEGORIES:中国航天科工集团
@@ -956,24 +955,26 @@ DESCRIPTION:相关信息： 地点(Location)：中国酒泉卫星发射中
  心 95A场坪 火箭(Vehicle)：快舟一号甲遥四运载火箭“和平
  精英号”(Kuaizhou-1A Y4) 载荷(Payload)：吉林一号高分02D星 
  客户(Customer)：长光卫星 轨道(Orbit)：535km SSO 卫星平台(Sat
- ellite Bus)：TBD 动态： 【2021年02月20日】由官方推送，确
- 定3月组织快舟1A火箭复飞。 2月19日，沿着航天大道一路
- 向东，两侧的厂房林立。其中最引人注目的是航天科工
- 火箭园区总装车间，4枚白灰相间的快舟一号甲火箭停在
- 架车上，一字儿排开。“计划3月份要运送到酒泉基地发
- 射，从发布指令、点火分离、姿态调整，所有的流程要
- 全部测试一遍，确保万无一失。”科研主管刘欣告诉湖
- 北日报全媒记者，通过夜以继日的加班加点，总装中心
- 一期工程已具备年产20发火箭的产能。二期预留了1000亩
- 土地，保障和测试中心今年已经启动论证。 【2021年02月1
- 4日】该任务置于2021年上半年发射，为快舟一号甲运载火
- 箭复飞任务。 【2020年09月20日】因9月12日快舟一号甲运
- 载火箭发射“吉林一号”高分02C卫星失利，三次连射中
- 断，后两次至于年底待定。 【2020年08月29日】添加此次
- 任务。
+ ellite Bus)：TBD 动态： 【2021年07月16日】：8-9月组织快舟
+ 一号甲火箭复飞工作。求求了快点吧，这个预报都改了
+ 不下十次了。 【2021年02月20日】：由官方推送，确定3月
+ 组织快舟1A火箭复飞。 2月19日，沿着航天大道一路向东
+ ，两侧的厂房林立。其中最引人注目的是航天科工火箭
+ 园区总装车间，4枚白灰相间的快舟一号甲火箭停在架车
+ 上，一字儿排开。“计划3月份要运送到酒泉基地发射，
+ 从发布指令、点火分离、姿态调整，所有的流程要全部
+ 测试一遍，确保万无一失。”科研主管刘欣告诉湖北日
+ 报全媒记者，通过夜以继日的加班加点，总装中心一期
+ 工程已具备年产20发火箭的产能。二期预留了1000亩土地
+ ，保障和测试中心今年已经启动论证。 【2021年02月14日
+ 】：该任务置于2021年上半年发射，为快舟一号甲运载火
+ 箭复飞任务。 【2020年09月20日】：因9月12日快舟一号甲
+ 运载火箭发射“吉林一号”高分02C卫星失利，三次连射
+ 中断，后两次至于年底待定。 【2020年08月29日】：添加
+ 此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/kuaizhou-1a-rocket-launch-jilin-1-
- gaofen-02d-satellite?instance_id=4786
+ gaofen-02d-satellite?instance_id=4924
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L29批次Starlink通信卫星组网发射
@@ -1189,8 +1190,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征三号乙 • 中星2E通信卫星 • 宽带通信卫星 
  • LongMarch-3B/G2 • CHINASAT-2E
-DTSTART;TZID=Asia/Shanghai:20210809
-DTEND;TZID=Asia/Shanghai:20210809
+DTSTART;TZID=Asia/Shanghai:20210805T230000
+DTEND;TZID=Asia/Shanghai:20210805T230000
 UID:95288
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
@@ -1199,12 +1200,13 @@ CLASS:PUBLIC
 DESCRIPTION:地点：中国西昌卫星发射中心LC-2 火箭：长征三
  号乙改二运载火箭 （LongMarch-3B） 载荷：中星2E通信卫星 
  质量：5400kg 火箭起飞质量：456吨 客户：NF 轨道：GTO 任
- 务代号：？ 动态： 【2021年07月02日】添加此次任务。
+ 务代号：？ 动态： 【2021年07月16日】粗调任务时间。 【
+ 2021年07月02日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%b8%89%e5%8f%
  b7%e4%b9%99-%e2%80%a2-%e4%b8%ad%e6%98%9f2e%e9%80%9a%e4%bf%a1%e5%8d%ab%e6%9
  8%9f-%e2%80%a2-%e5%ae%bd%e5%b8%a6%e9%80%9a%e4%bf%a1%e5%8d%ab%e6%98%9f-%e2%
- 80%a2-longmarch-3b?instance_id=4898
+ 80%a2-longmarch-3b?instance_id=4922
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vega • Pléiades-Neo 4地球遥感卫星
