@@ -902,7 +902,7 @@ URL:http://www.spaceflightfans.cn/event/proton-m-rocket-launch-mlm-nauka?i
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号丙 • 遥感三十号10组卫星/创新五号10组 
- • LongMarcg-2C Y49 • Yaogan-30-10/CX-5-10
+ • LongMarcg-2C Y49 • Yaogan-30-10/CX-5-10 • 发射成功
 DTSTART;TZID=Asia/Shanghai:20210719T081600
 DTEND;TZID=Asia/Shanghai:20210719T081600
 UID:93890
@@ -914,8 +914,9 @@ DESCRIPTION:地点(Launch Site)：中国西昌卫星发射中心LC-2 火
  箭(Vehicle)：长征二号丙遥四十九运载火箭（LongMarch 2C Y49
  ） 载荷(Payload)：遥感三十号10组卫星（YG-30-10） 轨道(Orbi
  t)：600km 35°LEO 任务代号： 起飞时：   动态： 【2021年07
- 月16日】根据航行警告调整时间 【2021年05月27日】添加此
- 次任务。
+ 月19日】发射升空，卫星顺利进入预定轨道 【2021年07月16
+ 日】根据航行警告调整时间 【2021年05月27日】添加此次
+ 任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/long-march-2c-rocket-launch-yaogan
  30-10-satellite?instance_id=4921
