@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-07-21T00:33:38
+X-1-EDT:2021-07-22T00:34:14
 X-2-EDT:2021-07-11T16:40:16
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -829,7 +829,7 @@ BEGIN:VEVENT
 SUMMARY:Proton M • MLM Nauka （科学号）• 国际空间站新试验
  舱发射•地面吃灰20年，俄罗斯在服役22年的国际空间站
  的【首个】科学实验舱• 质子号火箭空间站舱段落幕任
- 务
+ 务 • 发射成功
 DTSTART;TZID=Asia/Shanghai:20210721T225800
 DTEND;TZID=Asia/Shanghai:20210721T225800
 UID:23267
@@ -895,7 +895,7 @@ DESCRIPTION:科学号实验舱任务logo 地点：哈萨克斯坦拜科努
  读Proton M • MLM Nauka （科学号）• 国际空间站新试验舱
  发射•地面吃灰20年，俄罗斯在服役22年的国际空间站的
  【首个】科学实验舱• 质子号火箭空间站舱段落幕任务 
- →
+ • 发射成功 →
 LOCATION:哈萨克斯坦拜科努尔航天发射场
 URL:http://www.spaceflightfans.cn/event/proton-m-rocket-launch-mlm-nauka?i
  nstance_id=4912
@@ -1035,8 +1035,8 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1a • Bars-M No. 3光学侦察卫星
-DTSTART;TZID=Asia/Shanghai:20210731
-DTEND;TZID=Asia/Shanghai:20210731
+DTSTART;TZID=Asia/Shanghai:20210831
+DTEND;TZID=Asia/Shanghai:20210831
 UID:95454
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
@@ -1048,13 +1048,13 @@ DESCRIPTION:地点：普列谢茨克航天发射场 火箭：Soyuz 2.1a
  务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%80%a2-bars-m-no-3?i
- nstance_id=4914
+ nstance_id=4930
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz-2.1a / Fregat-M•“秃鹰-FKA”（Kondor-FKA）01星•
  俄首颗民用对地观测雷达卫星•18年开始不断延期
-DTSTART;TZID=Asia/Shanghai:20210731
-DTEND;TZID=Asia/Shanghai:20210731
+DTSTART;TZID=Asia/Shanghai:20210831
+DTEND;TZID=Asia/Shanghai:20210831
 UID:93485
 CATEGORIES:Soyuz
 CATEGORIES:Soyuz 2
@@ -1110,7 +1110,7 @@ LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-fregat-m%e2%80%a2%e7%a7
  %83%e9%b9%b0-fka%ef%bc%88kondor-fka%ef%bc%8901%e6%98%9f%e2%80%a2%e4%bf%84%
  e9%a6%96%e9%a2%97%e6%b0%91%e7%94%a8%e5%af%b9%e5%9c%b0%e8%a7%82%e6%b5%8b?in
- stance_id=4733
+ stance_id=4929
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:双曲线一号遥五火箭 • “天书”发射失利后复飞 
@@ -1135,8 +1135,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:捷龙一号遥二火箭 • 仪征二号/仪征三号 • SmartDr
  agon-1 Y2 • YiZheng-2/YiZheng-3
-DTSTART;TZID=Asia/Shanghai:20210731
-DTEND;TZID=Asia/Shanghai:20210731
+DTSTART;TZID=Asia/Shanghai:20210831
+DTEND;TZID=Asia/Shanghai:20210831
 UID:94772
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
@@ -1152,7 +1152,7 @@ LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e6%8d%b7%e9%be%99%e4%b8%80%e5%8f%
  b7%e9%81%a5%e4%ba%8c%e7%81%ab%e7%ae%ad-%e2%80%a2-%e4%bb%aa%e5%be%81%e4%ba%
  8c%e5%8f%b7-%e4%bb%aa%e5%be%81%e4%b8%89%e5%8f%b7-%e2%80%a2-smartdragon-1-y
- 2-%e2%80%a2-yizhen?instance_id=4919
+ 2-%e2%80%a2-yizhen?instance_id=4931
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas 5 • OFT-2 • 波音Starliner载人飞船 • 第二次无
@@ -1193,8 +1193,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第九批次组网发
  射
-DTSTART;TZID=Asia/Shanghai:20210802
-DTEND;TZID=Asia/Shanghai:20210802
+DTSTART;TZID=Asia/Shanghai:20210820
+DTEND;TZID=Asia/Shanghai:20210820
 UID:91028
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
@@ -1203,11 +1203,12 @@ CLASS:PUBLIC
 DESCRIPTION:地点：拜科努尔航天发射场 火箭：Soyuz 2.1b/Frega
  t-M 载荷：第九批次36颗OneWeb互联网通讯卫星 质量：5810kg 
  客户：OneWeb（所有者：英国政府42.2%，Bharti Enterprises 42.2%
- ） 轨道：LEO-450km 火箭组装： 动态： 【2021年03月05日】
- 添加此次任务
+ ） 轨道：LEO-450km 火箭组装： 动态： 【2021年07月21日】
+ 原定于八月初的任务推迟 【2021年03月05日】添加此次任
+ 务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1b-fregat-m-launch-oneweb-
- satellite-batch-9?instance_id=4900
+ satellite-batch-9?instance_id=4934
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征三号乙 • 中星2E通信卫星 • 宽带通信卫星 
@@ -22420,8 +22421,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GSLV Mk 2 • EOS-03(GIAST-1) • 印度地球同步轨道光学
  卫星
-DTSTART;TZID=Asia/Shanghai:20221231
-DTEND;TZID=Asia/Shanghai:20221231
+DTSTART;TZID=Asia/Shanghai:20210812T081300
+DTEND;TZID=Asia/Shanghai:20210812T081300
 UID:68317
 CATEGORIES:GSLV MK2
 CATEGORIES:ISRO
@@ -22442,12 +22443,10 @@ DESCRIPTION:地点：印度斯里赫里戈达岛萨迪什·达万航天中
  率多光谱VNIR（HRMX-VNIR）：50 m分辨率 高分辨率多光谱（HR
  MX-LWIR）：1.5 km分辨率 高光谱VNIR：分辨率为320 m和192 m 任
  务指标 GISAT卫星大致结构 GISAT卫星光路结构 GISAT卫星结
- 构剖析图 &hellip\; <a href="http://www.spaceflightfans.cn/event/gslv-m
- k-2_gisat-1" class="more-link">继续阅读<span class="screen-reader-text
- ">GSLV Mk 2 • EOS-03(GIAST-1) • 印度地球同步轨道光学卫星</
- span> <span class="meta-nav">&rarr\;</span></a>
+ 构剖析图 … 继续阅读GSLV Mk 2 • EOS-03(GIAST-1) • 印度地
+ 球同步轨道光学卫星 →
 LOCATION:印度斯里赫里戈达岛萨迪什·达万航天中心
-URL:http://www.spaceflightfans.cn/event/gslv-mk-2_gisat-1?instance_id=4672
+URL:http://www.spaceflightfans.cn/event/gslv-mk-2_gisat-1?instance_id=4933
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SSLV • Microsat-2a • 首飞测试
