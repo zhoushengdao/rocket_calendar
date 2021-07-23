@@ -1000,8 +1000,8 @@ URL:http://www.spaceflightfans.cn/event/kuaizhou-1a-rocket-launch-jilin-1-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L29批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210731
-DTEND;TZID=Asia/Shanghai:20210731
+DTSTART;TZID=Asia/Shanghai:20210831
+DTEND;TZID=Asia/Shanghai:20210831
 UID:91591
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1014,12 +1014,12 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L29批次星链
  日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l29?instance_id=4918
+ -0-l29?instance_id=4936
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L30批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210731
-DTEND;TZID=Asia/Shanghai:20210731
+DTSTART;TZID=Asia/Shanghai:20210831
+DTEND;TZID=Asia/Shanghai:20210831
 UID:91593
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1031,7 +1031,7 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-30批次星链
  加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l30?instance_id=4831
+ -0-l30?instance_id=4935
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1a • Bars-M No. 3光学侦察卫星
