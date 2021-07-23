@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-07-23T00:35:40
+X-1-EDT:2021-07-24T00:33:51
 X-2-EDT:2021-07-11T16:40:16
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -1115,8 +1115,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:双曲线一号遥五火箭 • “天书”发射失利后复飞 
  • 载荷未知 • Hyperbola-1 Y5
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20210731
+DTEND;TZID=Asia/Shanghai:20210731
 UID:89655
 CATEGORIES:中国发射
 CATEGORIES:双曲线一号
@@ -1124,13 +1124,13 @@ CATEGORIES:星际荣耀
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95B场坪 
  火箭(Vehicle)：双曲线一号遥五运载火箭（Hyperbola-1 Y5） 
- 载荷(Payload)：N/A 轨道(Orbit)：SSO 动态： 【2021年3月6日】
- ：添加此次任务。
+ 载荷(Payload)：N/A 轨道(Orbit)：SSO 动态： 【2021年7月23日】
+ ：还打不打？ 【2021年3月6日】：添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e5%8f%8c%e6%
  9b%b2%e7%ba%bf%e4%b8%80%e5%8f%b7%e9%81%a5%e4%ba%94%e7%81%ab%e7%ae%ad-%e2%8
  0%a2-%e5%a4%a9%e4%b9%a6%e5%8f%91%e5%b0%84%e5%a4%b1%e5%88%a9%e5%90%8e?insta
- nce_id=4927
+ nce_id=4938
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:捷龙一号遥二火箭 • 仪征二号/仪征三号 • SmartDr
@@ -1221,10 +1221,10 @@ CATEGORIES:中国航天科技集团
 CATEGORIES:长征三号乙
 CLASS:PUBLIC
 DESCRIPTION:地点：中国西昌卫星发射中心LC-2 火箭：长征三
- 号乙改二运载火箭 （LongMarch-3B） 载荷：中星2E通信卫星 
- 质量：5400kg 火箭起飞质量：456吨 客户：NF 轨道：GTO 任
- 务代号：？ 动态： 【2021年07月16日】粗调任务时间。 【
- 2021年07月02日】添加此次任务。
+ 号乙改二运载火箭 （LongMarch-3B/G2） 载荷：中星2E通信卫
+ 星 质量：5400kg 火箭起飞质量：456吨 客户：NF 轨道：GTO 
+ 任务代号：？ 动态： 【2021年07月16日】粗调任务时间。 
+ 【2021年07月02日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%b8%89%e5%8f%
  b7%e4%b9%99-%e2%80%a2-%e4%b8%ad%e6%98%9f2e%e9%80%9a%e4%bf%a1%e5%8d%ab%e6%9
@@ -1678,24 +1678,25 @@ URL:http://www.spaceflightfans.cn/event/kuaizhou-1a-rocket-launch-jilin-1-
  gaofen-02f-satellite?instance_id=4688
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:长征四号丙 • 高分三号02星 • LongMarch-4C Y28 • Gao
- Fen-3-02/1m C-Band SAR
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+SUMMARY:长征四号丙 • 高分三号02星 • LongMarch-4C • GaoFen-
+ 3-02/1m C-Band SAR
+DTSTART;TZID=Asia/Shanghai:20210817T060000
+DTEND;TZID=Asia/Shanghai:20210817T060000
 UID:85709
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征四号丙
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心LC-94 火
- 箭(Vehicle)：长征四号丙遥二十八运载火箭（CZ-4C Y28） 载
- 荷(Payload)：高分三号02星 客户(Customer)：国防科工局 重量
- (Mass)：2950kg 轨道(Orbit)：SSO 卫星平台(Satellite Bus)：ZY-2000 
- 设计寿命(Designed Life)：TBD 动态： 【2021年01月11日】添加
- 此次任务。
+ 箭(Vehicle)：长征四号丙运载火箭（CZ-4C） 载荷(Payload)：
+ 高分三号02星 客户(Customer)：国防科工局 重量(Mass)：2950kg
+  轨道(Orbit)：SSO 卫星平台(Satellite Bus)：ZY-2000 设计寿命(De
+ signed Life)：TBD 动态： 【2021年07月23日】由旅行社消息，
+ 修改任务时间为8月17日发射，长四丙执飞。 【2021年01月1
+ 1日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/long-march-4c-launch-gaofen-3-02-s
- atellite?instance_id=4909
+ atellite?instance_id=4940
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征四号丙 • 高分五号02星 • LongMarch-4C Y38 • GF-
@@ -2420,26 +2421,28 @@ URL:http://www.spaceflightfans.cn/event/%e3%80%902021%e5%b9%b45%e6%9c%88%e
  9b%ae%e4%b8%80?instance_id=4692
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【TBD】长征四号丙 • 高分三号03星 • LongMarch-4C Y2
- 9 • GaoFen-3-03/1m C-Band SAR
-DTSTART;TZID=Asia/Shanghai:20211031
-DTEND;TZID=Asia/Shanghai:20211031
+SUMMARY:长征四号丙 • 高分三号03星 • LongMarch-4C • GaoFen-
+ 3-03/1m C-Band SAR
+DTSTART;TZID=Asia/Shanghai:20210904
+DTEND;TZID=Asia/Shanghai:20210904
 UID:92859
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征四号丙
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心LC-94 火
- 箭(Vehicle)：长征四号丙遥二十九运载火箭（CZ-4C Y29） 载
- 荷(Payload)：高分三号03星 客户(Customer)：国防科工局 重量
- (Mass)：2950kg 轨道(Orbit)：SSO 卫星平台(Satellite Bus)：新一
- 代通用中型平台 设计寿命(Designed Life)：TBD 动态： 【2021
- 年06月30日】添加此次任务。
+ 箭(Vehicle)：长征四号丙运载火箭（CZ-4C） 载荷(Payload)：
+ 高分三号03星 客户(Customer)：国防科工局 重量(Mass)：2950kg
+  轨道(Orbit)：SSO 卫星平台(Satellite Bus)：ZY-2000 设计寿命(De
+ signed Life)：TBD 动态： 【2021年07月23日】由发射场测发周
+ 期及任务规律判断，高分三号03星将维持94塔架状态并在1
+ 个测发周期后发射，暂定9月4日。 【2021年06月30日】添加
+ 此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e9%95%bf%e5%
  be%81%e5%9b%9b%e5%8f%b7%e4%b8%99-%e2%80%a2-%e9%ab%98%e5%88%86%e4%b8%89%e5%
  8f%b703%e6%98%9f-%e2%80%a2-longmarch-4c-y29-%e2%80%a2-gaofen-3-03-1m-c-ban
- d-sar?instance_id=4667
+ d-sar?instance_id=4941
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:【待定】Atlas 5 • CFT • 波音Starliner载人飞船 • 
