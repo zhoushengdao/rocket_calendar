@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-07-24T00:33:51
+X-1-EDT:2021-07-25T00:32:25
 X-2-EDT:2021-07-11T16:40:16
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -23253,5 +23253,22 @@ URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e5%85%ad%e5%8f%
  b7%e9%81%a5%e4%b8%83%e7%81%ab%e7%ae%ad-%e2%80%a2-%e4%b8%ad%e7%a7%91%e9%99%
  a2kl-%ce%b2%e5%8f%8c%e6%98%9f-%e2%80%a2-longmarch-6-y7-%e2%80%a2-kl-%ce%b2
  ?instance_id=4926
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soyuz-2-1v • EMKA-2光学侦察卫星
+DTSTART;TZID=Asia/Shanghai:20210725T035900
+DTEND;TZID=Asia/Shanghai:20210725T035900
+UID:95925
+CATEGORIES:Soyuz 2.1v
+CATEGORIES:俄罗斯发射
+CATEGORIES:俄罗斯国防部
+CLASS:PUBLIC
+DESCRIPTION:地点：普列谢茨克航天发射场 火箭：Soyuz 2.1v 
+ 载荷：EMKA-2光学侦察卫星 客户：俄罗斯太空部队 质量：
+ TBD 轨道：SSO 倾角：TBD 动态： 【2021年07月24日】添加此
+ 次任务  
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/soyuz-2-1v-%e2%80%a2-rocket-luanch
+ -emka-2-satellite?instance_id=4944
 END:VEVENT
 END:VCALENDAR
