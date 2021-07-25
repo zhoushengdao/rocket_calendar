@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-07-25T00:32:25
+X-1-EDT:2021-07-26T00:32:17
 X-2-EDT:2021-07-11T16:40:16
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -23254,8 +23254,8 @@ URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e5%85%ad%e5%8f%
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz-2-1v • EMKA-2(Kosmos-2551)光学侦察卫星
-DTSTART;TZID=Asia/Shanghai:20210726T035900
-DTEND;TZID=Asia/Shanghai:20210726T035900
+DTSTART;TZID=Asia/Shanghai:20210731
+DTEND;TZID=Asia/Shanghai:20210731
 UID:95925
 CATEGORIES:Soyuz 2.1v
 CATEGORIES:俄罗斯发射
@@ -23267,6 +23267,6 @@ DESCRIPTION:地点：普列谢茨克航天发射场 火箭：Soyuz 2.1v
  】发射任务推迟 【2021年07月24日】添加此次任务  
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1v-%e2%80%a2-rocket-luanch
- -emka-2-satellite?instance_id=4948
+ -emka-2-satellite?instance_id=4949
 END:VEVENT
 END:VCALENDAR
