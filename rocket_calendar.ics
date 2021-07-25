@@ -1226,10 +1226,8 @@ DESCRIPTION:地点：中国西昌卫星发射中心LC-2 火箭：长征三
  任务代号：？ 动态： 【2021年07月16日】粗调任务时间。 
  【2021年07月02日】添加此次任务。
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%b8%89%e5%8f%
- b7%e4%b9%99-%e2%80%a2-%e4%b8%ad%e6%98%9f2e%e9%80%9a%e4%bf%a1%e5%8d%ab%e6%9
- 8%9f-%e2%80%a2-%e5%ae%bd%e5%b8%a6%e9%80%9a%e4%bf%a1%e5%8d%ab%e6%98%9f-%e2%
- 80%a2-longmarch-3b?instance_id=4922
+URL:http://www.spaceflightfans.cn/event/long-march-3b-launch-chinasat-2e-s
+ atellite?instance_id=4922
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vega • Pléiades-Neo 4地球遥感卫星
@@ -23255,20 +23253,20 @@ URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e5%85%ad%e5%8f%
  ?instance_id=4926
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Soyuz-2-1v • EMKA-2光学侦察卫星
-DTSTART;TZID=Asia/Shanghai:20210725T035900
-DTEND;TZID=Asia/Shanghai:20210725T035900
+SUMMARY:Soyuz-2-1v • EMKA-2(Kosmos-2551)光学侦察卫星
+DTSTART;TZID=Asia/Shanghai:20210726T035900
+DTEND;TZID=Asia/Shanghai:20210726T035900
 UID:95925
 CATEGORIES:Soyuz 2.1v
 CATEGORIES:俄罗斯发射
 CATEGORIES:俄罗斯国防部
 CLASS:PUBLIC
 DESCRIPTION:地点：普列谢茨克航天发射场 火箭：Soyuz 2.1v 
- 载荷：EMKA-2光学侦察卫星 客户：俄罗斯太空部队 质量：
- TBD 轨道：SSO 倾角：TBD 动态： 【2021年07月24日】添加此
- 次任务  
+ 载荷：EMKA-2(Kosmos-2551)光学侦察卫星 客户：俄罗斯太空部
+ 队 质量：TBD 轨道：SSO 倾角：TBD 动态： 【2021年07月25日
+ 】发射任务推迟 【2021年07月24日】添加此次任务  
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1v-%e2%80%a2-rocket-luanch
- -emka-2-satellite?instance_id=4944
+ -emka-2-satellite?instance_id=4948
 END:VEVENT
 END:VCALENDAR
