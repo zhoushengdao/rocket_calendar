@@ -23270,4 +23270,24 @@ LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1v-%e2%80%a2-rocket-luanch
  -emka-2-satellite?instance_id=4949
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:长征二号丁 • 天绘一号04星 • LongMarch-2D • TianHui
+ -1-04
+DTSTART;TZID=Asia/Shanghai:20210729T115000
+DTEND;TZID=Asia/Shanghai:20210729T115000
+UID:95196
+CATEGORIES:中国发射
+CATEGORIES:中国航天科技集团
+CATEGORIES:长征二号丁
+CLASS:PUBLIC
+DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心LC-94 火
+ 箭(Vehicle)：长征二号丁运载火箭（CZ-2D） 载荷(Payload)：
+ 天绘一号04星 客户(Customer)：TBD 重量(Mass)：TBD 轨道(Orbit)
+ ：490km SSO 卫星平台(Satellite Bus)：CAST-2000 设计寿命(Designed
+  Life)：TBD 动态： 【2021年07月25日】预计07月29日 11：50左
+ 右发射 【2021年06月30日】添加此次任务。
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/long-march-2d-launch-tianhui-4-sat
+ ellite?instance_id=4947
+END:VEVENT
 END:VCALENDAR
