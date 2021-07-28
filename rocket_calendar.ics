@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-07-28T00:33:36
+X-1-EDT:2021-07-29T00:35:14
 X-2-EDT:2021-07-11T16:40:16
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -20485,8 +20485,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electron • STP-27RM(Monolith) • 该火箭二次失败后复飞
  任务
-DTSTART;TZID=Asia/Shanghai:20210729T160000
-DTEND;TZID=Asia/Shanghai:20210729T160000
+DTSTART;TZID=Asia/Shanghai:20210729T140000
+DTEND;TZID=Asia/Shanghai:20210729T140000
 UID:79610
 CATEGORIES:Electron
 CATEGORIES:RocketLab
@@ -20494,14 +20494,15 @@ CATEGORIES:美国发射
 CLASS:PUBLIC
 DESCRIPTION:简要信息： 地点：新西兰玛西亚半岛航天发射
  场 LC-1A 火箭：Electron(电子) 载荷：STP-27RM 质量：TBD 客户
- ：美国空军 轨道：TBD 箭体名：TBD 官网信息：   火箭信
- 息： 动态： 【2021年07月28日】预计07月29日 14：00发射 【
- 2021年07月28日】此次发射改为新西兰玛西亚半岛发射场进
+ ：美国太空军 轨道：TBD 箭体名：It’s a Little Chile Up Here 
+ 火箭信息： 动态： 【2021年07月28日】预计07月29日 14：00
+ 发射 【2021年07月28日】此次发射由于NASA对Electron火箭自
+ 毁系统的审核延期，遂改回新西兰玛西亚半岛发射场进
  行 【2020年11月16日】根据新闻信息，本次任务推迟至2021 
  【2020年09月03日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron-%e2%80%a2-rocket-launch-u
- s-air-froce-stp-27rm?instance_id=4961
+ s-air-froce-stp-27rm?instance_id=4962
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • Meteor-M №2-3/Monitor-1/Monitor-2
