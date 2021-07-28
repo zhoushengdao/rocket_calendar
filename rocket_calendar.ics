@@ -1573,21 +1573,21 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
  -0-l35?instance_id=4724
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 • V1.0-L36批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+SUMMARY:Falcon 9 • V2.0-L1批次Starlink通信卫星组网发射
+DTSTART;TZID=Asia/Shanghai:20210810
+DTEND;TZID=Asia/Shanghai:20210810
 UID:93380
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
 CLASS:PUBLIC
-DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-36批次星链
- 组网卫星（Starlink） 质量：单星260kg 客户：SpaceX 轨道：L
- EO 芯级：TBD 回收：海上回收 动态： 【2021年05月16日】添
- 加此次任务
+DESCRIPTION:地点：范登堡SLC-4E 火箭：Falcon 9 载荷：V2.0 L1批
+ 次星链组网卫星（Starlink） 质量：单星260kg 客户：SpaceX 
+ 轨道：SSO，70度 芯级：B1051-10 回收：“我依旧爱你”号
+ 回收船海上回收 动态： 【2021年05月16日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l36?instance_id=4725
+ -0-l36?instance_id=4960
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1a • Soyuz MS-20•  俄罗斯12天太空游客服务，
@@ -20483,27 +20483,25 @@ URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e9%95%bf%e5%
  96%b0%e4%b8%80?instance_id=4378
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Electron • STP-27RM(Monolith) • 该火箭首次在瓦普勒斯
- 岛执行发射任务
-DTSTART;TZID=Asia/Shanghai:20211130
-DTEND;TZID=Asia/Shanghai:20211130
+SUMMARY:Electron • STP-27RM(Monolith) • 该火箭二次失败后复飞
+ 任务
+DTSTART;TZID=Asia/Shanghai:20210729T160000
+DTEND;TZID=Asia/Shanghai:20210729T160000
 UID:79610
 CATEGORIES:Electron
 CATEGORIES:RocketLab
 CATEGORIES:美国发射
 CLASS:PUBLIC
-DESCRIPTION:简要信息： 地点：瓦普勒斯岛 Launch Complex 2 火
- 箭：Electron(电子) 箭体名：TBD 载荷：STP-27RM 质量：TBD 客
- 户：美国空军 轨道：TBD 官网信息： LONG BEACH\, Calif. [29 Ap
- ril 2020] – Rocket Lab\, a space technology company and the global leade
- r in dedicated small satellite launch\, has &hellip\; <a href="http://www.
- spaceflightfans.cn/event/electron-%e2%80%a2-rocket-launch-us-air-froce-stp
- -27rm" class="more-link">继续阅读<span class="screen-reader-text">Elec
- tron • STP-27RM(Monolith) • 该火箭首次在瓦普勒斯岛执行发
- 射任务</span> <span class="meta-nav">&rarr\;</span></a>
+DESCRIPTION:简要信息： 地点：新西兰玛西亚半岛航天发射
+ 场 LC-1A 火箭：Electron(电子) 载荷：STP-27RM 质量：TBD 客户
+ ：美国空军 轨道：TBD 箭体名：TBD 官网信息：   火箭信
+ 息： 动态： 【2021年07月28日】预计07月29日 14：00发射 【
+ 2021年07月28日】此次发射改为新西兰玛西亚半岛发射场进
+ 行 【2020年11月16日】根据新闻信息，本次任务推迟至2021 
+ 【2020年09月03日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron-%e2%80%a2-rocket-launch-u
- s-air-froce-stp-27rm?instance_id=4906
+ s-air-froce-stp-27rm?instance_id=4961
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • Meteor-M №2-3/Monitor-1/Monitor-2
