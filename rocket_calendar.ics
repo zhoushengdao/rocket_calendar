@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-07-30T00:34:32
+X-1-EDT:2021-07-31T00:33:30
 X-2-EDT:2021-07-11T16:40:16
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -1116,8 +1116,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:双曲线一号遥五火箭 • “天书”发射失利后复飞 
  • 载荷未知 • Hyperbola-1 Y5
-DTSTART;TZID=Asia/Shanghai:20210731
-DTEND;TZID=Asia/Shanghai:20210731
+DTSTART;TZID=Asia/Shanghai:20210831
+DTEND;TZID=Asia/Shanghai:20210831
 UID:89655
 CATEGORIES:中国发射
 CATEGORIES:双曲线一号
@@ -1125,13 +1125,11 @@ CATEGORIES:星际荣耀
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95B场坪 
  火箭(Vehicle)：双曲线一号遥五运载火箭（Hyperbola-1 Y5） 
- 载荷(Payload)：N/A 轨道(Orbit)：SSO 动态： 【2021年7月23日】
- ：还打不打？ 【2021年3月6日】：添加此次任务。
+ 载荷(Payload)：N/A 轨道(Orbit)：SSO 动态： 【2021年7月30日】
+ ：这个月够呛了。 【2021年7月23日】：还打不打？ 【2021
+ 年3月6日】：添加此次任务。
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e5%8f%8c%e6%
- 9b%b2%e7%ba%bf%e4%b8%80%e5%8f%b7%e9%81%a5%e4%ba%94%e7%81%ab%e7%ae%ad-%e2%8
- 0%a2-%e5%a4%a9%e4%b9%a6%e5%8f%91%e5%b0%84%e5%a4%b1%e5%88%a9%e5%90%8e?insta
- nce_id=4938
+URL:http://www.spaceflightfans.cn/event/hyperbola-1_y5?instance_id=4966
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:捷龙一号遥二火箭 • 仪征二号/仪征三号 • SmartDr
