@@ -1158,8 +1158,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas 5 • OFT-2 • 波音Starliner载人飞船 • 第二次无
  人测试飞行
-DTSTART;TZID=Asia/Shanghai:20210731T025300
-DTEND;TZID=Asia/Shanghai:20210731T025300
+DTSTART;TZID=Asia/Shanghai:20210803
+DTEND;TZID=Asia/Shanghai:20210803
 UID:70906
 CATEGORIES:Atlas 5
 CATEGORIES:ULA（联合发射联盟）
@@ -1189,7 +1189,7 @@ DESCRIPTION:地点：美国佛州卡纳维拉尔角空军基地 SLC-41 火
  • 第二次无人测试飞行 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/atlas-5-rocket-launch-oft-2-spacec
- raft?instance_id=4699
+ raft?instance_id=4965
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第九批次组网发
