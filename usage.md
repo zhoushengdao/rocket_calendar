@@ -37,7 +37,7 @@
 [ve]: https://rc-ics.vercel.app/rocket_calendar.ics (rc-ics.vercel.app)
 [ice]: http://www.icalx.com/public/zhoushengdao/rocket_calendar.ics (www.icalx.com)
 [fg]: https://hub.fastgit.org/zhoushengdao/rocket_calendar/raw/master/rocket_calendar.ics (hub.fastgit.org)
-[jd]: https://cdn.jsdelivr.net/gh/zhoushengdao/rocket_calendar@master/usage.md (cdn.jsdelivr.net)
+[jd]: https://cdn.jsdelivr.net/gh/zhoushengdao/rocket_calendar@master/rocket_calendar.ics (cdn.jsdelivr.net)
 [ics]: #日历文件的地址
 [thunderbirdhelp]: https://support.mozilla.org/zh-CN/kb/%E6%B7%BB%E5%8A%A0%E5%81%87%E6%9C%9F%E6%97%A5%E5%8E%86#w_ding-yue-yuan-cheng-ri-li
 [outlookhelp]: https://support.microsoft.com/zh-cn/office/%E5%9C%A8-outlook-com-%E4%B8%AD%E5%AF%BC%E5%85%A5%E6%88%96%E8%AE%A2%E9%98%85%E6%97%A5%E5%8E%86-cff1429c-5af6-41ec-a5b4-74f2c278e98c
