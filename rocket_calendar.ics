@@ -943,7 +943,8 @@ URL:http://www.spaceflightfans.cn/event/long-march-2c-rocket-launch-yaogan
  30-10-satellite?instance_id=4921
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ariane 5 ECA VZ-254 • Star One D2 • Eutelsat-Quantum
+SUMMARY:Ariane 5 ECA VA-254 • Star One D2 • Eutelsat-Quantum • 发
+ 射成功
 DTSTART;TZID=Asia/Shanghai:20210731T050000
 DTEND;TZID=Asia/Shanghai:20210731T050000
 UID:78796
@@ -1210,8 +1211,8 @@ URL:http://www.spaceflightfans.cn/event/soyuz-2-1b-fregat-m-launch-oneweb-
  satellite-batch-9?instance_id=4934
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:长征三号乙 • 中星2E通信卫星 • 宽带通信卫星 
- • LongMarch-3B/G2 • CHINASAT-2E
+SUMMARY:长征三号乙改三遥七十六 • 中星2E通信卫星 • Lon
+ gMarch-3B/G3 Y76 • CHINASAT-2E
 DTSTART;TZID=Asia/Shanghai:20210805T230000
 DTEND;TZID=Asia/Shanghai:20210805T230000
 UID:95288
@@ -1220,10 +1221,10 @@ CATEGORIES:中国航天科技集团
 CATEGORIES:长征三号乙
 CLASS:PUBLIC
 DESCRIPTION:地点：中国西昌卫星发射中心LC-2 火箭：长征三
- 号乙改二运载火箭 （LongMarch-3B/G2） 载荷：中星2E通信卫
- 星 质量：5400kg 火箭起飞质量：456吨 客户：NF 轨道：GTO 
- 任务代号：？ 动态： 【2021年07月16日】粗调任务时间。 
- 【2021年07月02日】添加此次任务。
+ 号乙改三遥七十六运载火箭（LongMarch-3B/G3 Y76） 载荷：中
+ 星2E通信卫星 质量：5400kg 火箭起飞质量：456吨 客户：NF 
+ 轨道：GTO 任务代号：？ 动态： 【2021年07月16日】粗调任
+ 务时间。 【2021年07月02日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/long-march-3b-launch-chinasat-2e-s
  atellite?instance_id=4922
