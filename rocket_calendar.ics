@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-07-31T00:33:30
+X-1-EDT:2021-08-01T00:32:11
 X-2-EDT:2021-07-11T16:40:16
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -1319,8 +1319,8 @@ URL:http://www.spaceflightfans.cn/event/antares-%e2%80%a2-cygnus-ng-15-%e2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • CRS-23 • 国际空间站货运补给任务
-DTSTART;TZID=Asia/Shanghai:20210818T180000
-DTEND;TZID=Asia/Shanghai:20210818T180000
+DTSTART;TZID=Asia/Shanghai:20210829
+DTEND;TZID=Asia/Shanghai:20210829
 UID:88337
 CATEGORIES:Falcon 9
 CATEGORIES:NASA
@@ -1333,11 +1333,12 @@ DESCRIPTION:（任务logo） 地点：肯尼迪航天中心 火箭：Falco
  货物：TBD 货运2代龙飞船基本情况，其对于载人龙飞船取
  消了逃逸使用的超级天龙发动机，非加压舱段取消一对
  飞翼。不过单次货运飞船任务的价格倒是比载人飞船价
- 格更贵。 动态： 【2021年07月10日】预计08月18日 18：00发
- 射 【2021年02月14日】添加此次任务，预计8月份发射。
+ 格更贵。 动态： 【2021年07月31日】原定于08月18日的任务
+ 推迟 【2021年07月10日】预计08月18日 18：00发射 【2021年02
+ 月14日】添加此次任务，预计8月份发射。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-crs-23-inte
- rnational-space-station-resupply-mission?instance_id=4920
+ rnational-space-station-resupply-mission?instance_id=4974
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alpha • Spinnaker 3\, NPS-CENETIX-Orbital 1\, Teachers in Space 
@@ -1720,10 +1721,10 @@ URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e9%95%bf%e5%
  c-%e2%80%a2-gf-5-0?instance_id=4760
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【TBD】长征三号乙 • 中星9B通信卫星 • 中星9A替
- 代星 • LongMarch-3B/G2 • CHINASAT 9B
-DTSTART;TZID=Asia/Shanghai:20210908
-DTEND;TZID=Asia/Shanghai:20210908
+SUMMARY:【2021年9月待定】长征三号乙 • 中星9B电视直播卫
+ 星 • 中星9A替代星 • LongMarch-3B/G2 • CHINASAT 9B
+DTSTART;TZID=Asia/Shanghai:20210909T190000
+DTEND;TZID=Asia/Shanghai:20210909T190000
 UID:85700
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
@@ -1734,12 +1735,12 @@ DESCRIPTION:地点(Launch Site)：中国西昌卫星发射中心 火箭(Ve
  load)：中星9B通信卫星（CHINASAT 9B） 客户(Customer)：中国卫
  通 重量(Mass)：5550kg 轨道(Orbit)：GTO 设计寿命：15年 卫星
  平台：东方红四号增强型平台（DFH-4E） 任务代号：N/A 通
- 信容量：N/A 【2021.01.11】添加此次任务。
+ 信容量：N/A 【2021年01月11日】：添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e9%95%bf%e5%
  be%81%e4%b8%89%e5%8f%b7%e4%b9%99-%e2%80%a2-%e4%b8%ad%e6%98%9f9b%e9%80%9a%e
  4%bf%a1%e5%8d%ab%e6%98%9f-%e2%80%a2-longmarch-3b-g2-%e2%80%a2-chinasat-9b?
- instance_id=4895
+ instance_id=4968
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第十批次组网发
@@ -23290,8 +23291,8 @@ URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e5%85%ad%e5%8f%
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz-2-1v • EMKA-2(Kosmos-2551)光学侦察卫星
-DTSTART;TZID=Asia/Shanghai:20210731
-DTEND;TZID=Asia/Shanghai:20210731
+DTSTART;TZID=Asia/Shanghai:20210831
+DTEND;TZID=Asia/Shanghai:20210831
 UID:95925
 CATEGORIES:Soyuz 2.1v
 CATEGORIES:俄罗斯发射
@@ -23303,7 +23304,7 @@ DESCRIPTION:地点：普列谢茨克航天发射场 火箭：Soyuz 2.1v
  】发射任务推迟 【2021年07月24日】添加此次任务  
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1v-%e2%80%a2-rocket-luanch
- -emka-2-satellite?instance_id=4949
+ -emka-2-satellite?instance_id=4972
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号丁 • 天绘一号04星 • 发射成功 • LongMar
