@@ -21,7 +21,7 @@
 | [Github][github] | 代码托管及自动运行环境 |  
 
 ## 支持项目  
-你可以通过各种方式来支持该项目，比如给它加个星，提出新的建议，或者给予物质上的支持：  
+你可以通过各种方式来支持该项目，比如给它加个星，提出新的建议，或者[给予物质上的支持][sponsor]：  
   - [爱发电][afdian]  
   - [顿顿饭][dun]  
 
@@ -33,5 +33,6 @@
 [icalendar]: https://icalendar.readthedocs.io/ (icalendar.readthedocs.io)
 [beautifulsoup]: https://www.crummy.com/software/BeautifulSoup/ (www.crummy.com)
 [github]: https://github.com/ (github.com)
+[sponsor]: https://github.com/zhoushengdao/rocket_calendar?sponsor=1 (github.com)
 [afdian]: https://afdian.net/@zhoushengdao (afdian.net)
 [dun]: https://dun.mianbaoduo.com/@%E5%91%A8%E7%9B%9B%E9%81%93 (dun.mianbaoduo.com)
