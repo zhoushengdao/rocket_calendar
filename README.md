@@ -3,7 +3,7 @@
 这是一个自动从网上爬取火箭发射日期的程序。它可以自动生成一个日历文件，供您订阅。  
 
 ## 预览
-![预览图](image/README/预览图.png)
+![预览图](https://cdn.jsdelivr.net/gh/zhoushengdao/rocket_calendar@master/image/README/%E9%A2%84%E8%A7%88%E5%9B%BE.png)
 
 ## 使用方法
 该程序生成的文件以 [RFC 5545][rfc5545] 为标准。因此，任何支持 [RFC 5545][rfc5545]（iCalendar）的程序均可打开它。  
