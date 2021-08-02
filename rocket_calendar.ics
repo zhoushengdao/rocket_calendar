@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-02T00:32:23
+X-1-EDT:2021-08-03T00:34:01
 X-2-EDT:2021-07-11T16:40:16
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -1116,10 +1116,10 @@ URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-fregat-m%e2%80%a2%e7%a7
  stance_id=4929
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:双曲线一号遥五火箭 • “天书”发射失利后复飞 
- • 载荷未知 • Hyperbola-1 Y5
-DTSTART;TZID=Asia/Shanghai:20210803
-DTEND;TZID=Asia/Shanghai:20210803
+SUMMARY:双曲线一号遥五 • “天书”发射失利后复飞 • 
+ 载荷未知 • Hyperbola-1 Y5
+DTSTART;TZID=Asia/Shanghai:20210803T155800
+DTEND;TZID=Asia/Shanghai:20210803T155800
 UID:89655
 CATEGORIES:中国发射
 CATEGORIES:双曲线一号
@@ -1127,13 +1127,15 @@ CATEGORIES:星际荣耀
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95B场坪 
  火箭(Vehicle)：双曲线一号遥五运载火箭（Hyperbola-1 Y5） 
- 载荷(Payload)：N/A 轨道(Orbit)：SSO 动态： 【2021年8月2日】
- ：确定将于2021年08月03日，双曲线一号遥五运载火箭在酒
- 泉卫星发射中心执行发射任务，为双曲线一号火箭的复
- 飞任务。 【2021年7月23日】：还打不打？ 【2021年3月6日
- 】：添加此次任务。
+ 起飞质量：34吨 载荷(Payload)：N/A 轨道(Orbit)：SSO 动态： 
+ 【2021年08月03日】：NOTAM已出，确定为北京时间15:43—16:15
+ 间择机发射。 A0753/21 NOTAMN Q) VCCF/QRDCA/IV/BO/W/000/999/0116N0912
+ 0E030 A) VCCF B) 2108030743 C) 2108030815 E) DUE TO AN AEROSPACE FLIGHT AC
+ T BY CHINA\, FOLLOWING AREA WI COLOMBO FIR DECLARED AS … 继续阅读双
+ 曲线一号遥五 • “天书”发射失利后复飞 • 载荷未知 
+ • Hyperbola-1 Y5 →
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/hyperbola-1_y5?instance_id=4977
+URL:http://www.spaceflightfans.cn/event/hyperbola-1_y5?instance_id=4979
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:捷龙一号遥二火箭 • 仪征二号/仪征三号 • SmartDr
