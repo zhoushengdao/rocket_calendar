@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-03T00:34:01
+X-1-EDT:2021-08-04T00:37:04
 X-2-EDT:2021-07-11T16:40:16
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -1117,8 +1117,8 @@ URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-fregat-m%e2%80%a2%e7%a7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:双曲线一号 • 暨“天书”发射失利后复飞 • 吉
- 林一号魔方01A及配重 • 发射二度失利 • Hyperbola-1 Y5 • 
- JL-1-Cube-01A
+ 林一号魔方01A及配重 • 发射失败 • Hyperbola-1 Y5 • JL-1-C
+ ube-01A
 DTSTART;TZID=Asia/Shanghai:20210803T153900
 DTEND;TZID=Asia/Shanghai:20210803T153900
 UID:89655
@@ -1130,15 +1130,18 @@ DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95B场坪
  火箭(Vehicle)：双曲线一号遥五运载火箭（Hyperbola-1 Y5） 
  起飞质量：34吨 载荷(Payload)：吉林一号魔方01A，配重块
  等 轨道(Orbit)：SSO 火箭手册：星际荣耀双曲线一号用户
- 手册 火箭信息：   动态： 【2021年08月03日】：据多方消
- 息，载荷吉林一号魔方01A未进入预定轨道，发射失利。
- 等待官方通稿中。 【2021年08月03日】：NOTAM已出，确定为
- 北京时间15:43—16:15间择机发射。 A0753/21 NOTAMN Q) VCCF/QRDCA/
- IV/BO/W/000/999/0116N09120E030 A) VCCF B) 2108030743 C) 2108030815 E) DUE 
- TO AN AEROSPACE FLIGHT ACT BY CHINA\, FOLLOWING AREA WI … 继续阅读
- 双曲线一号 • 暨“天书”发射失利后复飞 • 吉林一号
- 魔方01A及配重 • 发射二度失利 • Hyperbola-1 Y5 • JL-1-Cube
- -01A →
+ 手册 火箭信息：   动态： 【2021年08月03日】新华社消息
+ ，8月3日15时39分，双曲线一号第3发民营商业运载火箭在
+ 我国酒泉卫星发射中心点火升空，火箭飞行异常，卫星
+ 分离后未正常入轨，飞行试验未达到预期目的。 【2021年
+ 08月03日】据多方消息，载荷吉林一号魔方01A未进入预定
+ 轨道，发射失利。等待官方通稿中。 【2021年08月03日】NO
+ TAM已出，确定为北京时间15:43—16:15间择机发射。 A0753/21 
+ NOTAMN Q) VCCF/QRDCA/IV/BO/W/000/999/0116N09120E030 A) VCCF B) 2108030743 
+ C) 2108030815 E) DUE TO AN AEROSPACE FLIGHT ACT BY CHINA\, FOLLOWING AREA 
+ … 继续阅读双曲线一号 • 暨“天书”发射失利后复飞 
+ • 吉林一号魔方01A及配重 • 发射失败 • Hyperbola-1 Y5 •
+  JL-1-Cube-01A →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/hyperbola-1_y5?instance_id=4980
 END:VEVENT
@@ -1167,8 +1170,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas 5 • OFT-2 • 波音Starliner载人飞船 • 第二次无
  人测试飞行
-DTSTART;TZID=Asia/Shanghai:20210804T012000
-DTEND;TZID=Asia/Shanghai:20210804T012000
+DTSTART;TZID=Asia/Shanghai:20210810
+DTEND;TZID=Asia/Shanghai:20210810
 UID:70906
 CATEGORIES:Atlas 5
 CATEGORIES:ULA（联合发射联盟）
@@ -1198,7 +1201,7 @@ DESCRIPTION:地点：美国佛州卡纳维拉尔角空军基地 SLC-41 火
  • 第二次无人测试飞行 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/atlas-5-rocket-launch-oft-2-spacec
- raft?instance_id=4973
+ raft?instance_id=4982
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第九批次组网发
@@ -1247,7 +1250,8 @@ SUMMARY:Vega • Pléiades-Neo 4地球遥感卫星
 DTSTART;TZID=Asia/Shanghai:20210816T095000
 DTEND;TZID=Asia/Shanghai:20210816T095000
 UID:93716
-CATEGORIES:
+CATEGORIES:Vega
+CATEGORIES:欧洲发射
 CLASS:PUBLIC
 DESCRIPTION:地点：法属圭亚那库鲁圭亚那太空中心 ELV 火箭
  ：VEGA 织女星运载火箭 箭体：VV19 客户：CNES\,NOSA等 载荷
@@ -1373,48 +1377,45 @@ URL:http://www.spaceflightfans.cn/event/alpha-rocket-first-launch?instance
  _id=4885
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ariane 5 ECA •  SES 17 / Ovzon-3 一箭双星• 重型猎鹰丢
- 掉订单
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+SUMMARY:Ariane 5 ECA • SES-17 / Syracuse 4A (Comsat-NG 1) 一箭双星 
+ • 重型猎鹰丢掉订单
+DTSTART;TZID=Asia/Shanghai:20210930
+DTEND;TZID=Asia/Shanghai:20210930
 UID:42228
 CATEGORIES:Ariane 5
 CATEGORIES:Arianespace
 CATEGORIES:欧洲发射
 CLASS:PUBLIC
 DESCRIPTION:地点：法属圭亚那库鲁圭亚那太空中心 ELA-3工
- 位 火箭：Ariane 5 ECA 载荷：Ovzon-3，SES-17 质量：Ovzon-3(约15
- 00kg) + SES-17(约6000kg) 客户：Ovzon，SES 寿命：Ovzon-3(20年) SES
- -17(15年) 平台：SSL-500 Legion class(Ovzon-3) Spacebus-Neo(SES-17) 轨
- 道：GTO 看点： 叛逃任务：【《航天新闻》8月24日报道，
- 航小宇翻译】瑞典卫星宽带创企离区公司（Ovzon）8月24日
- 称，阿里安航天公司就2021年用阿里安5发射其首颗完全自
- 有卫星给出了更好的报价，促使其退掉了用太空探索公
- 司“重型猎鹰”来发射该星的协议。该公司在8月23日的
- 收益报告中披露了这一火箭转换，称其“最近同阿里安
- 航天公司签署了2021年发射我们的卫星的合同”。该公司
- 说：“我们由此退出了原有的初步协议。” 相关新闻： 
- “重鹰”一客户退订，改用阿里安5 简介：（机翻，凑活
- 看，原文地址） 一家计划使用地球静止通信卫星的瑞典
- 公司于10月16日宣布与SpaceX签订一份不早于2020年第四季度
- 的Falcon Heavy发射合同。 瑞典索尔纳的Ovzon尚未购买该卫
- 星，但今年早些时候向Eutelsat支付了160万美元，用于将其
- 中一颗卫星移至一个未指明的Ovzon轨道位置，以保留该地
- 区的频谱权。 Ovzon首席执行官Per Wahlberg在声明中表示，
- 该公司第一颗卫星的采购“处于最后阶段”，并且本月
- 早些时候开始生产先进的板载处理器。 “与我们公司的
- 第一个Ovzon卫星的发射供应商签约是一个重要且令人兴奋
- 的步骤。 SpaceX为Falcon Heavy运载火箭提供了一个非常有竞
- 争力的解决方案，它将使我们能够及时可靠地进入太空
- ，“他说。 SpaceX的总裁兼首席运营官Gwynne Shotwell表示，
- 该公司“很荣幸Ovzon选择SpaceX发射其首批卫星”。 她在
- 声明中说：“我们期待着在执行这项重要的直接到GEO任
- 务时密切合作。” Ovzon告诫说，Falcon Heavy合同“受到某
- 些意外事件和相互终止条款的约束”。 … 继续阅读Ariane
-  5 ECA •  SES 17 / Ovzon-3 一箭双星• 重型猎鹰丢掉订单 →
+ 位 火箭：Ariane 5 ECA 载荷：Syracuse 4A (Comsat-NG 1)，SES-17 质
+ 量：Syracuse 4A(约3500kg) + SES-17(约6000kg) 客户：Directorate Gene
+ ral of Armaments，SES 寿命：均为15年 平台：两颗星均基于Spa
+ cebus Neo平台建造 轨道：GTO 看点： 叛逃任务：【《航天
+ 新闻》8月24日报道，航小宇翻译】瑞典卫星宽带创企离
+ 区公司（Ovzon）8月24日称，阿里安航天公司就2021年用阿
+ 里安5发射其首颗完全自有卫星给出了更好的报价，促使
+ 其退掉了用太空探索公司“重型猎鹰”来发射该星的协
+ 议。该公司在8月23日的收益报告中披露了这一火箭转换
+ ，称其“最近同阿里安航天公司签署了2021年发射我们的
+ 卫星的合同”。该公司说：“我们由此退出了原有的初
+ 步协议。” 相关新闻： “重鹰”一客户退订，改用阿里
+ 安5 简介：（机翻，凑活看，原文地址） 一家计划使用
+ 地球静止通信卫星的瑞典公司于10月16日宣布与SpaceX签订
+ 一份不早于2020年第四季度的Falcon Heavy发射合同。 瑞典索
+ 尔纳的Ovzon尚未购买该卫星，但今年早些时候向Eutelsat支
+ 付了160万美元，用于将其中一颗卫星移至一个未指明的Ov
+ zon轨道位置，以保留该地区的频谱权。 Ovzon首席执行官Pe
+ r Wahlberg在声明中表示，该公司第一颗卫星的采购“处于
+ 最后阶段”，并且本月早些时候开始生产先进的板载处
+ 理器。 “与我们公司的第一个Ovzon卫星的发射供应商签
+ 约是一个重要且令人兴奋的步骤。 SpaceX为Falcon Heavy运载
+ 火箭提供了一个非常有竞争力的解决方案，它将使我们
+ 能够及时可靠地进入太空，“他说。 SpaceX的总裁兼首席
+ 运营官Gwynne … 继续阅读Ariane 5 ECA • SES-17 / Syracuse 4A (Com
+ sat-NG 1) 一箭双星 • 重型猎鹰丢掉订单 →
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/falcon-heavy_ovzon-3?instance_id=4
- 620
+URL:http://www.spaceflightfans.cn/event/ariane-5-rocket-launch-ses-17-and-
+ syracuse-4a-comsat-ng-1?instance_id=4943
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 511 • AFSPC-8（GSSAP-5＆6监视卫星） • 新构型
