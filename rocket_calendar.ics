@@ -1116,8 +1116,9 @@ URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-fregat-m%e2%80%a2%e7%a7
  stance_id=4929
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:双曲线一号遥五 • “天书”发射失利后复飞 • 
- 载荷未知 • Hyperbola-1 Y5
+SUMMARY:双曲线一号 • 暨“天书”发射失利后复飞 • 吉
+ 林一号魔方01A及配重 • 发射二度失利 • Hyperbola-1 Y5 • 
+ JL-1-Cube-01A
 DTSTART;TZID=Asia/Shanghai:20210803T153900
 DTEND;TZID=Asia/Shanghai:20210803T153900
 UID:89655
@@ -1127,13 +1128,17 @@ CATEGORIES:星际荣耀
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95B场坪 
  火箭(Vehicle)：双曲线一号遥五运载火箭（Hyperbola-1 Y5） 
- 起飞质量：34吨 载荷(Payload)：N/A 轨道(Orbit)：SSO 动态： 
- 【2021年08月03日】：NOTAM已出，确定为北京时间15:43—16:15
- 间择机发射。 A0753/21 NOTAMN Q) VCCF/QRDCA/IV/BO/W/000/999/0116N0912
- 0E030 A) VCCF B) 2108030743 C) 2108030815 E) DUE TO AN AEROSPACE FLIGHT AC
- T BY CHINA\, FOLLOWING AREA WI COLOMBO FIR DECLARED AS … 继续阅读双
- 曲线一号遥五 • “天书”发射失利后复飞 • 载荷未知 
- • Hyperbola-1 Y5 →
+ 起飞质量：34吨 载荷(Payload)：吉林一号魔方01A，配重块
+ 等 轨道(Orbit)：SSO 火箭手册：星际荣耀双曲线一号用户
+ 手册 火箭信息：   动态： 【2021年08月03日】：据多方消
+ 息，载荷吉林一号魔方01A未进入预定轨道，发射失利。
+ 等待官方通稿中。 【2021年08月03日】：NOTAM已出，确定为
+ 北京时间15:43—16:15间择机发射。 A0753/21 NOTAMN Q) VCCF/QRDCA/
+ IV/BO/W/000/999/0116N09120E030 A) VCCF B) 2108030743 C) 2108030815 E) DUE 
+ TO AN AEROSPACE FLIGHT ACT BY CHINA\, FOLLOWING AREA WI … 继续阅读
+ 双曲线一号 • 暨“天书”发射失利后复飞 • 吉林一号
+ 魔方01A及配重 • 发射二度失利 • Hyperbola-1 Y5 • JL-1-Cube
+ -01A →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/hyperbola-1_y5?instance_id=4980
 END:VEVENT
