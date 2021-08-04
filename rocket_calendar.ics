@@ -1129,19 +1129,22 @@ CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95B场坪 
  火箭(Vehicle)：双曲线一号遥五运载火箭（Hyperbola-1 Y5） 
  起飞质量：34吨 载荷(Payload)：吉林一号魔方01A，配重块
- 等 轨道(Orbit)：SSO 火箭手册：星际荣耀双曲线一号用户
- 手册 火箭信息：   动态： 【2021年08月03日】新华社消息
- ，8月3日15时39分，双曲线一号第3发民营商业运载火箭在
- 我国酒泉卫星发射中心点火升空，火箭飞行异常，卫星
- 分离后未正常入轨，飞行试验未达到预期目的。 【2021年
- 08月03日】据多方消息，载荷吉林一号魔方01A未进入预定
- 轨道，发射失利。等待官方通稿中。 【2021年08月03日】NO
- TAM已出，确定为北京时间15:43—16:15间择机发射。 A0753/21 
- NOTAMN Q) VCCF/QRDCA/IV/BO/W/000/999/0116N09120E030 A) VCCF B) 2108030743 
- C) 2108030815 E) DUE TO AN AEROSPACE FLIGHT ACT BY CHINA\, FOLLOWING AREA 
- … 继续阅读双曲线一号 • 暨“天书”发射失利后复飞 
- • 吉林一号魔方01A及配重 • 发射失败 • Hyperbola-1 Y5 •
-  JL-1-Cube-01A →
+ 等 轨道(Orbit)：SSO 点火时：2021年08月03日15时39分30秒 火
+ 箭手册：星际荣耀双曲线一号用户手册 火箭信息：   动
+ 态： 【2021年08月04日】由外网报道，双曲线一号遥五火
+ 箭最大飞行速度仅为7400m/s，完全未达到入轨条件，发射
+ 完全未成功。 轨道：-950km×200km×97deg 【2021年08月03日】
+ 新华社消息，8月3日15时39分，双曲线一号第3发民营商业
+ 运载火箭在我国酒泉卫星发射中心点火升空，火箭飞行
+ 异常，卫星分离后未正常入轨，飞行试验未达到预期目
+ 的。 【2021年08月03日】据多方消息，载荷吉林一号魔方01
+ A未进入预定轨道，发射失利。等待官方通稿中。 【2021
+ 年08月03日】NOTAM已出，确定为北京时间15:43—16:15间择机
+ 发射。 A0753/21 NOTAMN Q) VCCF/QRDCA/IV/BO/W/000/999/0116N09120E030 A) 
+ VCCF B) 2108030743 C) 2108030815 E) DUE TO AN AEROSPACE FLIGHT ACT BY … 
+ 继续阅读双曲线一号 • 暨“天书”发射失利后复飞 • 
+ 吉林一号魔方01A及配重 • 发射失败 • Hyperbola-1 Y5 • JL-
+ 1-Cube-01A →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/hyperbola-1_y5?instance_id=4980
 END:VEVENT
@@ -23356,5 +23359,27 @@ DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心LC-94 火
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/long-march-2d-launch-tianhui-4-sat
  ellite?instance_id=4963
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:长征二号丙遥五十一 • 互联网融合卫星试验双星 
+ • 五院通信卫星事业部低轨道DFH-4L平台首飞 • LongMarch-2
+ C Y51 • IFTS
+DTSTART;TZID=Asia/Shanghai:20210817
+DTEND;TZID=Asia/Shanghai:20210817
+UID:96283
+CATEGORIES:中国发射
+CATEGORIES:中国航天科技集团
+CATEGORIES:长征二号丙
+CLASS:PUBLIC
+DESCRIPTION:地点：中国酒泉卫星发射中心LC-94 火箭：长征
+ 二号丙遥五十一运载火箭 （LongMarch-2C Y51） 载荷：互联
+ 网融合卫星试验双星 质量：约1000kg 火箭起飞质量：242吨
+  客户：通信卫星事业部 轨道：SS0 任务代号：01—136 动
+ 态： 【2021年08月04日】：添加此次任务。
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%ba%8c%e5%8f%
+ b7%e4%b8%99-%e2%80%a2-%e4%ba%92%e8%81%94%e7%bd%91%e8%9e%8d%e5%90%88%e5%8d%
+ ab%e6%98%9f%e8%af%95%e9%aa%8c%e5%8f%8c%e6%98%9f-%e2%80%a2-%e4%ba%94%e9%99%
+ a2%e9%80%9a?instance_id=4984
 END:VEVENT
 END:VCALENDAR
