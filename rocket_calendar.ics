@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-04T00:37:04
+X-1-EDT:2021-08-05T00:36:17
 X-2-EDT:2021-07-11T16:40:16
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -249,6 +249,7 @@ UID:36176
 CATEGORIES:Minotaur
 CATEGORIES:NorthropGrumman
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：美国维吉尼亚州Wallops Island(瓦勒普斯岛)
  ， Pad 0B发射台 火箭：Minotaur I 载荷：NROL-111(含三个有效
@@ -274,6 +275,7 @@ UID:28426
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征二号F
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:官宣logo （神舟十二号飞船任务的长2F火箭转运
  现场） 任务落区 地点(Launch Site)：中国内蒙古酒泉卫星
@@ -304,6 +306,7 @@ UID:91943
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:发射台：卡纳维拉尔角空军基地LC-40发射台 火
  箭：Falcon 9 载荷：GPS IIIA-6 客户：美国空军（USAF） 轨道
@@ -325,6 +328,7 @@ UID:93868
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征二号丙
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国西昌卫星发射中心 火箭(Ve
  hicle)：长征二号丙Y48 载荷(Payload)：遥感三十号09组卫星
@@ -359,6 +363,7 @@ UID:94691
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
 CATEGORIES:俄罗斯发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：普列谢茨克航天发射场 火箭：Soyuz 2.1b 
  载荷：Pion-NKS №1 客户：俄罗斯太空部队 质量：约6500kg 
@@ -393,6 +398,7 @@ UID:79601
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
 CATEGORIES:俄罗斯发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：哈萨克斯坦拜科努尔航天发射场 LC-31/6 
  火箭：Soyuz-2.1a（第1937发R-7系列运载火箭，Soyuz2.1a火箭不
@@ -429,6 +435,7 @@ SUMMARY:LauncherOne • Tubular Bells\, Part One • 军方STP载荷和国
 DTSTART;TZID=Asia/Shanghai:20210630T224700
 DTEND;TZID=Asia/Shanghai:20210630T224700
 UID:92996
+CATEGORIES:
 CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：美国加州莫哈维沙漠空域 运载机：波音7
@@ -514,6 +521,7 @@ UID:89940
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:  地点：卡纳维拉尔角SLC-40 火箭：Falcon 9 载荷
  ：Transporter-2 88颗小卫星拼车任务 质量：TBD 客户：SpaceFli
@@ -535,6 +543,7 @@ UID:91027
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
 CATEGORIES:俄罗斯发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:  本次任务logo 地点：东方航天发射场 火箭：So
  yuz 2.1b/Fregat-M，No.1938枚R-7系列运载火箭；Soyuz2.1b/Fraget构
@@ -610,6 +619,7 @@ UID:94319
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征二号丁
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国太原卫星发射中心LC-9 火
  箭(Vehicle)：长征二号丁遥五十九运载火箭（CZ-2D Y59） 载
@@ -647,6 +657,7 @@ UID:85697
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征四号丙
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心 火箭(Ve
  hicle)：长征四号丙遥三十运载火箭（LongMarch-4C Y30） 载荷
@@ -754,6 +765,7 @@ UID:88685
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征三号丙
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：中国西昌卫星发射中心LC-2 火箭：长征三
  号丙增强型遥18运载火箭 （LongMarch-3C Y18） 载荷：天链一
@@ -798,6 +810,7 @@ UID:95228
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征六号
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国太原卫星发射中心LC-16 火
  箭(Vehicle)：长征六号遥六运载火箭（LongMarch-6 Y6） 载荷(P
@@ -836,6 +849,7 @@ UID:23267
 CATEGORIES:ILS
 CATEGORIES:Proton M
 CATEGORIES:俄罗斯发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:科学号实验舱任务logo 地点：哈萨克斯坦拜科努
  尔航天发射场 LC200/39 火箭：Proton-M，第425发质子家族火
@@ -910,6 +924,7 @@ UID:93890
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征二号丙
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国西昌卫星发射中心LC-2 火
  箭(Vehicle)：长征二号丙遥四十九运载火箭（LongMarch 2C Y49
@@ -951,6 +966,7 @@ UID:78796
 CATEGORIES:Ariane 5
 CATEGORIES:Arianespace
 CATEGORIES:欧洲发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:简要信息： 地点：法属圭亚那库鲁圭亚那太空
  中心 ELA-3工位 火箭：Ariane 5 ECA 载荷：Star One D2，Eutelsat-Q
@@ -975,6 +991,7 @@ UID:79280
 CATEGORIES:中国发射
 CATEGORIES:中国航天科工集团
 CATEGORIES:快舟一号甲
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:相关信息： 地点(Location)：中国酒泉卫星发射中
  心 95A场坪 火箭(Vehicle)：快舟一号甲遥四运载火箭“和平
@@ -1009,6 +1026,7 @@ UID:91591
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L29批次星链
  组网卫星（Starlink） 质量：单星260kg 客户：SpaceX 轨道：L
@@ -1027,6 +1045,7 @@ UID:91593
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-30批次星链
  组网卫星（Starlink） 质量：单星260kg 客户：SpaceX 轨道：L
@@ -1044,6 +1063,7 @@ UID:95454
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
 CATEGORIES:俄罗斯发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：普列谢茨克航天发射场 火箭：Soyuz 2.1a 
  载荷：Bars-M No. 3 客户：俄罗斯太空部队 质量：4000kg 轨
@@ -1064,6 +1084,9 @@ CATEGORIES:Soyuz 2
 CATEGORIES:Soyuz 2
 CATEGORIES:俄罗斯发射
 CATEGORIES:俄罗斯国防部
+CATEGORIES:Kondor-FKA
+CATEGORIES:ROSCOSMOS
+CATEGORIES:soyuz 2.1a
 CLASS:PUBLIC
 DESCRIPTION:Kondor-FKA 01民用对地观测雷达卫星示意图 地点：
  东方航天发射场LC-1S工位 火箭：Soyuz 2.1b/Fregat-M，No.19XX枚
@@ -1125,6 +1148,7 @@ UID:89655
 CATEGORIES:中国发射
 CATEGORIES:双曲线一号
 CATEGORIES:星际荣耀
+CATEGORIES:失利后复飞
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95B场坪 
  火箭(Vehicle)：双曲线一号遥五运载火箭（Hyperbola-1 Y5） 
@@ -1166,6 +1190,7 @@ UID:94772
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:捷龙一号
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心LC-95A 火
  箭(Vehicle)：捷龙一号遥二火箭（SD-1 Y2） 载荷(Payload)：仪
@@ -1188,6 +1213,7 @@ UID:70906
 CATEGORIES:Atlas 5
 CATEGORIES:ULA（联合发射联盟）
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：美国佛州卡纳维拉尔角空军基地 SLC-41 火
  箭：Atlas 5 N22，该构型N22中的N意为无整流罩（原来一般
@@ -1224,6 +1250,7 @@ UID:91028
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
 CATEGORIES:俄罗斯发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：拜科努尔航天发射场 火箭：Soyuz 2.1b/Frega
  t-M 载荷：第九批次36颗OneWeb互联网通讯卫星 质量：5810kg 
@@ -1244,6 +1271,7 @@ UID:95288
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征三号乙
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:  地点(Launch Site)：中国西昌卫星发射中心 LC-2 
  火箭(Vehicle)：长征三号乙改三遥七十六运载火箭（LongMarc
@@ -1264,6 +1292,7 @@ DTEND;TZID=Asia/Shanghai:20210816T095000
 UID:93716
 CATEGORIES:Vega
 CATEGORIES:欧洲发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：法属圭亚那库鲁圭亚那太空中心 ELV 火箭
  ：VEGA 织女星运载火箭 箭体：VV19 客户：CNES\,NOSA等 载荷
@@ -1283,6 +1312,7 @@ DTEND;TZID=Asia/Shanghai:20210811T055500
 UID:88580
 CATEGORIES:Antares
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：美国维吉尼亚州Wallops Island(瓦勒普斯岛)
  ， Pad 0A发射台 火箭：Antares II(加强版) 载荷：Cygnus NG-16
@@ -1353,6 +1383,8 @@ CATEGORIES:Falcon 9
 CATEGORIES:NASA
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:CrewDragon
+CATEGORIES:CRS-23
 CLASS:PUBLIC
 DESCRIPTION:（任务logo） 地点：肯尼迪航天中心 火箭：Falco
  n 9 Block 5 载荷：龙货运飞船 CRS-23国际空间站货运任务 客
@@ -1376,6 +1408,7 @@ UID:78422
 CATEGORIES:Alpha
 CATEGORIES:Firefly
 CATEGORIES:美国发射
+CATEGORIES:首次发射
 CLASS:PUBLIC
 DESCRIPTION:地点：美国加州范登堡空军基地SLC-2W发射台（
  前Delta II工位） 发射商：Firefly 火箭：Alpha 载荷：Spinnaker
@@ -1397,6 +1430,7 @@ UID:42228
 CATEGORIES:Ariane 5
 CATEGORIES:Arianespace
 CATEGORIES:欧洲发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：法属圭亚那库鲁圭亚那太空中心 ELA-3工
  位 火箭：Ariane 5 ECA 载荷：Syracuse 4A (Comsat-NG 1)，SES-17 质
@@ -1460,6 +1494,7 @@ UID:83319
 CATEGORIES:Atlas 5
 CATEGORIES:ULA（联合发射联盟）
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:  地点：CCSFS SLC-41 火箭：AV551 箭体：TBD 载荷：
  STPSAT6 和颗军方载荷 平台：A-500(STPSAT-6) 质量：TBD 客户：
@@ -1480,6 +1515,7 @@ DTEND;TZID=Asia/Shanghai:20210831
 UID:91899
 CATEGORIES:Electron
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:简要信息： 地点：新西兰Launch Complex 1B 火箭：E
  lectron(电子) 载荷：TBD 质量：TBD 客户：TBD 轨道：LEO 箭体
@@ -1500,6 +1536,7 @@ UID:44939
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：范登堡空军基地SLC-4E 火箭：Falcon 9 Block 5
   载荷：SARah 1 重量：不详 客户：Bundeswehr 轨道：SSO 箭体
@@ -1521,6 +1558,7 @@ UID:93375
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-31批次星链
  组网卫星（Starlink） 质量：单星260kg 客户：SpaceX 轨道：L
@@ -1538,6 +1576,7 @@ UID:93376
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-32批次星链
  组网卫星（Starlink） 质量：单星260kg 客户：SpaceX 轨道：L
@@ -1555,6 +1594,7 @@ UID:93377
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-33批次星链
  组网卫星（Starlink） 质量：单星260kg 客户：SpaceX 轨道：L
@@ -1572,6 +1612,7 @@ UID:93378
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-31批次星链
  组网卫星（Starlink） 质量：单星260kg 客户：SpaceX 轨道：L
@@ -1589,6 +1630,7 @@ UID:93379
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-35批次星链
  组网卫星（Starlink） 质量：单星260kg 客户：SpaceX 轨道：L
@@ -1606,6 +1648,7 @@ UID:93380
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：范登堡SLC-4E 火箭：Falcon 9 载荷：V2.0 L1批
  次星链组网卫星（Starlink） 质量：单星260kg 客户：SpaceX 
@@ -1628,6 +1671,7 @@ UID:88559
 CATEGORIES:Soyuz
 CATEGORIES:Soyuz 2
 CATEGORIES:俄罗斯发射
+CATEGORIES:载人发射
 CLASS:PUBLIC
 DESCRIPTION:联盟飞船太空游客商业旅行任务logo （国际空间
  站徽标） 地点：哈萨克斯坦拜科努尔航天发射场 LC-31（
@@ -1693,6 +1737,7 @@ UID:79283
 CATEGORIES:中国发射
 CATEGORIES:中国航天科工集团
 CATEGORIES:快舟一号甲
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:相关信息： 地点：中国酒泉卫星发射中心95A场
  坪 火箭(Vehicle)：快舟一号甲遥五运载火箭“新洲号”(Kua
@@ -1736,6 +1781,7 @@ UID:88777
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征四号丙
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国太原卫星发射中心LC-9 火
  箭(Vehicle)：长征四号丙运载火箭（LongMarch 4C Y38） 载荷(Pa
@@ -1757,6 +1803,7 @@ UID:85700
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征三号乙
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国西昌卫星发射中心 火箭(Ve
  hicle)：长征三号乙改二运载火箭（LongMarch 3B/G2） 载荷(Pay
@@ -1779,6 +1826,7 @@ UID:91029
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
 CATEGORIES:俄罗斯发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：东方航天发射场 火箭：Soyuz 2.1b/Fregat-M 
  载荷：第十批次36颗OneWeb互联网通讯卫星 质量：5810kg 客
@@ -1798,6 +1846,10 @@ UID:87651
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:CrewDragon
+CATEGORIES:复用发射
+CATEGORIES:海上回收
+CATEGORIES:载人发射
 CLASS:PUBLIC
 DESCRIPTION:Inspiration4任务徽章 敲定名单的4名成员 地点：
  肯尼迪航天中心LC-39A发射台 火箭：Falcon 9 Block5 载荷：载
@@ -1815,81 +1867,30 @@ DESCRIPTION:Inspiration4任务徽章 敲定名单的4名成员 地点：
  教授克里斯·塞姆布罗斯基（Chris.Sembroski） 飞船：复用
  飞船，预计为执行Crew-1任务的“坚韧”号飞船 ，拆除对
  接系统后改装为全透明穹顶。C207-F2\, Resilience F2. 轨道：L
- EO（纯绕飞旅游任务，不对接国际空间站） 箭体：待定 
+ EO（纯绕飞旅游任务，不对接国际空间站） 箭体：B1062-3 
  回收方式：海上回收 任务时间：乘组将以每90分钟绕地
- 球一圈的姿态完成3-4天的飞行。 任务介绍： 当地时间202
- 1年2月2日，美国航空爱好者贾里德·艾萨克曼(Jared Isaacman
- )将担任首次平民太空任务的指挥官，此次飞行将在2021年
- 底前进行。此次飞行任务一共包含4个座位，已经被Shift4 
- Payments的创始人兼首席执行官贾里德·艾萨克曼全部购买
- ，其他3个名额将由艾萨克曼进行分配。这名37岁的亿万
- 富翁表示：“我记得上幼儿园的时候，看到图书里的太
- 空舱，我告诉老师，将来我也要去太空。” 本次航天飞
- 行任务被赋予特定的文化符号。Inspiration4乘组四席，分
- 别代表Leadership（领导力）、Hope（希望）、Generosity（慷
- 慨）和Prosperity（成功）。 Leadership对应任务指挥官，由
- 本次飞行的出资人、亿万富翁贾里德·艾萨克曼（Jared Isa
- acman）担任。飞船将在低地轨道上飞行两到四天，但将不
- 去同国际空间站对接。 艾萨克曼把此飞命名为“鼓舞四
- 人组”（Inspiration4），现正在同其自己的公司和圣裘德
- 儿童研究医院一道选拔将陪他做首次“全平民”轨道航
- 天飞行的另外三人。他在一场电话记者会上说，“我们
- 正在选拔的那三位机组成员来自日常生活行业。包括一
- 位致力于帮助儿童战胜癌症的一线医务工作者、一位访
- 问我们的任务网站并做了捐款的人和一位令人鼓舞、正
- 在创业的企业家”；“3月份他们就将穿上合身的宇航服
- ”。 三人中的一人将是圣裘德儿童医院的医务工作者，
- 而此人显然已经选定。艾萨克曼没有说出此人的名字，
- 但称“我知道她正在像我一样期待着发射的到来”。圣
- 裘德医院创建于1962年。那一年，宇航员约翰·格林（John 
- Glenn）乘坐被他命名为“友谊7号”的飞船，成为环绕地
- 球飞行的第一位美国人。圣.裘德医院的主要工作是寻找
- 治疗儿童癌症的方法。与世界上大多数医院不同的是，
- 得益于无数捐赠者的支持，这家医院的治疗是免费的。
- 因此，Hope席位将给予该医院的一位职员，他还将获得“
- 圣裘德大使”称号。Generosity的机会则留给儿童抗癌事业
- 的捐赠者们：向医院捐出10美元或更多，就有机会被抽中
- 参加太空飞行。已承诺向医院捐赠1亿美元的艾萨克曼，
- 用这种方法邀请更多人与他一起筹到大约2亿美元善款，
- 以支持该医院旨在加速抗癌研究、拯救全球更多儿童的
- 拓展计划。 第二人实际上将通过抽签方式确定。人们可
- 在Inspiration4网站上购买物品，所获款项将捐给圣裘德医
- 院。艾萨克曼称，他预计这项活动能筹集到至少1亿美元
- 。他本人还将另外向这家医院直接捐款1亿美元。 第三人
- 将通过Shift4支付公司名下的一项赛事来选拔。参赛者可
- 利用该公司的平台开办一个网店，并提交一段视频，以
- 由“由名人组成的一个评委会”进行评审，获胜者将加
- 入任务机组。 所选出的三人将同艾萨克曼一道开展一项
- “相当广泛的训练计划”，以为上天飞行做准备，同时
- 尽早互相认识，因为毕竟他们最终要在狭小的船舱内一
- 同相处几天时间。艾萨克曼说，“我会保证在我们真正
- 上天之前就早早地在地球上有意制造一些非常不舒服和
- 有压力的情形”；“我打算在下雪天把四人安排到山上
- 一顶我保证绝对要比‘龙’飞船还小的帐篷里，并给每
- 人都制造些压力特别大的情形”。 艾萨克曼和太空探索
- 公司首席执行官埃隆·马斯克都没有就参与者的医学要求
- 说太多。艾萨克曼说：“我已通过了太空探索公司的医
- 学筛选，而且我可以告诉你们，我要看的是你如何把人
- 送上天，而不是如何把他们弄回地面。”马斯克说，“
- 只要能坐过山车，你就应该可以乘坐‘龙’”。本次选
- 拔的正式规则的确要求人员年龄要满18岁，身高不得超过
- 1米98，体重不得超过113.4公斤，且“生理和心理上要适合
- 训练和上天飞行”。 规则还限定参与者得是《国际武器
- 交易规则》（ITAR）所定义的“美国人”。不过，马斯克
- 似乎觉得其他人也能参加。他在被问到那项限制时说，
- “不是美国公民的人参加飞行也不是没可能”。 艾萨克
- 曼未透露他要为这次飞行或与该项目相关的广告等其它
- 开销花多少钱。该项目的一个宣传广告已经在2月7日的超
- 级碗比赛期间播出。艾萨克曼说，2亿美元的资金筹集目
- 标“将肯定远远高于任务本身的费用”。 … 继续阅读【
- 不早于9月份】Falcon 9 •Crew Dragon Inspiration4 •纯旅游的载
- 人航天项目•企业家购买“载人龙”任务，其他3个座位
- 船票兼做慈善，不对接国际空间站 →
+ 球一圈的姿态完成3-4天的飞行。 芯级此前执行任务(点击
+ 日期可前往相应任务)： 1. GPSⅢA-4 第三代GPS导航定位卫
+ 星第4发 2020.11.06 2. GPSⅢA-5 第三代GPS导航定位卫星第5发 2
+ 021.06.18 任务介绍： 当地时间2021年2月2日，美国航空爱好
+ 者贾里德·艾萨克曼(Jared Isaacman)将担任首次平民太空任
+ 务的指挥官，此次飞行将在2021年底前进行。此次飞行任
+ 务一共包含4个座位，已经被Shift4 Payments的创始人兼首席
+ 执行官贾里德·艾萨克曼全部购买，其他3个名额将由艾
+ 萨克曼进行分配。这名37岁的亿万富翁表示：“我记得上
+ 幼儿园的时候，看到图书里的太空舱，我告诉老师，将
+ 来我也要去太空。” 本次航天飞行任务被赋予特定的文
+ 化符号。Inspiration4乘组四席，分别代表Leadership（领导力
+ ）、Hope（希望）、Generosity（慷慨）和Prosperity（成功）
+ 。 Leadership对应任务指挥官，由本次飞行的出资人、亿万
+ 富翁贾里德·艾萨克曼（Jared Isaacman）担任。飞船将在低
+ 地轨道上飞行两到四天，但将不去同国际空间站对接。 
+ … 继续阅读【不早于9月份】Falcon 9 •Crew Dragon Inspiration4
+  •纯旅游的载人航天项目•企业家购买“载人龙”任务
+ ，其他3个座位船票兼做慈善，不对接国际空间站 →
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/%e3%80%90%e5%9b%9b%e5%ad%a3%e5%ba%
- a6%e5%be%85%e5%ae%9a%e3%80%91falcon-9-%e2%80%a2crew-dragon-inspiration4-%e
- 2%80%a2%e7%ba%af%e6%97%85%e6%b8%b8%e7%9a%84%e8%bd%bd%e4%ba%ba%e8%88%aa%e5%
- a4%a9%e9%a1%b9?instance_id=4577
+URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-crew-dragon
+ -inspiration4?instance_id=4577
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 401构型 • LandSat-9地球遥感卫星
@@ -1899,6 +1900,7 @@ UID:89830
 CATEGORIES:Atlas 5
 CATEGORIES:ULA（联合发射联盟）
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：范德堡空军基地 SLC-3E 火箭：Atlas V 401（
  宇宙神5，401构型） 箭体：TBD 载荷：LandSat-9\,CuPID\,CUTE 平
@@ -1922,6 +1924,7 @@ UID:85158
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征七号
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:天舟三号货运飞船实物，天舟二号成功发射后
  官宣截图 地点：中国西昌卫星发射中心文昌航天发射场L
@@ -1946,6 +1949,7 @@ UID:85642
 CATEGORIES:Electron
 CATEGORIES:RocketLab
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:  简要信息： 地点：瓦普勒斯岛 Launch Complex 2 
  火箭：Electron(电子) 箭体名：TBD 载荷：CAPSTONE 质量：25kg(
@@ -1964,6 +1968,7 @@ UID:88324
 CATEGORIES:中国发射
 CATEGORIES:中国航天科工集团
 CATEGORIES:快舟一号甲
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95A场坪 
  火箭(Vehicle)：快舟一号甲遥16运载火箭（Kuaizhou-1A Y16） 
@@ -1986,6 +1991,7 @@ UID:88323
 CATEGORIES:中国发射
 CATEGORIES:中国航天科工集团
 CATEGORIES:快舟一号甲
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95A场坪 
  火箭(Vehicle)：快舟一号甲遥17运载火箭（Kuaizhou-1A Y17） 
@@ -2007,6 +2013,7 @@ UID:88325
 CATEGORIES:中国发射
 CATEGORIES:中国航天科工集团
 CATEGORIES:快舟十一号
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95A场坪 
  火箭(Vehicle)：快舟十一号遥二运载火箭（Kuaizhou-11 Y2） 
@@ -2028,6 +2035,7 @@ UID:89473
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征四号丙
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心LC-94 火
  箭(Vehicle)：长征四号丙运载火箭（LongMarch 4C） 载荷(Payloa
@@ -2087,18 +2095,16 @@ UID:44941
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：范登堡空军基地SLC-4E 火箭：Falcon 9 Block 5
   载荷：SARah 2、3 重量：不详 客户：Bundeswehr 轨道：SSO 
  箭体：待定 回收：待定 直播：http://www.spacex.com/webcast 国
- 内转播：https://live.bilibili.com/269007 SAR-Lupe is Germany&#8216\;
- s first reconnaissance satellite system and is used for military purpose
- s. SAR is an abbreviation for synthetic aperture radar and &#8220\;Lupe&
- #8221\; is German for magnifying glass. The &hellip\; <a href="http://www
- .spaceflightfans.cn/event/falcon-9-rocket-launch-sarah23-satellite" class=
- "more-link">继续阅读<span class="screen-reader-text">Falcon 9 • SARa
- h 2、3 • 德国侦察卫星星座</span> <span class="meta-nav">&rarr\;
- </span></a>
+ 内转播：https://live.bilibili.com/269007 SAR-Lupe is Germany‘s fir
+ st reconnaissance satellite system and is used for military purposes. SA
+ R is an abbreviation for synthetic aperture radar and “Lupe” is Germ
+ an for magnifying glass. The … 继续阅读Falcon 9 • SARah 2、3 •
+  德国侦察卫星星座 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-sarah23-sat
  ellite?instance_id=2314
@@ -20554,6 +20560,7 @@ UID:79610
 CATEGORIES:Electron
 CATEGORIES:RocketLab
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:简要信息： 地点：新西兰玛西亚半岛航天发射
  场 LC-1A 火箭：Electron(电子) 载荷：STP-27RM 质量：TBD 客户
@@ -22493,6 +22500,7 @@ UID:68317
 CATEGORIES:GSLV MK2
 CATEGORIES:ISRO
 CATEGORIES:印度发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：印度斯里赫里戈达岛萨迪什·达万航天中
  心 火箭：GSLV Mk.2 F10 载荷：EOS-03(GIAST-1)地球同步轨道光
@@ -23297,25 +23305,69 @@ URL:http://www.spaceflightfans.cn/event/starship-first-orbit-flight?instan
  ce_id=4562
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:长征六号遥七火箭 • 中科院KL-β双星 • LongMarch-6 
- Y7 • KL-β
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+SUMMARY:长征六号遥七 • 中科院KL-β双星 • LongMarch-6 Y7 •
+  KL-β • 发射成功
+DTSTART;TZID=Asia/Shanghai:20210804T190100
+DTEND;TZID=Asia/Shanghai:20210804T190100
 UID:95630
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征六号
+CATEGORIES:
 CLASS:PUBLIC
-DESCRIPTION:  地点(Launch Site)：中国太原卫星发射中心LC-16 
- 火箭(Vehicle)：长征六号遥七火箭（CZ-6 Y7） 载荷(Payload)：
- KL-β双星 客户(Customer)：中国科学院 轨道(Orbit)：SSO 载荷
- 质量：？ 动态： 【2021年07月16日】：由航空航天港“没
- 有最笨”消息，此次任务由长征六号运载火箭执飞。
+DESCRIPTION:地点(Launch Site)：中国太原卫星发射中心LC-16 火
+ 箭(Vehicle)：长征六号遥七火箭（CZ-6 Y7） 载荷(Payload)：KL-
+ β双星 客户(Customer)：中国科学院 轨道(Orbit)：89度倾角 LE
+ O 质量：TBD 2021年8月4日19时01分，长征六号运载火箭在太
+ 原卫星发射中心点火升空，成功将2颗多媒体贝塔试验卫
+ 星送入预定轨道。发射取得圆满成功。这是继7月29日长
+ 二丁发射圆满成功后7天内八院执行的第2次飞行试验。 
+ 长征六号运载火箭是由中国航天科技集团有限公司八院
+ 抓总研制的低温液体三级运载火箭，具有全新液氧煤油
+ 动力系统、高可靠高安全、低成本、短周期发射等特点
+ ，具备发射多种类型、不同轨道要求卫星的能力，可实
+ 施一箭单星或多星发射。其太阳同步圆轨道运载能力可
+ 达1.0吨（轨道高度700公里），发射可靠性高达0.98，达到
+ 国际先进水平。 本发任务是继前六发任务典型太阳同步
+ 轨道和低倾角轨道后，型号执行的第三种轨道任务，进
+ 一步拓展了长征六号运载火箭的任务适应性。在通用技
+ 术状态基础上，为提高任务适应性，采用双星并联布局
+ 同时分离方案，并完成数项技术状态更改，进一步优化
+ 和规范发射场工作流程，射前流程时间得以进一步压缩
+ 。 本次任务是长征六号运载火箭首次连续执行发射任务
+ ，7月9日发射遥六火箭后，型号队伍发扬不畏疲劳、连续
+ 作战的精神，迅速切换状态，以饱满的热情、高昂的斗
+ 志紧锣密鼓地投入到本发任务测试发射任务中。根据长
+ 征六号运载火箭“三平”测发模式、无依托发射等特点
+ ，型号队伍针对夏季雷雨天的特点进一步开展了全箭各
+ 系统防雨防雷复查，包括各系统防雨防雷措施有效性，
+ 各项防雨防雷措施在火箭上的实物落实情况等，满足雷
+ 雨季射前操作及发射要求，确保任务万无一失。 为了圆
+ 满完成任务，长征六号团队在基地坚持采用“质量确认
+ 制”，持续优化质量确认项目，本发任务首次借鉴八院
+ 其他型号成功经验，首次在靶场使用电子质量确认制，
+ 运用开发的运载火箭发射场数字化管理系统，采用无纸
+ 化的形式对各项工作质量记录进行了检查确认，提升靶
+ 场工作效率和质量，确保当日事当日毕；持续优化发射
+ 预案，高质量保证成功。 长征六号运载火箭自2015年完成
+ 首飞，至今已经6个年头，发射任务从最初的2年1发，到
+ 今年的1年多发，已逐渐迈进了现役高密度发射阵列，这
+ 也对型号队伍提出了更高的要求，所有研制人员将不辱
+ 使命，始终牢记“严、慎、细、实”，续写中国长征系
+ 列火箭的辉煌。 本次任务的2颗卫星由上海微小卫星工程
+ 中心研制，是继三个月前长征六号遥五火箭发射齐鲁一
+ 号等卫星任务后，型号与上海微小卫星工程中心的第二
+ 次携手合作。长征六号运载火箭在商业发射市场的优异
+ 表现，提供的良好服务和技术方案，赢得了用户的青睐
+ 。 本次发射是长征系列运载火箭第382次发射，是八院抓
+ 总研制的长征系列运载火箭第140次飞行试验，是长征六
+ 号运载火箭的第7次发射。 动态： 【2021年08月04日】火箭
+ 于19：01点火升空，卫星顺利进入预定轨道 【2021年07月16
+ 日】由航空航天港“没有最笨”消息，此次任务由长征
+ 六号运载火箭执飞。
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e5%85%ad%e5%8f%
- b7%e9%81%a5%e4%b8%83%e7%81%ab%e7%ae%ad-%e2%80%a2-%e4%b8%ad%e7%a7%91%e9%99%
- a2kl-%ce%b2%e5%8f%8c%e6%98%9f-%e2%80%a2-longmarch-6-y7-%e2%80%a2-kl-%ce%b2
- ?instance_id=4926
+URL:http://www.spaceflightfans.cn/event/long-march-6-rocket-launch-kl-%ce%
+ b2-satellite?instance_id=4985
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz-2-1v • EMKA-2(Kosmos-2551)光学侦察卫星
@@ -23325,6 +23377,7 @@ UID:95925
 CATEGORIES:Soyuz 2.1v
 CATEGORIES:俄罗斯发射
 CATEGORIES:俄罗斯国防部
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：普列谢茨克航天发射场 火箭：Soyuz 2.1v 
  载荷：EMKA-2(Kosmos-2551)光学侦察卫星 客户：俄罗斯太空部
@@ -23343,6 +23396,7 @@ UID:95196
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征二号丁
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心LC-94 火
  箭(Vehicle)：长征二号丁遥六十二运载火箭（CZ-2D Y62） 载
@@ -23374,15 +23428,16 @@ URL:http://www.spaceflightfans.cn/event/long-march-2d-launch-tianhui-4-sat
  ellite?instance_id=4963
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:长征二号丙遥五十一 • 互联网融合卫星试验双星 
- • 五院通信卫星事业部低轨道DFH-4L平台首飞 • LongMarch-2
- C Y51 • IFTS
+SUMMARY:长征二号丙 • 互联网融合卫星试验双星 • 五院
+ 通信卫星事业部低轨道DFH-4L平台首飞 • LongMarch-2C Y51 • 
+ IFTS
 DTSTART;TZID=Asia/Shanghai:20210817
 DTEND;TZID=Asia/Shanghai:20210817
 UID:96283
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征二号丙
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：中国酒泉卫星发射中心LC-94 火箭：长征
  二号丙遥五十一运载火箭 （LongMarch-2C Y51） 载荷：互联
