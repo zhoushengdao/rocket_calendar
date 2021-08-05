@@ -23305,8 +23305,8 @@ URL:http://www.spaceflightfans.cn/event/starship-first-orbit-flight?instan
  ce_id=4562
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:长征六号遥七 • 中科院KL-β双星 • LongMarch-6 Y7 •
-  KL-β • 发射成功
+SUMMARY:长征六号 • 中科院KL-β双星 • LongMarch-6 Y7 • KL-β
+  • 发射成功
 DTSTART;TZID=Asia/Shanghai:20210804T190100
 DTEND;TZID=Asia/Shanghai:20210804T190100
 UID:95630
@@ -23317,8 +23317,8 @@ CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国太原卫星发射中心LC-16 火
  箭(Vehicle)：长征六号遥七火箭（CZ-6 Y7） 载荷(Payload)：KL-
- β双星 客户(Customer)：中国科学院 轨道(Orbit)：89度倾角 LE
- O 质量：TBD 2021年8月4日19时01分，长征六号运载火箭在太
+ β双星 客户(Customer)：中国科学院 轨道(Orbit)：89deg 900kmLEO
+  质量：TBD 2021年8月4日19时01分，长征六号运载火箭在太
  原卫星发射中心点火升空，成功将2颗多媒体贝塔试验卫
  星送入预定轨道。发射取得圆满成功。这是继7月29日长
  二丁发射圆满成功后7天内八院执行的第2次飞行试验。 
@@ -23362,7 +23362,7 @@ DESCRIPTION:地点(Launch Site)：中国太原卫星发射中心LC-16 火
  。 本次发射是长征系列运载火箭第382次发射，是八院抓
  总研制的长征系列运载火箭第140次飞行试验，是长征六
  号运载火箭的第7次发射。 动态： 【2021年08月04日】火箭
- 于19：01点火升空，卫星顺利进入预定轨道 【2021年07月16
+ 于19:01点火升空，卫星顺利进入预定轨道。 【2021年07月16
  日】由航空航天港“没有最笨”消息，此次任务由长征
  六号运载火箭执飞。
 LOCATION:
@@ -23429,7 +23429,7 @@ URL:http://www.spaceflightfans.cn/event/long-march-2d-launch-tianhui-4-sat
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号丙 • 互联网融合卫星试验双星 • 五院
- 通信卫星事业部低轨道DFH-4L平台首飞 • LongMarch-2C Y51 • 
+ 通信与导航卫星总体部DFH-4L平台首飞 • LongMarch-2C Y51 • 
  IFTS
 DTSTART;TZID=Asia/Shanghai:20210817
 DTEND;TZID=Asia/Shanghai:20210817
@@ -23442,8 +23442,8 @@ CLASS:PUBLIC
 DESCRIPTION:地点：中国酒泉卫星发射中心LC-94 火箭：长征
  二号丙遥五十一运载火箭 （LongMarch-2C Y51） 载荷：互联
  网融合卫星试验双星 质量：约1000kg 火箭起飞质量：242吨
-  客户：通信卫星事业部 轨道：SS0 任务代号：01—136 动
- 态： 【2021年08月04日】：添加此次任务。
+  客户：通信与导航卫星总体部 轨道：SS0 任务代号：01—
+ 136 动态： 【2021年08月04日】：添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%ba%8c%e5%8f%
  b7%e4%b8%99-%e2%80%a2-%e4%ba%92%e8%81%94%e7%bd%91%e8%9e%8d%e5%90%88%e5%8d%
