@@ -1263,8 +1263,8 @@ URL:http://www.spaceflightfans.cn/event/soyuz-2-1b-fregat-m-launch-oneweb-
  satellite-batch-9?instance_id=4987
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:长征三号乙 • 中星2E通信卫星 • 发射成功 • Long
- March-3B/G3 Y76 • CHINASAT-2E
+SUMMARY:长征三号乙 • 中星2E通信卫星 • LongMarch-3B/G3 Y76 
+ • CHINASAT-2E • 发射成功
 DTSTART;TZID=Asia/Shanghai:20210806T003000
 DTEND;TZID=Asia/Shanghai:20210806T003000
 UID:95288
@@ -1273,21 +1273,26 @@ CATEGORIES:中国航天科技集团
 CATEGORIES:长征三号乙
 CATEGORIES:
 CLASS:PUBLIC
-DESCRIPTION:地点(Launch Site)：中国西昌卫星发射中心 LC-2 火
- 箭(Vehicle)：长征三号乙改三遥七十六运载火箭（LongMarch-3
- B/G3 Y76） 载荷(Payload)：中星2E通信卫星 （ChinaSat-2E） 客
- 户(Customer)：中国卫星通信集团 重量(Mass)：5400kg 轨道(Orbi
- t)：GTO 卫星平台(Satellite Bus)：DFH-4平台 设计寿命(Designed L
- ife)：15年 起飞时：00时30分04秒926毫秒 动态： 【2021年08
- 月06日】中星2E发射成功。 8月6日0时30分，长征三号乙运
- 载火箭在西昌卫星发射中心点火升空，随后将中星2E卫星
- 送入预定轨道，卫星太阳翼顺利展开，发射任务取得圆
- 满成功。这是继8月4日长征六号一箭双星发射成功不到30
- 个小时后，中国航天成功执行的又一次宇航发射任务。 
- 【2021年08月06日】火箭已于00时30分04秒点火升空。 【2021
- 年08月02日】根据NOTAMS判定，本次任务将在08月06日 00:22~00
- :59间执行。 【2021年07月16日】粗调任务时间。 【2021年07
- 月02日】添加此次任务。
+DESCRIPTION:  地点(Launch Site)：中国西昌卫星发射中心 LC-2 
+ 火箭(Vehicle)：长征三号乙改三遥七十六运载火箭（LongMarc
+ h-3B/G3 Y76） 载荷(Payload)：中星2E通信卫星 （ChinaSat-2E） 
+ 客户(Customer)：中国卫星通信集团 重量(Mass)：5400kg 轨道(O
+ rbit)：GTO 卫星平台(Satellite Bus)：DFH-4平台 设计寿命(Designe
+ d Life)：15年 起飞时：00时30分04秒926毫秒 发射回放： ﻿
+ ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿   8月6日0时30分
+ ，长征三号乙运载火箭在西昌卫星发射中心点火升空，
+ 随后将中星2E卫星送入预定轨道，卫星太阳翼顺利展开，
+ 发射任务取得圆满成功。这是继8月4日长征六号一箭双星
+ 发射成功不到30个小时后，中国航天成功执行的又一次宇
+ 航发射任务。 中星2E卫星是中国航天科技集团有限公司
+ 所属中国卫通的一颗通信广播卫星，由航天科技集团五
+ 院研制，可为全国广播电台、电视台、无线发射台和有
+ 线电视网等机构提供广播电视及宽带多媒体等传输业务
+ 。 动态： 【2021年08月06日】中星2E发射成功。 【2021年08
+ 月06日】火箭已于00时30分04秒点火升空。 【2021年08月02日
+ 】根据NOTAMS判定，本次任务将在08月06日 00:22~00:59间执行
+ 。 【2021年07月16日】粗调任务时间。 【2021年07月02日】
+ 添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/long-march-3b-launch-chinasat-2e-s
  atellite?instance_id=4991
