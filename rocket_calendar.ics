@@ -1500,8 +1500,7 @@ URL:http://www.spaceflightfans.cn/event/atlas-v-511-afspc-8?instance_id=45
  72
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas V 551 •  Space Test Program-3(含有NASA的STPSat 6和六
- 颗军方载荷)
+SUMMARY:Atlas V 551 •  STP-3(含有NASA的STPSat 6和六颗军方载荷)
 DTSTART;TZID=Asia/Shanghai:20210831
 DTEND;TZID=Asia/Shanghai:20210831
 UID:83319
@@ -1511,13 +1510,13 @@ CATEGORIES:美国发射
 CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:  地点：CCSFS SLC-41 火箭：AV551 箭体：TBD 载荷：
- STPSAT6 和颗军方载荷 平台：A-500(STPSAT-6) 质量：TBD 客户：
- USSF美国太空军/NASA 轨道：HPGTO 动态： 【2021年06月05日】
- 由于火箭二级的RL10C-1-1发动机3D打印喷管在SBIRS GEO-5任务
- 中出现了超出预期的震颤，本次发射推迟。 【2021年04月1
- 7日】预计06月23日发射。 【2021年01月25日】载荷审核，任
- 务延期。 【2021年01月01日】预计02月26日发射。 【2020年11
- 月23日】添加此次任务。
+ STPSat-6和6颗军方载荷 平台：A-500(STPSat-6) 质量：TBD 客户
+ ：USSF美国太空军/NASA 轨道：HPGTO 动态： 【2021年06月05日
+ 】由于火箭二级的RL10C-1-1发动机3D打印喷管在SBIRS GEO-5任
+ 务中出现了超出预期的震颤，本次发射推迟。 【2021年04
+ 月17日】预计06月23日发射。 【2021年01月25日】载荷审核
+ ，任务延期。 【2021年01月01日】预计02月26日发射。 【202
+ 0年11月23日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/atlas-v-551-%e2%80%a2-stp-3?instan
  ce_id=4882
