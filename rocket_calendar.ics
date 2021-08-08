@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-08T00:32:07
+X-1-EDT:2021-08-09T00:32:11
 X-2-EDT:2021-07-11T16:40:16
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -1040,8 +1040,8 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L30批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20210930
+DTEND;TZID=Asia/Shanghai:20210930
 UID:91593
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1054,12 +1054,12 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-30批次星链
  加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l30?instance_id=4935
+ -0-l30?instance_id=5011
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1a • Bars-M No. 3光学侦察卫星
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20210930
+DTEND;TZID=Asia/Shanghai:20210930
 UID:95454
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
@@ -1072,7 +1072,7 @@ DESCRIPTION:地点：普列谢茨克航天发射场 火箭：Soyuz 2.1a
  务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%80%a2-bars-m-no-3?i
- nstance_id=4930
+ nstance_id=5015
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz-2.1a / Fregat-M•“秃鹰-FKA”（Kondor-FKA）01星•
@@ -1206,8 +1206,8 @@ URL:http://www.spaceflightfans.cn/event/%e6%8d%b7%e9%be%99%e4%b8%80%e5%8f%
  2-%e2%80%a2-yizhen?instance_id=4931
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas 5 • OFT-2 • 波音Starliner载人飞船 • 第二次无
- 人测试飞行
+SUMMARY:Atlas-V N22构型 • OFT-2 • 波音Starliner载人飞船 • 
+ 第二次无人测试飞行
 DTSTART;TZID=Asia/Shanghai:20210831
 DTEND;TZID=Asia/Shanghai:20210831
 UID:70906
@@ -1217,7 +1217,7 @@ CATEGORIES:美国发射
 CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：美国佛州卡纳维拉尔角空军基地 SLC-41 火
- 箭：Atlas 5 N22，该构型N22中的N意为无整流罩（原来一般
+ 箭：Atlas-V N22，该构型N22中的N意为无整流罩（原来一般
  是4或者5，代表4米或5米直径整流罩），第一个2代表两枚
  助推器，第二个2代表两台RL-10推动的双发半人马上面级
  。 载荷：波音CST-100/Starliner载人飞船（本次测试不载人
@@ -1236,8 +1236,8 @@ DESCRIPTION:地点：美国佛州卡纳维拉尔角空军基地 SLC-41 火
  中提及是波音自行决定再飞一次的，以此满足NASA的认证
  要求。原文：Boeing decided the best approach to meeting the agency
  ’s requirements would be to fly the mission again\, including docking wi
- th the … 继续阅读Atlas 5 • OFT-2 • 波音Starliner载人飞船 
- • 第二次无人测试飞行 →
+ th the space … 继续阅读Atlas-V N22构型 • OFT-2 • 波音Starlin
+ er载人飞船 • 第二次无人测试飞行 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/atlas-5-rocket-launch-oft-2-spacec
  raft?instance_id=4997
@@ -1390,8 +1390,8 @@ URL:http://www.spaceflightfans.cn/event/antares-%e2%80%a2-cygnus-ng-15-%e2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • CRS-23 • 国际空间站货运补给任务
-DTSTART;TZID=Asia/Shanghai:20210829
-DTEND;TZID=Asia/Shanghai:20210829
+DTSTART;TZID=Asia/Shanghai:20210828T153000
+DTEND;TZID=Asia/Shanghai:20210828T153000
 UID:88337
 CATEGORIES:Falcon 9
 CATEGORIES:NASA
@@ -1411,7 +1411,7 @@ DESCRIPTION:（任务logo） 地点：肯尼迪航天中心 火箭：Falco
  月14日】添加此次任务，预计8月份发射。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-crs-23-inte
- rnational-space-station-resupply-mission?instance_id=4974
+ rnational-space-station-resupply-mission?instance_id=5017
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alpha • Spinnaker 3\, NPS-CENETIX-Orbital 1\, Teachers in Space 
@@ -1500,9 +1500,10 @@ URL:http://www.spaceflightfans.cn/event/atlas-v-511-afspc-8?instance_id=45
  72
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas V 551 •  STP-3(含有NASA的STPSat 6和六颗军方载荷)
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+SUMMARY:Atlas-V 551构型 •  STP-3(含有NASA的STPSat 6和六颗军方
+ 载荷)
+DTSTART;TZID=Asia/Shanghai:20210930
+DTEND;TZID=Asia/Shanghai:20210930
 UID:83319
 CATEGORIES:Atlas 5
 CATEGORIES:ULA（联合发射联盟）
@@ -1511,20 +1512,21 @@ CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:  地点：CCSFS SLC-41 火箭：AV551 箭体：TBD 载荷：
  STPSat-6和6颗军方载荷 平台：A-500(STPSat-6) 质量：TBD 客户
- ：USSF美国太空军/NASA 轨道：HPGTO 动态： 【2021年06月05日
- 】由于火箭二级的RL10C-1-1发动机3D打印喷管在SBIRS GEO-5任
- 务中出现了超出预期的震颤，本次发射推迟。 【2021年04
- 月17日】预计06月23日发射。 【2021年01月25日】载荷审核
- ，任务延期。 【2021年01月01日】预计02月26日发射。 【202
- 0年11月23日】添加此次任务。
+ ：USSF美国太空军/NASA 轨道：HPGTO 动态： 【2021年08月08日
+ 】由于前序Starliner载人飞船测试任务发射推迟，本次任
+ 务顺延 【2021年06月05日】由于火箭二级的RL10C-1-1发动机3D
+ 打印喷管在SBIRS GEO-5任务中出现了超出预期的震颤，本次
+ 发射推迟。 【2021年04月17日】预计06月23日发射。 【2021
+ 年01月25日】载荷审核，任务延期。 【2021年01月01日】预
+ 计02月26日发射。 【2020年11月23日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/atlas-v-551-%e2%80%a2-stp-3?instan
- ce_id=4882
+ ce_id=5013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electron • 玛西亚发射场LC-1B工位首射 • 任务待定
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20210930
+DTEND;TZID=Asia/Shanghai:20210930
 UID:91899
 CATEGORIES:Electron
 CATEGORIES:美国发射
@@ -1539,7 +1541,7 @@ DESCRIPTION:简要信息： 地点：新西兰Launch Complex 1B 火箭：E
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron%e2%80%a2-lc1b%e5%b7%a5%e4
  %bd%8d%e9%a6%96%e5%b0%84%e2%80%a2-%e4%bb%bb%e5%8a%a1%e5%be%85%e5%ae%9a?ins
- tance_id=4883
+ tance_id=5012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • SARah 1 • 德国侦察卫星星座
@@ -1565,8 +1567,8 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-sarah1-sate
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L31批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20210930
+DTEND;TZID=Asia/Shanghai:20210930
 UID:93375
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1579,7 +1581,7 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-31批次星链
  加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l31?instance_id=4886
+ -0-l31?instance_id=5010
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L32批次Starlink通信卫星组网发射
@@ -1655,8 +1657,8 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V2.0-L1批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210810
-DTEND;TZID=Asia/Shanghai:20210810
+DTSTART;TZID=Asia/Shanghai:20210831
+DTEND;TZID=Asia/Shanghai:20210831
 UID:93380
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1673,7 +1675,7 @@ DESCRIPTION:地点：范登堡SLC-4E 火箭：Falcon 9 载荷：V2.0 L1批
  卫星组网发射 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v2
- -0-l1?instance_id=4960
+ -0-l1?instance_id=5000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1a • Soyuz MS-20•  俄罗斯12天太空游客服务，
@@ -1744,8 +1746,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:快舟一号甲遥五”新洲号“ • 吉林一号高分02-F星
   • Kuaizhou-1A Y5• Jinlin-1-Gaofen-02-F
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20210930
+DTEND;TZID=Asia/Shanghai:20210930
 UID:79283
 CATEGORIES:中国发射
 CATEGORIES:中国航天科工集团
@@ -1762,28 +1764,27 @@ DESCRIPTION:相关信息： 地点：中国酒泉卫星发射中心95A场
  于年底待定。 【2020年08月29日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/kuaizhou-1a-rocket-launch-jilin-1-
- gaofen-02f-satellite?instance_id=4688
+ gaofen-02f-satellite?instance_id=4998
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征四号丙 • 高分三号02星 • LongMarch-4C • GaoFen-
  3-02/1m C-Band SAR
-DTSTART;TZID=Asia/Shanghai:20210817T060000
-DTEND;TZID=Asia/Shanghai:20210817T060000
+DTSTART;TZID=Asia/Shanghai:20210930
+DTEND;TZID=Asia/Shanghai:20210930
 UID:85709
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征四号丙
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心LC-94 火
  箭(Vehicle)：长征四号丙运载火箭（CZ-4C） 载荷(Payload)：
  高分三号02星 客户(Customer)：国防科工局 重量(Mass)：2950kg
   轨道(Orbit)：SSO 卫星平台(Satellite Bus)：ZY-2000 设计寿命(De
- signed Life)：TBD 动态： 【2021年07月23日】由旅行社消息，
- 修改任务时间为8月17日发射，长四丙执飞。 【2021年01月1
- 1日】添加此次任务。
+ signed Life)：TBD 动态： 【2021年01月11日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/long-march-4c-launch-gaofen-3-02-s
- atellite?instance_id=4940
+ atellite?instance_id=4983
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征四号丙 • 高分五号02星 • LongMarch-4C Y38 • GF-
@@ -1906,9 +1907,9 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-crew-dragon
  -inspiration4?instance_id=4577
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas V 401构型 • LandSat-9地球遥感卫星
-DTSTART;TZID=Asia/Shanghai:20210916
-DTEND;TZID=Asia/Shanghai:20210916
+SUMMARY:Atlas-V 401构型 • LandSat-9地球遥感卫星
+DTSTART;TZID=Asia/Shanghai:20210917T021100
+DTEND;TZID=Asia/Shanghai:20210917T021100
 UID:89830
 CATEGORIES:Atlas 5
 CATEGORIES:ULA（联合发射联盟）
@@ -1922,11 +1923,11 @@ DESCRIPTION:地点：范德堡空军基地 SLC-3E 火箭：Atlas V 401（
  质调查局(USGS)\,美国国家航天局(NASA) (2) CuPID客户： 波士
  顿大学(Boston University) (3) CUTE客户：科罗拉多大学博尔德
  分校(CU Boulder) 相关资料： 1. Landsat 9 and the Future of the Sust
- ainable Land Imaging Program … 继续阅读Atlas V 401构型 • LandSat
+ ainable Land Imaging Program … 继续阅读Atlas-V 401构型 • LandSat
  -9地球遥感卫星 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/atlas-v-401-rocket-launch-landsat9
- -satellite?instance_id=4501
+ -satellite?instance_id=5018
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征七号遥四 • 天舟三号货运飞船 • LongMarch 7 Y4
@@ -1954,10 +1955,10 @@ LOCATION:
 URL:http://www.spaceflightfans.cn/event/cz7-tianzhou-3?instance_id=4897
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【TBD】Electron • CAPSTONE • 该火箭首次执行月球轨
- 道任务
-DTSTART;TZID=Asia/Shanghai:20210930
-DTEND;TZID=Asia/Shanghai:20210930
+SUMMARY:Electron • CAPSTONE • 该火箭首次执行月球轨道发射
+ 任务
+DTSTART;TZID=Asia/Shanghai:20211020
+DTEND;TZID=Asia/Shanghai:20211020
 UID:85642
 CATEGORIES:Electron
 CATEGORIES:RocketLab
@@ -1965,12 +1966,13 @@ CATEGORIES:美国发射
 CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:  简要信息： 地点：瓦普勒斯岛 Launch Complex 2 
- 火箭：Electron(电子) 箭体名：TBD 载荷：CAPSTONE 质量：25kg(
- 12u 立方星) 客户：NASA 轨道：LTO 火箭信息： 动态： 【202
- 0.01.09】添加此次任务
+ 火箭：Electron(电子) 载荷：CAPSTONE 质量：25kg(12u 立方星) 
+ 客户：NASA 轨道：LTO 箭体名：TBD 火箭信息： 动态： 【20
+ 21年08月05日】预计2021年10月20日发射 【2020年01月09日】添
+ 加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron-rocket-launch-nasa-capsto
- ne-mission?instance_id=4836
+ ne-mission?instance_id=4989
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:【TBD】快舟一号甲遥16运载火箭 • 吉利卫星双星 
@@ -2018,8 +2020,8 @@ URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e5%bf%ab%e8%
  -%e2%80%a2-y17?instance_id=4690
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【TBD】快舟十一号遥二火箭 • 失利后复飞 • 行
- 云二号备份星 • Kuaizhou-11 Y2 • XingYun-2
+SUMMARY:快舟十一号 • 失利后复飞 • 行云二号备份星 • 
+ Kuaizhou-11 Y2 • XingYun-2
 DTSTART;TZID=Asia/Shanghai:20210930
 DTEND;TZID=Asia/Shanghai:20210930
 UID:88325
@@ -2032,7 +2034,8 @@ DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95A场坪
  火箭(Vehicle)：快舟十一号遥二运载火箭（Kuaizhou-11 Y2） 
  载荷(Payload)：1颗行云二号备份星+配重 客户(Customer)：航
  天科工 重量(Mass)：TBD 轨道(Orbit)：SSO 卫星平台(Satellite Bu
- s)：TBD 【2021.02.14.】添加此次任务。
+ s)：TBD 动态： 【2021年08月06日】火箭计划2021年10月复飞
+ 。 【2021年02月14日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e5%bf%ab%e8%
  88%9f%e5%8d%81%e4%b8%80%e5%8f%b7%e9%81%a5%e4%ba%8c%e7%81%ab%e7%ae%ad-%e2%8
@@ -2202,13 +2205,13 @@ DTEND;TZID=Asia/Shanghai:20210930
 UID:83576
 CATEGORIES:Soyuz 2
 CATEGORIES:欧洲发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:简要信息： 地点：法属圭亚那库鲁圭亚那太空
- 中心 ELS 火箭：Soyuz ST-B 箭体：VS26 载荷：Galileo FOC 23 &amp\
- ; 24导航卫星 质量：733kg每颗 客户：欧洲空间局 轨道：
- 中地球轨道(MEO) 直播地址：http://www.arianespace.com/ 动态： 
- 【2021年02月02日】推迟至九月 【2020年11月26日】添加此次
- 任务
+ 中心 ELS 火箭：Soyuz ST-B 箭体：VS26 载荷：Galileo FOC 23 & 24
+ 导航卫星 质量：733kg每颗 客户：欧洲空间局 轨道：中地
+ 球轨道(MEO) 直播地址：http://www.arianespace.com/ 动态： 【202
+ 1年02月02日】推迟至九月 【2020年11月26日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-st-b-with-fregat-m-launch-ga
  lileo-foc-2324-navigation-satellite?instance_id=4274
@@ -2222,8 +2225,9 @@ UID:90781
 CATEGORIES:中国发射
 CATEGORIES:星河动力
 CATEGORIES:谷神星一号
+CATEGORIES:
 CLASS:PUBLIC
-DESCRIPTION:&nbsp\; 【2021年03月26日】添加此次任务。
+DESCRIPTION:  【2021年03月26日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e8%b0%b7%e7%a5%9e%e6%98%9f%e4%b8%
  80%e5%8f%b7%e9%81%a5%e4%ba%8c-%e2%80%a2-%e6%96%b9%e8%88%9f%e4%ba%8c%e5%8f%
@@ -2238,17 +2242,15 @@ UID:28447
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
 CATEGORIES:俄罗斯发射
+CATEGORIES:苏联物质文化遗产
 CLASS:PUBLIC
 DESCRIPTION:地点：俄罗斯东方航天发射场 LC-1S 火箭：Soyuz 2
  .1b/Fregat-M上面级 载荷：Luna 25（月球25号月球探测器） 质
  量：1750kg 载荷质量：30kg 客户：Roscosmos 轨道：TLI 载荷携
  带： ADRON-LR\, active neutron and gamma-ray analysis of regolith ARIES-
  L\, measurement of plasma in the exosphere LASMA-LR\, laser mass-spectrome
- ter LIS-TV-RPM\, infrared spectrometry of minerals and &hellip\; <a href="
- http://www.spaceflightfans.cn/event/soyuz-2-1b-fregat-m-launch-luna-25" cl
- ass="more-link">继续阅读<span class="screen-reader-text">Soyuz 2.1b/Fr
- egat-M • Luna 25 • 延期已达46年</span> <span class="meta-nav">&ra
- rr\;</span></a>
+ ter LIS-TV-RPM\, infrared spectrometry of minerals and … 继续阅读Soy
+ uz 2.1b/Fregat-M • Luna 25 • 延期已达46年 →
 LOCATION:俄罗斯东方航天发射场
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1b-fregat-m-launch-luna-25
  ?instance_id=3448
@@ -2262,6 +2264,8 @@ UID:88320
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
 CATEGORIES:俄罗斯发射
+CATEGORIES:soyuz MS-19
+CATEGORIES:载人发射
 CLASS:PUBLIC
 DESCRIPTION:（远征-66队队徽） （国际空间站徽标） 地点：
  哈萨克斯坦拜科努尔航天发射场 LC-31（拜科努尔进步飞
@@ -2296,14 +2300,9 @@ DESCRIPTION:（远征-66队队徽） （国际空间站徽标） 地点：
  船可能还会有美国航天员。 主成员组： 指令长安东·尼
  古拉耶维奇、短期访问者克利姆·希彭科与尤利娅·佩雷
  希尔德 【俄，指令长（KK）第四次执行任务】中文：安
- 东·尼古拉耶维奇/英文： &hellip\; <a href="http://www.spacefligh
- tfans.cn/event/soyuz-2-1a-%e2%80%a2-soyuz-ms-1866s%e2%80%a2-%e5%85%a8%e4%b
- f%84%e6%88%90%e5%91%98%e7%bb%84%ef%bc%8c%e5%8f%af%e8%83%bd%e8%bf%98%e4%bc%
- 9a%e6%9c%89%e7%be%8e%e5%9b%bd%e8%88%aa%e5%a4%a9%e5%91%98" class="more-link
- ">继续阅读<span class="screen-reader-text">Soyuz 2.1a • Soyuz MS-19(
- 66S)• 全俄成员组，商业太空游客短期访问旅行，导演与
- 女演员拍摄太空电影</span> <span class="meta-nav">&rarr\;</span></
- a>
+ 东·尼古拉耶维奇/英文： … 继续阅读Soyuz 2.1a • Soyuz MS-
+ 19(66S)• 全俄成员组，商业太空游客短期访问旅行，导演
+ 与女演员拍摄太空电影 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%80%a2-soyuz-ms-1866
  s%e2%80%a2-%e5%85%a8%e4%bf%84%e6%88%90%e5%91%98%e7%bb%84%ef%bc%8c%e5%8f%af
@@ -2316,6 +2315,9 @@ SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第十一批次组网
 DTSTART;TZID=Asia/Shanghai:20211007
 DTEND;TZID=Asia/Shanghai:20211007
 UID:95339
+CATEGORIES:Roscosmos
+CATEGORIES:Soyuz 2
+CATEGORIES:俄罗斯发射
 CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：拜科努尔航天发射场31/6 火箭：Soyuz 2.1b/F
@@ -2336,6 +2338,8 @@ CATEGORIES:Falcon 9
 CATEGORIES:NASA
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:CrewDragon
+CATEGORIES:载人发射
 CLASS:PUBLIC
 DESCRIPTION:任务logo 任务logo(2) 远征-66队logo 国际空间站站
  徽 地点：肯尼迪航天中心LC-39A发射台 火箭：Falcon 9 Block5
@@ -2348,29 +2352,29 @@ DESCRIPTION:任务logo 任务logo(2) 远征-66队logo 国际空间站站
  ESA(可能会有俄方) 轨道：LEO，ISS 箭体：预计为B. 1067.1 回
  收方式：海上回收 主成员组： 【美，指挥官（ CDR）第
  一次执行任务】中文：拉贾·乔恩·伍尔普托尔·查里/英
- 文：Raja Jon Vurputoor &#8220\;Grinder&#8221\; 查里1977年6月24日出
- 生于 威斯康星州密尔沃基市，查理将是继1997年的卡尔帕
- 纳·舒拉和2006年的苏尼塔·威廉姆斯之后，第三位进入太
- 空的印度裔美国人。2017年，当NASA宣布“ 阿耳特弥斯”
- 项目时，他从18000名申请者中脱颖而出。查里的父亲斯里
- 尼瓦斯·查里来自泰伦加纳邦马赫布讷格尔，在海得拉巴
- 的奥斯马尼亚大学完成学业后移居美国。 他毕业于美国
- 空军学院，并获得了航空工程和工程科学学士学位。他
- 继续攻读麻省理工学院（MIT）获得航空航天学硕士学位
- ，并从美国海军试验飞行员学校毕业。入选航天员前其
- 为美国空军中校，在爱德华兹空军基地第461测试飞行中
- 队担任F-35联合攻击战斗机集成试验部队主任，在F-35，F-1
- 5，F-16和F-18战斗机上的累计飞行时间超过2000个小时。 查
- 理17年成功入选NASA-22批次航天员，此前21批次航天员的选
- 拔中他遗憾落选。去年12月美国前副总统迈克·彭斯在NASA
- 位于佛罗里达州的肯尼迪航天中心宣布了18名参加“ 阿
- 耳特弥斯”项目的成员名单，查理成功入选，此次载人
- 龙飞船任务将是其太空的“练手”机会，之后查理将转
- 入“阿尔忒弥斯”机会的登月成员组。个人已婚，目前
- 有三个孩子。 【美，任务飞行员（PLT），第三次执行任
- 务】中文：托马斯.马什本/英文：Thomas Marshburn 托马斯.马
- 什本1960年08月29日出生于北卡罗来纳州斯戴兹维尔镇。198
- 2年在北科罗莱纳州戴维森学院获得物理学学士学位，之
+ 文：Raja Jon Vurputoor “Grinder” 查里1977年6月24日出生于 威
+ 斯康星州密尔沃基市，查理将是继1997年的卡尔帕纳·舒
+ 拉和2006年的苏尼塔·威廉姆斯之后，第三位进入太空的
+ 印度裔美国人。2017年，当NASA宣布“ 阿耳特弥斯”项目
+ 时，他从18000名申请者中脱颖而出。查里的父亲斯里尼瓦
+ 斯·查里来自泰伦加纳邦马赫布讷格尔，在海得拉巴的奥
+ 斯马尼亚大学完成学业后移居美国。 他毕业于美国空军
+ 学院，并获得了航空工程和工程科学学士学位。他继续
+ 攻读麻省理工学院（MIT）获得航空航天学硕士学位，并
+ 从美国海军试验飞行员学校毕业。入选航天员前其为美
+ 国空军中校，在爱德华兹空军基地第461测试飞行中队担
+ 任F-35联合攻击战斗机集成试验部队主任，在F-35，F-15，F-
+ 16和F-18战斗机上的累计飞行时间超过2000个小时。 查理17
+ 年成功入选NASA-22批次航天员，此前21批次航天员的选拔
+ 中他遗憾落选。去年12月美国前副总统迈克·彭斯在NASA位
+ 于佛罗里达州的肯尼迪航天中心宣布了18名参加“ 阿耳
+ 特弥斯”项目的成员名单，查理成功入选，此次载人龙
+ 飞船任务将是其太空的“练手”机会，之后查理将转入
+ “阿尔忒弥斯”机会的登月成员组。个人已婚，目前有
+ 三个孩子。 【美，任务飞行员（PLT），第三次执行任务
+ 】中文：托马斯.马什本/英文：Thomas Marshburn 托马斯.马什
+ 本1960年08月29日出生于北卡罗来纳州斯戴兹维尔镇。1982
+ 年在北科罗莱纳州戴维森学院获得物理学学士学位，之
  后攻读取得弗吉尼亚大学工程物理学理学硕士与得克萨
  斯大学医学分校医学科学理学硕士学位，1989年获北卡罗
  来纳州威克森林大学医学博士学位；，1997年其第一次申
@@ -2379,13 +2383,9 @@ DESCRIPTION:任务logo 任务logo(2) 远征-66队logo 国际空间站站
  乘坐联盟TMA-07M飞船进入国际空间站驻留5个月。 其个人
  的 爱好主要为：背包旅行和登山，家庭活动，游泳，潜
  水，滑雪，弹吉他和阅读。 【德，任务专家-1（ MS-1），
- 第一次执行任务】中文：马蒂亚斯.约瑟夫/英文： &hellip\
- ; <a href="http://www.spaceflightfans.cn/event/%e3%80%909%e6%9c%88%e5%be%8
- 5%e5%ae%9a%e3%80%91falcon-9-crew-dragon-crew-3-%e8%bd%bd%e4%ba%ba%e8%88%aa
- %e7%8f%ad%e5%b8%b8%e6%80%81%e5%8c%96%e2%80%a2%e6%88%90%e5%91%98%e7%bb%84" 
- class="more-link">继续阅读<span class="screen-reader-text">Falcon 9 
- • Crew Dragon Crew-3（66s） • 载人航班常态化</span> <span cla
- ss="meta-nav">&rarr\;</span></a>
+ 第一次执行任务】中文：马蒂亚斯.约瑟夫/英文： … 继
+ 续阅读Falcon 9 • Crew Dragon Crew-3（66s） • 载人航班常态
+ 化 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e3%80%909%e6%9c%88%e5%be%85%e5%ae
  %9a%e3%80%91falcon-9-crew-dragon-crew-3-%e8%bd%bd%e4%ba%ba%e8%88%aa%e7%8f%
