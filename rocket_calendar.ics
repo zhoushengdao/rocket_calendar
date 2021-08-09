@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-09T00:32:11
-X-2-EDT:2021-07-11T16:40:16
+X-1-EDT:2021-08-10T00:33:27
+X-2-EDT:2021-08-10T00:33:27
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
 SUMMARY:长征七号遥三火箭 • 天舟二号货运飞船 • 8小时
@@ -1478,14 +1478,15 @@ URL:http://www.spaceflightfans.cn/event/ariane-5-rocket-launch-ses-17-and-
  syracuse-4a-comsat-ng-1?instance_id=4943
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas V 511 • AFSPC-8（GSSAP-5＆6监视卫星） • 新构型
- 首飞
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+SUMMARY:Atlas-V 511构型 • AFSPC-8（GSSAP-5＆6监视卫星） • 新
+ 构型首飞
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:69486
 CATEGORIES:Atlas 5
 CATEGORIES:ULA（联合发射联盟）
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：美国卡纳维拉尔角空军基地 SLC-41 火箭：
  Atlas V 511（宇宙神5，511构型） 箭体：AV-？ 载荷：AFSPC-8 (
@@ -1496,8 +1497,8 @@ DESCRIPTION:地点：美国卡纳维拉尔角空军基地 SLC-41 火箭：
  1月23日】推迟至2021 【2020年02月15日】添加此次任务，年
  底发射。
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/atlas-v-511-afspc-8?instance_id=45
- 72
+URL:http://www.spaceflightfans.cn/event/atlas-v-511-afspc-8?instance_id=49
+ 37
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas-V 551构型 •  STP-3(含有NASA的STPSat 6和六颗军方
@@ -1545,8 +1546,8 @@ URL:http://www.spaceflightfans.cn/event/electron%e2%80%a2-lc1b%e5%b7%a5%e4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • SARah 1 • 德国侦察卫星星座
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:44939
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1563,7 +1564,7 @@ DESCRIPTION:地点：范登堡空军基地SLC-4E 火箭：Falcon 9 Block 5
  察卫星星座 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-sarah1-sate
- llite?instance_id=4884
+ llite?instance_id=5014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L31批次Starlink通信卫星组网发射
@@ -1585,8 +1586,8 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L32批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:93376
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1599,12 +1600,12 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-32批次星链
  加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l32?instance_id=4887
+ -0-l32?instance_id=5009
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L33批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:93377
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1617,12 +1618,12 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-33批次星链
  加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l33?instance_id=4888
+ -0-l33?instance_id=5008
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L34批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:93378
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1635,12 +1636,12 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-31批次星链
  加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l34?instance_id=4722
+ -0-l34?instance_id=5007
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L35批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:93379
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1653,7 +1654,7 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-35批次星链
  加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l35?instance_id=4724
+ -0-l35?instance_id=5006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V2.0-L1批次Starlink通信卫星组网发射
@@ -2400,6 +2401,7 @@ DTEND;TZID=Asia/Shanghai:20211028
 UID:88555
 CATEGORIES:Soyuz 2
 CATEGORIES:俄罗斯发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：哈萨克斯坦拜科努尔航天发射场 LC-31/6 
  火箭：Soyuz-2.1a（第19XX发R-7系列运载火箭，Soyuz2.1a火箭不
@@ -2450,13 +2452,8 @@ DESCRIPTION:地点：哈萨克斯坦拜科努尔航天发射场 LC-31/6
  十分重要的。 进步飞船任务基本介绍 （进步货运飞船结
  构图） （选自《国际太空》（1）老当益壮的俄罗斯“进
  步”系列货运飞船、（2）进步 MS-04货运飞船发射失败原
- 因分析 徐映霞 王霄 &hellip\; <a href="http://www.spaceflightfans.c
- n/event/soyuz-2-1a-%e2%80%a2-progress-%d0%bcs-18-79p-%e8%b4%a7%e8%bf%90%e9
- %a3%9e%e8%88%b9-%e2%80%a2-%e5%9b%bd%e9%99%85%e7%a9%ba%e9%97%b4%e7%ab%99%e8
- %a1%a5%e7%bb%99%e4%bb%bb%e5%8a%a1" class="more-link">继续阅读<span cla
- ss="screen-reader-text">Soyuz 2.1a • Progress МS-18 (79P) 货运飞船 
- • 国际空间站补给任务</span> <span class="meta-nav">&rarr\;</spa
- n></a>
+ 因分析 徐映霞 王霄 … 继续阅读Soyuz 2.1a • Progress МS-18 
+ (79P) 货运飞船 • 国际空间站补给任务 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%80%a2-progress-%d0%
  bcs-18-79p-%e8%b4%a7%e8%bf%90%e9%a3%9e%e8%88%b9-%e2%80%a2-%e5%9b%bd%e9%99%
@@ -2464,20 +2461,24 @@ URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%80%a2-progress-%d0%
  _id=4359
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【2021年10月待定】长征二号丁遥五十三 • 主载荷
- 待定 • 次级载荷田园一号 • LongMarch-2D Y53
+SUMMARY:【2021年10月待定】长征二号丁遥五十三 • 疑似携
+ 带3.35m载荷舱 • 主载荷待定/太阳Hα光谱探测与双超平台
+ 科学技术试验卫星（CHASE）/田园一号 • LongMarch-2D Y53 • 
+ MainPayload TBD/CHASE/TianYuan-1
 DTSTART;TZID=Asia/Shanghai:20211031
 DTEND;TZID=Asia/Shanghai:20211031
 UID:92535
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征二号丁
+CATEGORIES:
 CLASS:PUBLIC
-DESCRIPTION:地点(Launch Site)：中国太原卫星发射中心 LC-9 火
+DESCRIPTION:地点(Launch Site)：中国太原卫星发射中心LC-9 火
  箭(Vehicle)：长征二号丁遥五十三运载火箭（CZ-2D Y53） 载
- 荷(Payload)：主载荷未知，次级载荷田园一号 客户(Customer)
- ：？ 重量(Mass)：TBD 轨道(Orbit)：SSO 卫星平台(Satellite Bus)
- ：TBD 【2021年4月26日】添加此次任务。
+ 荷(Payload)：主载荷未知，次级载荷太阳Hα光谱探测与双
+ 超平台科学技术试验卫星（CHASE），田园一号 客户(Custome
+ r)：？ 重量(Mass)：TBD 轨道(Orbit)：517km SSO 卫星平台(Satelli
+ te Bus)：TBD 【2021年4月26日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e3%80%902021%e5%b9%b410%e6%9c%88%
  e5%be%85%e5%ae%9a%e3%80%91%e9%95%bf%e5%be%81%e4%ba%8c%e5%8f%b7%e4%b8%81%e9
@@ -2577,6 +2578,7 @@ UID:13530
 CATEGORIES:Ariane 5
 CATEGORIES:Arianespace
 CATEGORIES:欧洲发射
+CATEGORIES:史诗级跳票
 CLASS:PUBLIC
 DESCRIPTION:地点：法属圭亚那库鲁圭亚那太空中心 ELA-3工
  位 火箭：Ariane 5 ECA 载荷：詹姆斯·韦伯太空望远镜（Jame
@@ -2644,19 +2646,16 @@ DESCRIPTION:地点：法属圭亚那库鲁圭亚那太空中心 ELA-3工
  虽然进度不断推迟，经费飙涨，已经耗资超过80亿美元（
  预计很快上百亿）但是依旧被视作旗舰任务而不断推进
  。 作为研发风险，韦伯望远镜作为美国宇航局史上最复
- 杂的项目之一，其风险是巨大的，和&#8221\;哈勃太空望远
- 镜&#8221\;不一样的是，&#8221\;詹姆斯-韦伯&#8221\;因为距离
- 地球太遥远无法派宇航员进行维修保养，所以它的设计
- 制造必须完美无缺，否则将功亏一篑！未来的系统集成
- 测试中还可能发现未知问题，一旦测试遇到困难，就会
- 导致发射被推迟。如果韦伯望远镜能够顺利进入轨道服
- 役，可展示其强大的观测能力。 截止2018年06月27日，多
- 次的推迟导致其研制费用达到惊人的96.6亿美元。NASA估计
- 最初的概念只需要5亿美元。 &hellip\; <a href="http://www.spacef
- lightfans.cn/event/ariane-5-eca-%e2%80%a2-james-webb-space-telescope" clas
- s="more-link">继续阅读<span class="screen-reader-text">Ariane 5 ECA 
- • 詹姆斯·韦伯太空望远镜</span> <span class="meta-nav">&rarr\;
- </span></a>
+ 杂的项目之一，其风险是巨大的，和”哈勃太空望远镜
+ ”不一样的是，”詹姆斯-韦伯”因为距离地球太遥远无
+ 法派宇航员进行维修保养，所以它的设计制造必须完美
+ 无缺，否则将功亏一篑！未来的系统集成测试中还可能
+ 发现未知问题，一旦测试遇到困难，就会导致发射被推
+ 迟。如果韦伯望远镜能够顺利进入轨道服役，可展示其
+ 强大的观测能力。 截止2018年06月27日，多次的推迟导致
+ 其研制费用达到惊人的96.6亿美元。NASA估计最初的概念只
+ 需要5亿美元。 … 继续阅读Ariane 5 ECA • 詹姆斯·韦伯太
+ 空望远镜 →
 LOCATION:法属圭亚那库鲁圭亚那太空中心 ELA-3
 URL:http://www.spaceflightfans.cn/event/ariane-5-eca-%e2%80%a2-james-webb-
  space-telescope?instance_id=3489
@@ -2669,11 +2668,12 @@ UID:83311
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：范德堡空军基地SLC-4E 火箭：Falcon 9 Block 5
-  载荷：WorldView Legion 1 &amp\; 2双星 重量：TBD 客户：Maxar 
- 轨道：450km 低地球轨道 箭体：TBD 回收：TBD 动态： 【2020
- .12.15】推迟至2021年Q3季度 【2020.11.23】添加此次任务
+  载荷：WorldView Legion 1 & 2双星 重量：TBD 客户：Maxar 轨道
+ ：450km 低地球轨道 箭体：TBD 回收：TBD 动态： 【2020.12.15
+ 】推迟至2021年Q3季度 【2020.11.23】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-%e2%80%a2-launch-worldvie
  w-legion-1-2-satellite?instance_id=4642
@@ -20082,6 +20082,7 @@ UID:52376
 CATEGORIES:Falcon Heavy
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：CCSFS LC-39A 火箭：Falcon Heavy F4 客户：美国
  太空军（U.S. Space Force） 载荷：USSF-44 质量：3.7t 回收：
@@ -20092,10 +20093,8 @@ DESCRIPTION:地点：CCSFS LC-39A 火箭：Falcon Heavy F4 客户：美国
  巨型可展开天线。 动态： 【2021年5月31日】因为载荷原
  因，USSF-44推迟到2021年10月。 【2020年09月24日】The mission\,
   USSF-44\, is scheduled to launch no earlier than February 28\, 2021. The 
- classified payload for the &hellip\; <a href="http://www.spaceflightfans.c
- n/event/falcon-heavy-afspc-44" class="more-link">继续阅读<span class="
- screen-reader-text">Falcon Heavy • USSF-44 • 美太空军卫星 • 
- 重型猎鹰直送GEO</span> <span class="meta-nav">&rarr\;</span></a>
+ classified payload for the … 继续阅读Falcon Heavy • USSF-44 • 
+ 美太空军卫星 • 重型猎鹰直送GEO →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-heavy-afspc-44?instance_id=
  4777
@@ -20109,6 +20108,7 @@ UID:85159
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征二号F
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：中国内蒙古酒泉卫星发射中心 LC-90工位 
  火箭：长征二号F改 遥十三箭（CZ-2F/G Y13） 载荷：神舟十
@@ -20195,10 +20195,8 @@ DESCRIPTION:地点：中国内蒙古酒泉卫星发射中心 LC-90工位
  进舱侧裙外还有辅助用的小型推进器。 附加段在神七之
  前携带各种设备（因为涉密性质不少设备暂不能直接介
  绍）神八起由对接装置取代。 直播：待定，预计央视直
- 播 动态： &hellip\; <a href="http://www.spaceflightfans.cn/event/cz-2f
- -shenzhou-13" class="more-link">继续阅读<span class="screen-reader-tex
- t">长征二号F/G Y13 • 神舟十三号载人飞船 • LongMarch 2F/G 
- Y13 • Shenzhou-13</span> <span class="meta-nav">&rarr\;</span></a>
+ 播 动态： … 继续阅读长征二号F/G Y13 • 神舟十三号载
+ 人飞船 • LongMarch 2F/G Y13 • Shenzhou-13 →
 LOCATION:中国内蒙古酒泉卫星发射中心
 URL:http://www.spaceflightfans.cn/event/cz-2f-shenzhou-13?instance_id=4633
 END:VEVENT
@@ -20208,6 +20206,7 @@ SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第十二批次组网
 DTSTART;TZID=Asia/Shanghai:20211101
 DTEND;TZID=Asia/Shanghai:20211101
 UID:95340
+CATEGORIES:
 CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：拜科努尔航天发射场31/6 火箭：Soyuz 2.1b/F
@@ -20228,6 +20227,7 @@ UID:94716
 CATEGORIES:ILS
 CATEGORIES:Proton M
 CATEGORIES:俄罗斯发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：哈萨克斯坦拜科努尔航天发射场 LC-200/39
  工位 火箭：Proton-M火箭 载荷：Ekspress-AMU3，Ekspress-AMU7 平
@@ -20240,22 +20240,129 @@ URL:http://www.spaceflightfans.cn/event/proton-m-%e2%80%a2-launch-ekspress
  -amu3%ef%bc%8cekspress-amu7-satellite?instance_id=4839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas V 401构型 • Lucy(“露西”号小行星探测器)
-DTSTART;TZID=Asia/Shanghai:20211116
-DTEND;TZID=Asia/Shanghai:20211116
+SUMMARY:Atlas-V 401构型 • Lucy(“露西”号小行星探测器)
+DTSTART;TZID=Asia/Shanghai:20211116T173400
+DTEND;TZID=Asia/Shanghai:20211116T173400
 UID:89754
 CATEGORIES:Atlas 5
 CATEGORIES:ULA（联合发射联盟）
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：美国卡纳维拉尔角空军基地 SLC-41 火箭：
  Atlas V 551（宇宙神5，551构型） 箭体：TBD 载荷：Lucy小行
  星探测器 平台：TBD 质量：1550kg 客户：美国国家航天局 N
- ASA 轨道：日心轨道(Heliocentric) Lucy探测器轨道规划 &nbsp\; 
- 动态： 【2021年03月08日】添加此次任务
+ ASA 轨道：日心轨道(Heliocentric) Lucy探测器轨道规划 我估
+ 计很多人看到这个旗舰项目后的第一反应肯定是：“嗯
+ ？露西是什么？怎么之前没怎么听到过这个项目？” 简
+ 而言之，“露西”是一个预计在今年10月发射的深空探测
+ 器，初步计划12年的任务会带着这个仅1.4吨的探测器数次
+ 穿越整个内太阳系，造访从未有过探测器到达过的木星
+ 特洛伊小行星群。 飞掠深藏太阳系诞生秘密的小行星的
+ 露西探测器（NASA） 想必之前很多人都没有听说过这个充
+ 满古希腊味名字的天体群，简而言之特洛伊小行星群是
+ 一群围绕着太阳运行但和木星共用大致轨道的小行星群
+ ，由在木星轨道前方和太阳的L4拉格朗日点以及木星轨道
+ 后方和太阳的L5拉格朗日点两片组成。 右下角黄点为木
+ 星，两片绿点即为特洛伊小行星群 有趣的是由于拉格朗
+ 日点最早的天文观测证据便是木星的特洛伊小行星群，L4
+ 和L5这两个拉格朗日点也常被称为特洛伊点。要了解“露
+ 西”能让载人航天都让路的重要性，自然就要先了解拉
+ 格朗日点的特殊性，而要了解拉格朗日点的特殊性，还
+ 要从一个常被误解的概念静稳定说起。 假设我们有一个
+ 单摆，将其轻微拉起后放下，单摆会在数次摇动后回到
+ 垂直姿态，那么单摆便是一个静稳定的状态。物理学上
+ 讲在物体因受到外力而离开起始位置后，会有一个天然
+ 反向恢复力把物体推会起始位置，那该构造便是静稳定
+ 的状态。拿单摆举例，重力造成的mgsinθ便是天然的反向
+ 恢复力。 但值得注意的一点是静稳定，并不等于静，或
+ 者说不动。单摆之所以会回到垂直姿态，是因为绳子或
+ 者细杆和配重都有空气阻力减速，固定点也有旋转摩擦
+ 阻力。如果假设一个理想状态没有任何空气阻力且无任
+ 何摩擦力，那么我们抬起配重增加的势能会全部转换成
+ 垂直姿态下的动能，配重因惯性继续前行到另一端同样
+ 高度再次转换成势能，如此循环。也就是虽然单摆在不
+ 断的移动，但其依然是一个静稳定的状态，顺带一提这
+ 也是老式钟摆的计时原理。换言之由于只是动能和势能
+ 在不断的交换，整体能量并没有变化，我们可以把单摆
+ 的垂直姿态看作是“能量山脉”中的山谷，在“山脚”
+ 的位置为静稳定点，反过来配重最高点对应的“山顶”
+ 位置则为静不稳定点。 如果我们把这座“山”从2D拓展
+ 到3D，便能看到4种不同类型的特殊点。如果两个方向（X
+ ，Y）都是最高点，那便是绝对的静不稳定点。若两个方
+ 向都是最低点，那便是绝对的静稳定点。如果一个方向
+ 是最高点另一个方向是最低点，那便是鞍点。如果一个
+ 方向一边是最高点另一边是最低点，那便是拐点。 “山
+ 脚”，“山顶”，“鞍点” 那这和拉格朗日点有啥关系
+ 呢？拉格朗日点便是在两个旋转星体所产生的引力势能
+ “山脉”中的五个特殊点。 L1为势能鞍点，只在垂直于
+ 两个星体连线的方向上为最低点。L2和 L3皆为拐点，只有
+ 一边是最高点其余三边都是最低点。L4和L5为静不稳定点
+ ，所有方向都是最高点。从引力势能上来讲所有的拉格
+ 朗日点都是“山顶”，也就是静不稳定点。唉等等，L4和
+ L5怎么是静不稳定点啊？不是常说的L4和L5是两个稳定的
+ 拉格朗日点吗？这便是对拉格朗日点的最大误区，还记
+ 得之前的单摆模型吗？只要有一个天然反向的恢复力，
+ 哪怕在不断移动也会是静稳定状态，可从来没有说过静
+ 稳定状态一定要经过静稳定点啊。老看拉格朗日点的图
+ ，可别忘了图只是简化，实际上所有拉格朗日点都是跟
+ 随者两个质量的质心在不断旋转的。 而让L4和L5能在“山
+ 顶反复横跳”的，正是拉格朗日点旋转参考系带来的额
+ 外科氏力。啊没错，这个在旋转式人工重力里提到的老
+ 朋友又回来了。 在地球上如果前进方向和地球旋转方向
+ 一致，那么地球旋转的科氏力会让前进方向偏向赤道，
+ 所以由西向东北半球会向南偏转，南半球则向北偏转。
+ 且距离赤道越远，科氏力产生的偏转就越大，就像把单
+ 摆配重抬的越高其恢复的速度就越快一样，本质上也可
+ 以把科氏力理解为一种将前进方向改回赤道“轨道面“
+ 的恢复力。 正如从高点下落的单摆，势能转换成动能，
+ 物体离开L4和L5的势能“山顶”也会获得更多的动能，也
+ 就是线性速度。由于科氏力的方程里同时有角速度（ω）
+ 和线性速度（v），线性速度增加意味着科氏力也会增加
+ ，形成一种天然的恢复力把物体又偏转“推”了回去。
+ 如果这有些难以理解的话，可以把L4和L5的科氏力想象成
+ 罩在山顶周围一定区域内的怪力场，会施加一个扭力改
+ 变所有试图“下山”物体的轨迹，使其始终留在怪力场
+ 内无法下山。所以L4和L5与其说是一个稳定点，不如说是
+ 一个庞大的稳定区域，让在这个区域内的所有物体都能
+ 在一定外在干扰力后依然保留在这个区域内。对于质量
+ 庞大的木星来说，这个稳定的“怪力区”便非常的大，
+ 特洛伊小行星群覆盖了前后将近26度的木星轨道，最长达
+ 2.5AU最宽达到0.6AU（一个AU约为1.5亿千米或8光分）。 现代
+ 天文学已经观测到9800颗，而预估直径超过1千米的特洛伊
+ 小行星有约1百万颗，和火星与木星之间主小行星带（Main
+  Belt）同样直径的小行星数量大致相同。 需要注意的是
+ 正如单摆摆动幅度可以较大但却依然保持静稳定状态，
+ 在木星的L4和L5区域的特洛伊小行星实际环绕太阳的轨道
+ 也会和木星的轨道有很大差别。比如WN204和BK101两颗小行
+ 星和木星轨道平面有40多度的夹角，“露西”要飞掠拜访
+ 的15094和木星轨道平面夹角约为12度。不采用2D平面视角
+ 而采用3D视角下的木星特洛伊小行星群，实际上是这样的
+ ： 也正是凭借这些独一无二的特性，木星的特洛伊小行
+ 星群有着极高的科学价值。“山顶”的怪力场让大量小
+ 行星有如时间胶囊一样保存下来了太阳系诞生之初便诞
+ 生的物质，但同时由于怪力场只维持在“山顶”周围，
+ 如果有足够大的力一口气“冲出”怪力区，小行星依然
+ 可以离开木星的L4和L5范围，这就让任何模拟太阳系形成
+ 的理论都不能忽视两个庞大小行星群的存在。同时也意
+ 味着太阳系内其他的小行星，极有可能来源自特洛伊小
+ 行星群中的小行星，他们互相之间引力影响乃至碰撞，
+ 导致产生了足以离开L4和L5稳定区的能量。电脑模拟显示
+ 自太阳系诞生以来，已经有约17%的特洛伊小行星因各种
+ 原因进入了不稳定的状态。而就是这个有助于理解太阳
+ 系诞生的“金矿”，却因其所在遥远的木星轨道，迄今
+ 为止都没有任何探测器进行过近距离观测。NASA给探测器
+ 起名为“露西”，是以阿法南方古猿化石标本AL288-1“露
+ 西”命名，意欲特洛伊小行星群正如太阳系形成的“化
+ 石”。巧合的是发现标本“露西”的考古学家Donald Johanso
+ n，以他名字命名的主小行星带小行星52246，其轨道位置
+ 恰好和探测器“露西”去L4特洛伊小行星群的轨道位置重
+ 合，“露西”探测器会以922千米的距离飞掠小行星Donald J
+ ohanson，完成次颇具闭环意味的探测。 … 继续阅读Atlas-V 
+ 401构型 • Lucy(“露西”号小行星探测器) →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/atlas-5-%e2%80%a2-launch-lucy-sate
- llite?instance_id=4497
+ llite?instance_id=5020
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:【预计推迟至22年】Soyuz 2.1a • Progress МS-19 (80P) 货
@@ -20265,6 +20372,7 @@ DTEND;TZID=Asia/Shanghai:20211117
 UID:88558
 CATEGORIES:Soyuz 2
 CATEGORIES:俄罗斯发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：哈萨克斯坦拜科努尔航天发射场 LC-31/6 
  火箭：Soyuz-2.1a（第19XX发R-7系列运载火箭，Soyuz2.1a火箭不
@@ -20316,14 +20424,9 @@ DESCRIPTION:地点：哈萨克斯坦拜科努尔航天发射场 LC-31/6
  行运输保存时间短的生物材料是十分重要的。 进步飞船
  任务基本介绍 （进步货运飞船结构图） （选自《国际太
  空》（1）老当益壮的俄罗斯“进步”系列货运飞船、（2
- ）进步 MS-04货运飞船发射失败原因分析 徐映霞 &hellip\; <a
-  href="http://www.spaceflightfans.cn/event/%e3%80%90%e9%a2%84%e8%ae%a1%e6%
- 8e%a8%e8%bf%9f%e8%87%b322%e5%b9%b4%e3%80%91soyuz-2-1a-%e2%80%a2-progress-%
- d0%bcs-19-80p-%e8%b4%a7%e8%bf%90%e9%a3%9e%e8%88%b9-%e2%80%a2-%e5%9b%bd%e9%
- 99%85%e7%a9%ba" class="more-link">继续阅读<span class="screen-reader-t
- ext">【预计推迟至22年】Soyuz 2.1a • Progress МS-19 (80P) 货运
- 飞船 • 国际空间站补给任务</span> <span class="meta-nav">&rarr
- \;</span></a>
+ ）进步 MS-04货运飞船发射失败原因分析 徐映霞 … 继续
+ 阅读【预计推迟至22年】Soyuz 2.1a • Progress МS-19 (80P) 货
+ 运飞船 • 国际空间站补给任务 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e3%80%90%e9%a2%84%e8%ae%a1%e6%8e%
  a8%e8%bf%9f%e8%87%b322%e5%b9%b4%e3%80%91soyuz-2-1a-%e2%80%a2-progress-%d0%
@@ -20339,6 +20442,7 @@ UID:89832
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：美国肯尼迪航天中心 LC-39A 火箭：Falcon 9 
  载荷：IXPE(X射线成像偏振探测器) 平台：BCP-100 质量：整
@@ -20346,11 +20450,8 @@ DESCRIPTION:地点：美国肯尼迪航天中心 LC-39A 火箭：Falcon 9
  航天局 ASI 轨道：540km高度，0.2度倾角近地轨道 箭体：TBD
   相关资料： 1. IXPE 2017 IEEE Aerospace Conference 2. IXPE Introducti
  on 2 3. IXPE introduction 4. Small Satellite platform Imaging X-Ray Polari
- metry Explore(IXPE) &hellip\; <a href="http://www.spaceflightfans.cn/event
- /falcon-9-launch-imaging-x-ray-polarimetry-explorer" class="more-link">继
- 续阅读<span class="screen-reader-text">Falcon 9 • IXPE(Imaging X-ray 
- Polarimetry Explorer) • X射线成像偏振探测器</span> <span class=
- "meta-nav">&rarr\;</span></a>
+ metry Explore(IXPE) … 继续阅读Falcon 9 • IXPE(Imaging X-ray Polari
+ metry Explorer) • X射线成像偏振探测器 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-launch-imaging-x-ray-pola
  rimetry-explorer?instance_id=4502
@@ -20364,6 +20465,7 @@ DTEND;TZID=Asia/Shanghai:20211122
 UID:13532
 CATEGORIES:NASA
 CATEGORIES:Space Launch System
+CATEGORIES:首次发射
 CLASS:PUBLIC
 DESCRIPTION:任务logo 地点：美国肯尼迪航天中心LC-39B发射台
   时间：（可能会在）21世纪 火箭：Space Launch System Block-1
@@ -20385,54 +20487,50 @@ DESCRIPTION:任务logo 地点：美国肯尼迪航天中心LC-39B发射台
  管接生新生儿的权力。她是古希腊人祭祀最多的神只之
  一。世界七大奇迹之一的阿尔忒弥斯神庙就是专门为她
  修建的。 阿尔忒弥斯计划 2019年7月20号是人类首次载人
- 登陆月球50周年纪念日，美国公布了&#8221\;阿尔忒弥斯计
- 划&#8221\;的官方标志图案，正式宣告将在月球建立永久存
- 在基地。 1969年，美国的&#8221\;阿波罗计划&#8221\;将阿姆
- 斯特朗送上了月球，迈出了人类登月的第一步，使美国
- 在冷战中占到了领先位置。7月20号，阿姆斯特朗登月50周
- 年的这一天，美国宇航局公布了&#8221\;阿尔忒弥斯计划&#8
- 221\;的标志图案，使得这一计划浮出水面。 美国航空航
- 天局(NASA)前局长吉姆·布里登斯廷:“是时候把我们在国
- 际空间站学到的所有东西都用在月球计划上并开始下一
- 步，在月球上建立永久存在基地。” 这个以希腊神话中
- 月亮女神&#8221\;阿尔忒弥斯&#8221\;命名的计划，提出在2024
- 年以前美国实现载人登月，最终在月球表面建立一个长
- 期生存基地，美媒直呼，美国要&#8221\;占领&#8221\;月球了
- 。 美国CNBC电视台主持人:美国航空航天局的长期计划是
- 回到月球、占领月球、建立中转站，然后进一步进军火
- 星。 美国CNBC电视台记者:根据该计划，将在未来五年内
- 安排一名男性或女性登月。这一计划极具雄心，就是回
- 归月球，月球定居，学习，然后再造月球，把它作为前
- 往火星或进行其他星际探索的中转站。所以50年前参与&#8
- 221\;阿波罗登月计划&#8221\;的一家企业就在推进&#8221\;阿
- 尔忒弥斯&#8221\;计划，那就是波音，他们在建造超动力推
- 进系统(SLS)火箭。 据美媒报道，超动力推进系统火箭将
- 使美国人重返月球，同时美国还将建造一个名为&#8221\;月
- 球门户&#8221\;的太阳能迷你空间站，绕月运行，最终美国
+ 登陆月球50周年纪念日，美国公布了”阿尔忒弥斯计划”
+ 的官方标志图案，正式宣告将在月球建立永久存在基地
+ 。 1969年，美国的”阿波罗计划”将阿姆斯特朗送上了月
+ 球，迈出了人类登月的第一步，使美国在冷战中占到了
+ 领先位置。7月20号，阿姆斯特朗登月50周年的这一天，美
+ 国宇航局公布了”阿尔忒弥斯计划”的标志图案，使得
+ 这一计划浮出水面。 美国航空航天局(NASA)前局长吉姆·
+ 布里登斯廷:“是时候把我们在国际空间站学到的所有东
+ 西都用在月球计划上并开始下一步，在月球上建立永久
+ 存在基地。” 这个以希腊神话中月亮女神”阿尔忒弥斯
+ ”命名的计划，提出在2024年以前美国实现载人登月，最
+ 终在月球表面建立一个长期生存基地，美媒直呼，美国
+ 要”占领”月球了。 美国CNBC电视台主持人:美国航空航
+ 天局的长期计划是回到月球、占领月球、建立中转站，
+ 然后进一步进军火星。 美国CNBC电视台记者:根据该计划
+ ，将在未来五年内安排一名男性或女性登月。这一计划
+ 极具雄心，就是回归月球，月球定居，学习，然后再造
+ 月球，把它作为前往火星或进行其他星际探索的中转站
+ 。所以50年前参与”阿波罗登月计划”的一家企业就在推
+ 进”阿尔忒弥斯”计划，那就是波音，他们在建造超动
+ 力推进系统(SLS)火箭。 据美媒报道，超动力推进系统火
+ 箭将使美国人重返月球，同时美国还将建造一个名为”
+ 月球门户”的太阳能迷你空间站，绕月运行，最终美国
  将迈出登上火星的第一步。包括波音公司在内，未来将
  有11家公司参与这一计划。完成这一计划的预算将是天文
- 数字，据估算，&#8221\;阿尔忒弥斯计划&#8221\; 阿尔忒弥斯
- 1任务状态： NASA局长Bridenstine表示：“我们当前面临的挑
- 战，就是缺少这样一枚火箭。那东西不存在，SLS完全不
- 顶用”。作为备用方案，NASA考虑将两者分拆发射，那样
- 就可以用到两枚重型商用火箭了。我们可以分别用两枚
- 火箭将猎户座和欧洲服务舱发射上去，等它们进入轨道
- 后，再将它们与上级动力组装起来，以便将太空舱与支
- 撑模块推送到月球轨道。 Bridenstine未透露正在考虑使用
- 哪种火箭，但去年首次亮相的SpaceX重型猎鹰、以及联合
- 发射联盟的Delta IV Heavy，都是一个不错的选择。EM-1项目
- 换用商用火箭，将是对SLS的另一大打击，后者因超出预
- 算和发展缓慢而饱受诟病。据估计，NASA已经在SLS上投入
- 了140亿美元的巨资。 后续 2011到2020年，SLS总耗资186亿美
- 元。 按照2020年的美元通货膨胀计算，则是达到了203亿美
- 元。 从目前的趋势来看，2022年前后最可能研制成功，所
- 以还需要花费25亿*2=50亿美元。 从2011到2022年，SLS的研制
- 成本达到了250亿美元。 Artemis &hellip\; <a href="http://www.space
- flightfans.cn/event/space-launch-system_em-1" class="more-link">继续阅
- 读<span class="screen-reader-text">Space Launch System（太空发射系
- 统） • Artemis 1（阿尔忒弥斯1号，前Exploration Mission 1） 
- • 首次发射（力争今年年底首飞）</span> <span class="meta-na
- v">&rarr\;</span></a>
+ 数字，据估算，”阿尔忒弥斯计划” 阿尔忒弥斯1任务状
+ 态： NASA局长Bridenstine表示：“我们当前面临的挑战，就
+ 是缺少这样一枚火箭。那东西不存在，SLS完全不顶用”
+ 。作为备用方案，NASA考虑将两者分拆发射，那样就可以
+ 用到两枚重型商用火箭了。我们可以分别用两枚火箭将
+ 猎户座和欧洲服务舱发射上去，等它们进入轨道后，再
+ 将它们与上级动力组装起来，以便将太空舱与支撑模块
+ 推送到月球轨道。 Bridenstine未透露正在考虑使用哪种火
+ 箭，但去年首次亮相的SpaceX重型猎鹰、以及联合发射联
+ 盟的Delta IV Heavy，都是一个不错的选择。EM-1项目换用商
+ 用火箭，将是对SLS的另一大打击，后者因超出预算和发
+ 展缓慢而饱受诟病。据估计，NASA已经在SLS上投入了140亿
+ 美元的巨资。 后续 2011到2020年，SLS总耗资186亿美元。 按
+ 照2020年的美元通货膨胀计算，则是达到了203亿美元。 从
+ 目前的趋势来看，2022年前后最可能研制成功，所以还需
+ 要花费25亿*2=50亿美元。 从2011到2022年，SLS的研制成本达
+ 到了250亿美元。 Artemis … 继续阅读Space Launch System（太空
+ 发射系统） • Artemis 1（阿尔忒弥斯1号，前Exploration Missi
+ on 1） • 首次发射（力争今年年底首飞） →
 LOCATION:美国肯尼迪航天中心LC-39B发射台
 URL:http://www.spaceflightfans.cn/event/space-launch-system_em-1?instance_
  id=4816
@@ -20446,6 +20544,7 @@ UID:54010
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：范登堡空军基地SLC4E发射台 火箭：Falcon 9
   Block5 载荷： 1. Double Asteroid Redirection Test (DART) 小行星重
@@ -20455,11 +20554,8 @@ DESCRIPTION:地点：范登堡空军基地SLC4E发射台 火箭：Falcon 9
  心轨道 箭体：TBD 回收：TBD 官宣网址： https://www.nasa.gov/p
  ress-release/nasa-awards-launch-services-contract-for-asteroid-redirect-te
  st-mission 任务官方页面： https://www.nasa.gov/planetarydefense/dar
- t &hellip\; <a href="http://www.spaceflightfans.cn/event/falcon-9-rocket-l
- aunch-double-asteroid-redirection-test-satellite" class="more-link">继续
- 阅读<span class="screen-reader-text">Falcon 9 • DART小行星探测任
- 务 • Double Asteroid Redirection Test</span> <span class="meta-nav">&ra
- rr\;</span></a>
+ t … 继续阅读Falcon 9 • DART小行星探测任务 • Double Astero
+ id Redirection Test →
 LOCATION:范登堡空军基地SLC4E发射台
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-double-aste
  roid-redirection-test-satellite?instance_id=4894
@@ -20611,25 +20707,27 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征七号甲遥三 • 高轨道试验卫星 • LongMarch-7A Y
  3 • HOTS
-DTSTART;TZID=Asia/Shanghai:20211130
-DTEND;TZID=Asia/Shanghai:20211130
+DTSTART;TZID=Asia/Shanghai:20211123
+DTEND;TZID=Asia/Shanghai:20211123
 UID:90046
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征七号甲
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国西昌卫星发射中心文昌航
  天发射场LC-201 火箭(Vehicle)：长征七号甲遥三运载火箭（L
- ongMarch-7A Y3） 载荷(Payload)：N/A 客户(Customer)：N/A 重量(Mass
- )：N/A 轨道(Orbit)：GTO 卫星平台(Satellite Bus)：N/A 设计寿命
- (Designed Life)：N/A 任务代号：07-W10 起飞时间：N/A 【2021年3
- 月12日】由八股推送，添加此次任务。具体时间未知，粗
- 估位于2021年10-11月左右。
+ ongMarch-7A Y3） 载荷(Payload)：高轨道试验卫星（HOTS High Orbi
+ t Test Satellite） 客户(Customer)：N/A 重量(Mass)：N/A 轨道(Orbit
+ )：GTO 卫星平台(Satellite Bus)：N/A 设计寿命(Designed Life)：N/
+ A 任务代号：07-W10 起飞时间：N/A 动态： 【2021年03月12日
+ 】：由八股推送，添加此次任务。具体时间未知，粗估
+ 位于2021年10-11月左右。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%b8%83%e5%8f%
  b7%e7%94%b2-%e2%80%a2-%e6%96%b0%e6%8a%80%e6%9c%af%e9%aa%8c%e8%af%81%e5%8d%
  ab%e6%98%9f%e5%85%ad%e5%8f%b702%e6%98%9f%ef%bc%88%e5%be%85%e5%ae%9a%ef%bc%
- 89-%e2%80%a2-longm?instance_id=4847
+ 89-%e2%80%a2-longm?instance_id=4956
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • GPSⅢA-6 • 第三代GPS导航定位卫星第6发
