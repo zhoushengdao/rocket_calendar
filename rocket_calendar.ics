@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-10T00:33:27
+X-1-EDT:2021-08-11T00:32:48
 X-2-EDT:2021-08-10T00:33:27
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -1436,10 +1436,9 @@ URL:http://www.spaceflightfans.cn/event/alpha-rocket-first-launch?instance
  _id=4988
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ariane 5 ECA • SES-17 / Syracuse 4A (Comsat-NG 1) 一箭双星 
- • 重型猎鹰丢掉订单
-DTSTART;TZID=Asia/Shanghai:20210930
-DTEND;TZID=Asia/Shanghai:20210930
+SUMMARY:Ariane 5 ECA • SES-17 / Syracuse 4A (Comsat-NG 1) 一箭双星
+DTSTART;TZID=Asia/Shanghai:20211015T081500
+DTEND;TZID=Asia/Shanghai:20211015T081500
 UID:42228
 CATEGORIES:Ariane 5
 CATEGORIES:Arianespace
@@ -1459,23 +1458,13 @@ DESCRIPTION:地点：法属圭亚那库鲁圭亚那太空中心 ELA-3工
  ，称其“最近同阿里安航天公司签署了2021年发射我们的
  卫星的合同”。该公司说：“我们由此退出了原有的初
  步协议。” 相关新闻： “重鹰”一客户退订，改用阿里
- 安5 简介：（机翻，凑活看，原文地址） 一家计划使用
- 地球静止通信卫星的瑞典公司于10月16日宣布与SpaceX签订
- 一份不早于2020年第四季度的Falcon Heavy发射合同。 瑞典索
- 尔纳的Ovzon尚未购买该卫星，但今年早些时候向Eutelsat支
- 付了160万美元，用于将其中一颗卫星移至一个未指明的Ov
- zon轨道位置，以保留该地区的频谱权。 Ovzon首席执行官Pe
- r Wahlberg在声明中表示，该公司第一颗卫星的采购“处于
- 最后阶段”，并且本月早些时候开始生产先进的板载处
- 理器。 “与我们公司的第一个Ovzon卫星的发射供应商签
- 约是一个重要且令人兴奋的步骤。 SpaceX为Falcon Heavy运载
- 火箭提供了一个非常有竞争力的解决方案，它将使我们
- 能够及时可靠地进入太空，“他说。 SpaceX的总裁兼首席
- 运营官Gwynne … 继续阅读Ariane 5 ECA • SES-17 / Syracuse 4A (Com
- sat-NG 1) 一箭双星 • 重型猎鹰丢掉订单 →
+ 安5 动态： 【2021年08月10日】预计10月15日 08：15发射 【20
+ 21年07月24日】拼单卫星更改， Ovzon-3改为Syracuse 4A  【2019
+ 年08月27日】任务叛逃，改为阿丽亚娜5发射。 【2018年11
+ 月01日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/ariane-5-rocket-launch-ses-17-and-
- syracuse-4a-comsat-ng-1?instance_id=4943
+ syracuse-4a-comsat-ng-1?instance_id=5021
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas-V 511构型 • AFSPC-8（GSSAP-5＆6监视卫星） • 新
@@ -20677,14 +20666,14 @@ CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:简要信息： 地点：新西兰玛西亚半岛航天发射
  场 LC-1A 火箭：Electron(电子) 载荷：STP-27RM 质量：TBD 客户
- ：美国太空军 轨道：TBD 箭体名：It’s a Little Chile Up Here 
- 发射回放： ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ 火箭信
- 息： 动态： 【2021年07月29日】火箭准时点火升空，卫星
- 顺利进入预定轨道 【2021年07月28日】预计07月29日 14：00
- 发射 【2021年07月28日】此次发射由于NASA对Electron火箭自
- 毁系统的审核延期，遂改回新西兰玛西亚半岛发射场进
- 行 【2020年11月16日】根据新闻信息，本次任务推迟至2021 
- 【2020年09月03日】添加此次任务
+ ：美国太空军 轨道：LEO 600km 37度倾角 箭体名：It’s a Lit
+ tle Chile Up Here 发射回放： ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
+ ﻿﻿﻿ 火箭信息： 动态： 【2021年07月29日】火箭准时点
+ 火升空，卫星顺利进入预定轨道 【2021年07月28日】预计07
+ 月29日 14：00发射 【2021年07月28日】此次发射由于NASA对Ele
+ ctron火箭自毁系统的审核延期，遂改回新西兰玛西亚半岛
+ 发射场进行 【2020年11月16日】根据新闻信息，本次任务
+ 推迟至2021 【2020年09月03日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron-%e2%80%a2-rocket-launch-u
  s-air-froce-stp-27rm?instance_id=4962
@@ -23582,5 +23571,41 @@ DESCRIPTION:地点：美国阿拉斯加州科迪亚克太平洋太空港
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/rocket-3-lanuch-stp-27ad1?instance
  _id=4996
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electron • BlackSky10/11地球遥感卫星
+DTSTART;TZID=Asia/Shanghai:20210831
+DTEND;TZID=Asia/Shanghai:20210831
+UID:96481
+CATEGORIES:Electron
+CATEGORIES:RocketLab
+CATEGORIES:美国发射
+CATEGORIES:
+CLASS:PUBLIC
+DESCRIPTION:简要信息： 地点：新西兰玛西亚半岛航天发射
+ 场 LC-1A 火箭：Electron(电子) 载荷：BlackSky 10/11地球遥感卫
+ 星 质量：112kg(单颗重56kg) 客户：BlackSky 轨道：SSO 箭体名
+ ：Love At First Insight 火箭信息：   动态： 【2021年08月10日
+ 】添加此次任务
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/electron-rocket-launch-blacksky-10
+ -11-satellite?instance_id=5024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LauncherOne • STP-S28A
+DTSTART;TZID=Asia/Shanghai:20211010
+DTEND;TZID=Asia/Shanghai:20211010
+UID:96479
+CATEGORIES:LauncherOne
+CATEGORIES:Virgin Orbit
+CATEGORIES:美国发射
+CATEGORIES:
+CLASS:PUBLIC
+DESCRIPTION:地点：美国加州莫哈维沙漠空域 火箭：LauncherOn
+ e 载荷：STP-S28A 质量：TBD 轨道：TBD 运载机：波音747-400 
+ 动态： 【2021年08月10日】添加此次任务
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/launcherone-%e2%80%a2-stp-s28a?ins
+ tance_id=5023
 END:VEVENT
 END:VCALENDAR
