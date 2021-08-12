@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-12T00:33:03
+X-1-EDT:2021-08-13T00:33:41
 X-2-EDT:2021-08-10T00:33:27
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -23665,5 +23665,25 @@ DESCRIPTION: 
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%b8%89%e5%8f%
  b7%e4%b9%99-%e2%80%a2-longmarch-3b?instance_id=5031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSLV • EOS-04(GIAST-1A) • 印度SAR-X波段雷达环境监测
+ 卫星
+DTSTART;TZID=Asia/Shanghai:20210930
+DTEND;TZID=Asia/Shanghai:20210930
+UID:96550
+CATEGORIES:ISRO
+CATEGORIES:PSLV
+CATEGORIES:印度发射
+CATEGORIES:
+CLASS:PUBLIC
+DESCRIPTION:地点：印度斯里赫里戈达岛萨迪什·达万航天中
+ 心 火箭：PSLV C-52 载荷：EOS-04(GIAST-1A)SAR-X波段雷达环境监
+ 测卫星 质量：1858kg 电功率：1850W 轨道：SSO 536km高度 97.84
+ 度倾角 客户：IRSO 设计寿命：5年 动态： 【2021年08月12日
+ 】添加此次任务
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/pslv-%e2%80%a2-eos-04giast-1a-%e2%
+ 80%a2?instance_id=5035
 END:VEVENT
 END:VCALENDAR
