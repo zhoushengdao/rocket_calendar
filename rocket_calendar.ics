@@ -22602,7 +22602,7 @@ URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e9%95%bf%e5%
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GSLV Mk 2 • EOS-03(GIAST-1) • 印度地球同步轨道光学
- 卫星
+ 卫星 • 发射失利
 DTSTART;TZID=Asia/Shanghai:20210812T081300
 DTEND;TZID=Asia/Shanghai:20210812T081300
 UID:68317
@@ -22627,9 +22627,9 @@ DESCRIPTION:地点：印度斯里赫里戈达岛萨迪什·达万航天中
  MX-LWIR）：1.5 km分辨率 高光谱VNIR：分辨率为320 m和192 m 任
  务指标 GISAT卫星大致结构 GISAT卫星光路结构 GISAT卫星结
  构剖析图 … 继续阅读GSLV Mk 2 • EOS-03(GIAST-1) • 印度地
- 球同步轨道光学卫星 →
+ 球同步轨道光学卫星 • 发射失利 →
 LOCATION:印度斯里赫里戈达岛萨迪什·达万航天中心
-URL:http://www.spaceflightfans.cn/event/gslv-mk-2_gisat-1?instance_id=5026
+URL:http://www.spaceflightfans.cn/event/gslv-mk-2_gisat-1?instance_id=5033
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SSLV • Microsat-2a • 首飞测试
@@ -23650,5 +23650,20 @@ DESCRIPTION:简要信息： 地点：新西兰玛西亚半岛航天发射
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron-%e2%80%a2-blacksky14-15?i
  nstance_id=5030
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:长征三号乙 • LongMarch-3B
+DTSTART;TZID=Asia/Shanghai:20210823
+DTEND;TZID=Asia/Shanghai:20210823
+UID:96516
+CATEGORIES:中国发射
+CATEGORIES:中国航天科技集团
+CATEGORIES:长征三号乙
+CATEGORIES:
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%b8%89%e5%8f%
+ b7%e4%b9%99-%e2%80%a2-longmarch-3b?instance_id=5031
 END:VEVENT
 END:VCALENDAR
