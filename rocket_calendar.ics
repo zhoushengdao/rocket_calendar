@@ -1352,9 +1352,9 @@ URL:http://www.spaceflightfans.cn/event/long-march-3b-launch-chinasat-2e-s
  atellite?instance_id=4991
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vega • Pléiades-Neo 4地球遥感卫星
-DTSTART;TZID=Asia/Shanghai:20210816T095000
-DTEND;TZID=Asia/Shanghai:20210816T095000
+SUMMARY:Vega • VV19 • Pléiades-Neo 4地球遥感卫星 • Vega收官
+DTSTART;TZID=Asia/Shanghai:20210816T094700
+DTEND;TZID=Asia/Shanghai:20210816T094700
 UID:93716
 CATEGORIES:Vega
 CATEGORIES:欧洲发射
@@ -1365,11 +1365,11 @@ DESCRIPTION:地点：法属圭亚那库鲁圭亚那太空中心 ELV 火箭
  ：Pléiades-Neo 4 轨道：SSO 寿命：10年 质量：920kg 相关资料
  ： (1) Airbus Optical Constellation (2) Pléiades-Neo Introduction 1 (3) 
  Pléiades-Neo Introduction 2 (4) Combining New Earth Observation Data Sour
- ces for a Productive and … 继续阅读Vega • Pléiades-Neo 4地球遥
- 感卫星 →
+ ces for a Productive and … 继续阅读Vega • VV19 • Pléiades-Neo 4
+ 地球遥感卫星 • Vega收官 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/vega-%e2%80%a2-launch-pleiades-neo
- -4-satellite?instance_id=4964
+ -4-satellite?instance_id=5034
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Antares • Cygnus NG-16 • 国际空间站货运补给任务 •
@@ -22602,9 +22602,9 @@ URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e9%95%bf%e5%
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GSLV Mk 2 • EOS-03(GIAST-1) • 印度地球同步轨道光学
- 卫星 • 发射失利
-DTSTART;TZID=Asia/Shanghai:20210812T081300
-DTEND;TZID=Asia/Shanghai:20210812T081300
+ 卫星 • 发射失败
+DTSTART;TZID=Asia/Shanghai:20210812T081400
+DTEND;TZID=Asia/Shanghai:20210812T081400
 UID:68317
 CATEGORIES:GSLV MK2
 CATEGORIES:ISRO
@@ -22614,22 +22614,22 @@ CLASS:PUBLIC
 DESCRIPTION:地点：印度斯里赫里戈达岛萨迪什·达万航天中
  心 火箭：GSLV Mk.2 F10 载荷：EOS-03(GIAST-1)地球同步轨道光
  学卫星 质量：2268kg 干重：1000kg 电功率：2280W 轨道：GTO 
- 客户：IRSO 设计寿命：7年 卫星平台： I-1K (I-1000) 卫星定
- 点：85.5°E （预计） 相关文件：GISAT资料 GISAT-1为印度首
- 颗运行在地球同步轨道的光学监测卫星，该卫星将定点
- 在印度洋上空，将对印度全境进行实时观测，快速对自
- 然灾害监测进行响应。GISAT搭载了多光谱（可见光，近红
- 外光和热能）观测组件作为其主要载荷，分辨率从50 m至1
- .5 km。 具体载荷清单如下： 基于Cartosat 2(印度基于IRS-2卫
- 星平台设计的太阳同步轨道观测卫星)设计的700毫米Ritchey
- -Chretien望远镜 VNIR，SWIR和LWIR波段中的阵列检测器 高分辨
- 率多光谱VNIR（HRMX-VNIR）：50 m分辨率 高分辨率多光谱（HR
- MX-LWIR）：1.5 km分辨率 高光谱VNIR：分辨率为320 m和192 m 任
- 务指标 GISAT卫星大致结构 GISAT卫星光路结构 GISAT卫星结
- 构剖析图 … 继续阅读GSLV Mk 2 • EOS-03(GIAST-1) • 印度地
- 球同步轨道光学卫星 • 发射失利 →
+ 客户：ISRO 印度空间研究组织 设计寿命：7年 卫星平台：
+  I-1K (I-1000) 卫星定点：85.5°E （预计） 相关文件：GISAT资
+ 料 发射回放： ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
+ ﻿   GISAT-1为印度首颗运行在地球同步轨道的光学监测卫
+ 星，该卫星将定点在印度洋上空，将对印度全境进行实
+ 时观测，快速对自然灾害监测进行响应。GISAT搭载了多光
+ 谱（可见光，近红外光和热能）观测组件作为其主要载
+ 荷，分辨率从50 m至1.5 km。 具体载荷清单如下： 基于Carto
+ sat 2(印度基于IRS-2卫星平台设计的太阳同步轨道观测卫星
+ )设计的700毫米Ritchey-Chretien望远镜 VNIR，SWIR和LWIR波段中
+ 的阵列检测器 高分辨率多光谱VNIR（HRMX-VNIR）：50 m分辨
+ 率 高分辨率多光谱（HRMX-LWIR）：1.5 km分辨率 高光谱VNIR
+ ：分辨率为320 m和192 m … 继续阅读GSLV Mk 2 • EOS-03(GIAST-1)
+  • 印度地球同步轨道光学卫星 • 发射失败 →
 LOCATION:印度斯里赫里戈达岛萨迪什·达万航天中心
-URL:http://www.spaceflightfans.cn/event/gslv-mk-2_gisat-1?instance_id=5033
+URL:http://www.spaceflightfans.cn/event/gslv-mk-2_gisat-1?instance_id=5037
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SSLV • Microsat-2a • 首飞测试
