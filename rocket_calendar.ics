@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-13T00:33:41
+X-1-EDT:2021-08-14T00:32:50
 X-2-EDT:2021-08-10T00:33:27
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -2254,8 +2254,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1a • Soyuz MS-19(66S)• 全俄成员组，商业太空
  游客短期访问旅行，导演与女演员拍摄太空电影
-DTSTART;TZID=Asia/Shanghai:20211005
-DTEND;TZID=Asia/Shanghai:20211005
+DTSTART;TZID=Asia/Shanghai:20211005T165500
+DTEND;TZID=Asia/Shanghai:20211005T165500
 UID:88320
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
@@ -2300,10 +2300,8 @@ DESCRIPTION:（远征-66队队徽） （国际空间站徽标） 地点：
  19(66S)• 全俄成员组，商业太空游客短期访问旅行，导演
  与女演员拍摄太空电影 →
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%80%a2-soyuz-ms-1866
- s%e2%80%a2-%e5%85%a8%e4%bf%84%e6%88%90%e5%91%98%e7%bb%84%ef%bc%8c%e5%8f%af
- %e8%83%bd%e8%bf%98%e4%bc%9a%e6%9c%89%e7%be%8e%e5%9b%bd%e8%88%aa%e5%a4%a9%e
- 5%91%98?instance_id=4337
+URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%80%a2-soyuz-ms-19?i
+ nstance_id=5042
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第十一批次组网
