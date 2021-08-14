@@ -1805,8 +1805,8 @@ URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e9%95%bf%e5%
  c-%e2%80%a2-gf-5-0?instance_id=4760
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【2021年9月待定】长征三号乙 • 中星9B电视直播卫
- 星 • 中星9A替代星 • LongMarch-3B/G2 • CHINASAT 9B
+SUMMARY:长征三号乙 • 中星9B电视直播卫星 • 中星9A替代
+ 星 • LongMarch-3B/G2 • ChinaSat-9B
 DTSTART;TZID=Asia/Shanghai:20210909T190000
 DTEND;TZID=Asia/Shanghai:20210909T190000
 UID:85700
@@ -1817,10 +1817,20 @@ CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国西昌卫星发射中心 火箭(Ve
  hicle)：长征三号乙改二运载火箭（LongMarch 3B/G2） 载荷(Pay
- load)：中星9B通信卫星（CHINASAT 9B） 客户(Customer)：中国卫
+ load)：中星9B通信卫星（ChinaSat-9B） 客户(Customer)：中国卫
  通 重量(Mass)：5550kg 轨道(Orbit)：GTO 设计寿命：15年 卫星
  平台：东方红四号增强型平台（DFH-4E） 任务代号：N/A 通
- 信容量：N/A 【2021年01月11日】：添加此次任务。
+ 信容量：N/A 简介： 中星9B卫星（接替中星9A卫星，设计
+ 寿命15年，采用东四增强型平台，承载Ku BSS频段载荷） 
+ 动态： 【2021年08月14日】中星9B卫星已进场。 同时，中
+ 星9B卫星试验队正式上线“党史学习卡”，“第一时间”
+ “第一议题”组织学习习近平总书记重要讲话精神，分
+ 为两个主题，第一主题为“今日一习话”，专题推送习
+ 近平总书记“七一”期间重要讲话精神，第二主题为“
+ 光影中的百年峥嵘”，专题推送讲述中国共产党历史的
+ 红色电影、文学等艺术作品，推动全体试验队员将理论
+ 收获转化为誓夺型号发射任务圆满完成的强大精神引擎
+ 。 【2021年01月11日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e9%95%bf%e5%
  be%81%e4%b8%89%e5%8f%b7%e4%b9%99-%e2%80%a2-%e4%b8%ad%e6%98%9f9b%e9%80%9a%e
