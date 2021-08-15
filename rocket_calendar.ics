@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-15T00:31:45
+X-1-EDT:2021-08-16T00:31:37
 X-2-EDT:2021-08-10T00:33:27
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -1354,8 +1354,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vega • VV19 • Pléiades-Neo 4地球遥感卫星及四颗小卫
  星 • Vega收官
-DTSTART;TZID=Asia/Shanghai:20210816T094700
-DTEND;TZID=Asia/Shanghai:20210816T094700
+DTSTART;TZID=Asia/Shanghai:20210817T094700
+DTEND;TZID=Asia/Shanghai:20210817T094700
 UID:93716
 CATEGORIES:Vega
 CATEGORIES:欧洲发射
@@ -1371,7 +1371,7 @@ DESCRIPTION:地点：法属圭亚那库鲁圭亚那太空中心 ELV 火箭
  收官 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/vega-%e2%80%a2-launch-pleiades-neo
- -4-satellite?instance_id=5034
+ -4-satellite?instance_id=5051
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Antares • Cygnus NG-16 • 国际空间站货运补给任务 •
@@ -2225,21 +2225,35 @@ URL:http://www.spaceflightfans.cn/event/soyuz-st-b-with-fregat-m-launch-ga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:谷神星一号遥二 • 方舟二号F返回式试验卫星 • C
- eres-1-Y2 • FangZhou-2F
-DTSTART;TZID=Asia/Shanghai:20210930
-DTEND;TZID=Asia/Shanghai:20210930
+ eres-1-Y2 • FZ-2F
+DTSTART;TZID=Asia/Shanghai:20210910
+DTEND;TZID=Asia/Shanghai:20210910
 UID:90781
 CATEGORIES:中国发射
 CATEGORIES:星河动力
 CATEGORIES:谷神星一号
 CATEGORIES:
 CLASS:PUBLIC
-DESCRIPTION:  【2021年03月26日】添加此次任务。
+DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心 火箭(Ve
+ hicle)：谷神星一号遥二火箭（Ceres-1 Y2） 载荷(Payload)：方
+ 舟2F试验返回式卫星 客户(Customer)：北京航天方舟空间技
+ 术有限公司 轨道(Orbit)：LEO 质量：TBD 动态： 【2021年08月
+ 15日】由新闻消息，确定此次发射为9月初。 【2021年03月2
+ 6日】添加此次任务。才知道这发原计划2020年6月底发射
+ ，属实太草了。 中国航天系统科学与工程研究院副院长
+ 谢平代表航天神禾科技(北京)有限公司董事长王玉军致欢
+ 迎辞，对航天方舟“方舟二号”卫星的顺利出厂表示祝
+ 贺，对各界专家学者给予方舟事业的支持表示感谢，同
+ 时对航天方舟的未来发展寄予高度期许，并对航天方舟
+ 发展商业航天事业提出了三个维度的工作要求：尊重科
+ 学严谨务实的底线思维、敢于创新的逆向思维和专业统
+ 筹的系统思维，要多从航天系统科学的高度开展工作，
+ 同时预祝“方舟二号”卫星今年6月底发射成功。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e8%b0%b7%e7%a5%9e%e6%98%9f%e4%b8%
  80%e5%8f%b7%e9%81%a5%e4%ba%8c-%e2%80%a2-%e6%96%b9%e8%88%9f%e4%ba%8c%e5%8f%
  b7f%e8%bf%94%e5%9b%9e%e5%bc%8f%e8%af%95%e9%aa%8c%e5%8d%ab%e6%98%9f-%e2%80%
- a2-ceres-1-y2?instance_id=4554
+ a2-ceres-1-y2?instance_id=5052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • Luna 25 • 延期已达46年
