@@ -1786,8 +1786,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征四号丙 • 高分五号02星 • LongMarch-4C Y38 • GF-
  5-02
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20210906
+DTEND;TZID=Asia/Shanghai:20210906
 UID:88777
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
@@ -1797,13 +1797,38 @@ CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国太原卫星发射中心LC-9 火
  箭(Vehicle)：长征四号丙运载火箭（LongMarch 4C Y38） 载荷(Pa
  yload)：高分五号02星 客户(Customer)：自然资源部 重量(Mass)
- ：2700kg 轨道(Orbit)：688kmSSO 【2021.02.19】由开放搭载消息
- ，添加此次任务。
+ ：2700kg 轨道(Orbit)：688kmSSO 动态： 【2021年08月17日】卫星
+ 已于2021年07月01日进场。 建党百年之际，上海技物所GF-5(
+ 02)卫星试验队奔赴发射场，力保圆满成功来源：时间：20
+ 21-08-16 2021年7月1日是中国共产党成立100周年纪念日，也
+ 吹响了上海技物所GF-(02)卫星试验队奔赴发射场的号角。
+ 在所的进场动员会上，舒嵘副所长、项目指挥兼试验队
+ 队长向大家提出工作要求，要不放过任何疑点、仔细关
+ 注遥测数据比对、组织开展党建活动等。7月初，上海技
+ 物所载荷试验队进驻发射基地，并按照计划流程顺利开
+ 展了相关工作。 8月1日是建党百年后的第一个建军节。
+ 临时党支部组织队员前往基地山顶去迎接建军节的第一
+ 轮朝日。凌晨4点半，基地的室外温度虽然只有2~3℃，但
+ 是大家的心却是火热的，一路小跑来到山顶，看着霞光
+ 万道的朝阳跃出地平线那一瞬间，让人想起了开国领袖
+ 毛主席曾经在《星星之火，可以燎原》一文中写过的形
+ 容革命高潮快要到来的比喻“它是立于高山之巅远看东
+ 方已见光芒四射喷薄欲出的一轮朝日”。相信再过一段
+ 时间，发射的火箭也会像这轮冉冉升起的朝阳载着我们
+ 的卫星奔向浩瀚的太空，去实现又一个航天梦。下午，
+ 临时党支部组织参观了烈士陵园，队员们瞻仰了英雄纪
+ 念碑，深切缅怀已逝的默默奉献的基地建设者和参与发
+ 射任务的航天人。在纪念碑前，面对党旗，全体党员重
+ 温了入党誓词。 队员们更加坚定了为党的航天事业继续
+ 努力奋斗的决心和勇气，相信在有着“严慎细实”工作
+ 作风的全体试验队员努力奋斗下，GF-5(02)卫星的发射任务
+ 一定能够圆满成功! 【2021年02月19日】由开放搭载消息，
+ 添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e9%95%bf%e5%
  be%81%e5%9b%9b%e5%8f%b7%e4%b8%99%e8%bf%90%e8%bd%bd%e7%81%ab%e7%ae%ad-%e2%8
  0%a2-%e9%ab%98%e5%88%86%e4%ba%94%e5%8f%b702%e6%98%9f-%e2%80%a2-longmarch-4
- c-%e2%80%a2-gf-5-0?instance_id=4760
+ c-%e2%80%a2-gf-5-0?instance_id=5056
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征三号乙 • 中星9B电视直播卫星 • 中星9A替代
@@ -23565,8 +23590,8 @@ BEGIN:VEVENT
 SUMMARY:长征二号丙 • 互联网融合卫星试验双星 • 五院
  通信与导航卫星总体部DFH-4L平台首飞 • LongMarch-2C Y51 • 
  IFTS
-DTSTART;TZID=Asia/Shanghai:20210817
-DTEND;TZID=Asia/Shanghai:20210817
+DTSTART;TZID=Asia/Shanghai:20210820
+DTEND;TZID=Asia/Shanghai:20210820
 UID:96283
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
@@ -23575,14 +23600,14 @@ CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：中国酒泉卫星发射中心LC-94 火箭：长征
  二号丙遥五十一运载火箭 （LongMarch-2C Y51） 载荷：互联
- 网融合卫星试验双星 质量：约1000kg 火箭起飞质量：242吨
-  客户：通信与导航卫星总体部 轨道：SS0 任务代号：01—
- 136 动态： 【2021年08月04日】：添加此次任务。
+ 网融合卫星试验双星 质量：NaN 客户：通信与导航卫星总
+ 体部 轨道：590km×590km 50°LEO 动态： 【2021年08月17日】：
+ 任务推迟至20日。 【2021年08月04日】：添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%ba%8c%e5%8f%
  b7%e4%b8%99-%e2%80%a2-%e4%ba%92%e8%81%94%e7%bd%91%e8%9e%8d%e5%90%88%e5%8d%
  ab%e6%98%9f%e8%af%95%e9%aa%8c%e5%8f%8c%e6%98%9f-%e2%80%a2-%e4%ba%94%e9%99%
- a2%e9%80%9a?instance_id=4984
+ a2%e9%80%9a?instance_id=5055
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Astra-Rocket 3 • STP-27AD1 • 该火箭首次携带载荷飞行
