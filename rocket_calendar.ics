@@ -23735,4 +23735,31 @@ LOCATION:
 URL:http://www.spaceflightfans.cn/event/pslv-%e2%80%a2-eos-04giast-1a-%e2%
  80%a2?instance_id=5035
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:长征二号丙/远征一号S • 遥感三十二号02组卫星 
+ • LongMarch-2C/YZ-1S • Yaogan-32-02
+DTSTART;TZID=Asia/Shanghai:20210912
+DTEND;TZID=Asia/Shanghai:20210912
+UID:95441
+CATEGORIES:中国发射
+CATEGORIES:中国航天科技集团
+CATEGORIES:长征二号丙
+CATEGORIES:
+CLASS:PUBLIC
+DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心LC-94 火
+ 箭(Vehicle)：长征二号丙/远征一号S运载火箭（CZ-2C/YZ-1S） 
+ 载荷(Payload)：遥感三十二号02组卫星 客户(Customer)：NF 重
+ 量(Mass)：＜2500kg 轨道(Orbit)：688km SSO 卫星平台(Satellite Bus
+ )：CAST-2000 设计寿命(Designed Life)：TBD 动态： 【2021年08月1
+ 8日】添加此次任务，由发射场周转周期及远望6号测控周
+ 期判断，此次发射于9月12日左右执行。 公司党委、工会
+ 向奋战在发射任务一线的遥感卫星三十二号02组试验队、
+ 技术试验卫星试验队及独自奋战在海外的员工致以慰问
+ 和感谢。
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%ba%8c%e5%8f%
+ b7%e4%b8%99-%e8%bf%9c%e5%be%81%e4%b8%80%e5%8f%b7s-%e2%80%a2-%e9%81%a5%e6%8
+ 4%9f%e4%b8%89%e5%8d%81%e4%ba%8c%e5%8f%b702%e7%bb%84%e5%8d%ab%e6%98%9f-%e2%
+ 80%a2-longmarch-2c?instance_id=5058
+END:VEVENT
 END:VCALENDAR
