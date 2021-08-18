@@ -1245,8 +1245,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第九批次组网发
  射
-DTSTART;TZID=Asia/Shanghai:20210821T030800
-DTEND;TZID=Asia/Shanghai:20210821T030800
+DTSTART;TZID=Asia/Shanghai:20210820T062300
+DTEND;TZID=Asia/Shanghai:20210820T062300
 UID:91028
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
@@ -1314,7 +1314,7 @@ DESCRIPTION:地点：拜科努尔航天发射场 火箭：Soyuz 2.1b/Frega
  网发射 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1b-fregat-m-launch-oneweb-
- satellite-batch-9?instance_id=4987
+ satellite-batch-9?instance_id=5062
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征三号乙 • 中星2E通信卫星 • LongMarch-3B/G3 Y76 
