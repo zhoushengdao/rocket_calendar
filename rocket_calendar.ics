@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-18T00:33:12
+X-1-EDT:2021-08-19T00:33:27
 X-2-EDT:2021-08-10T00:33:27
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -1654,8 +1654,8 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V2.0-L1批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210825
-DTEND;TZID=Asia/Shanghai:20210825
+DTSTART;TZID=Asia/Shanghai:20210930
+DTEND;TZID=Asia/Shanghai:20210930
 UID:93380
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1672,7 +1672,7 @@ DESCRIPTION:地点：范登堡SLC-4E 火箭：Falcon 9 载荷：V2.0 L1批
  卫星组网发射 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v2
- -0-l1?instance_id=5049
+ -0-l1?instance_id=5057
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1a • Soyuz MS-20•  俄罗斯12天太空游客服务，
@@ -23761,5 +23761,30 @@ URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%ba%8c%e5%8f%
  b7%e4%b8%99-%e8%bf%9c%e5%be%81%e4%b8%80%e5%8f%b7s-%e2%80%a2-%e9%81%a5%e6%8
  4%9f%e4%b8%89%e5%8d%81%e4%ba%8c%e5%8f%b702%e7%bb%84%e5%8d%ab%e6%98%9f-%e2%
  80%a2-longmarch-2c?instance_id=5058
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:长征四号乙 • 天绘二号02组卫星 • LongMarch-4B • T
+ ianhui-2A/2B
+DTSTART;TZID=Asia/Shanghai:20210819T063500
+DTEND;TZID=Asia/Shanghai:20210819T063500
+UID:95999
+CATEGORIES:中国发射
+CATEGORIES:中国航天科技集团
+CATEGORIES:长征四号乙
+CATEGORIES:
+CLASS:PUBLIC
+DESCRIPTION:地点(Launch Site)：中国太原卫星发射中心LC-9 火
+ 箭(Vehicle)：长征四号乙运载火箭（LongMarch-4B） 载荷(Payloa
+ d)：天绘二号02组卫星 客户(Customer)：NF 重量(Mass)：约2200k
+ g 轨道(Orbit)：500km SSO 平台：？ 设计寿命：？ 动态： 【2
+ 021年08月16日】NOTAMs已出，8月19日06:35-07:02发射。 A2020/21 
+ – A TEMPORARY RESTRICTED AREA ESTABLISHED BOUNDED BY:N303018E1102534-N30
+ 2830E1104717-N295049E1104308-N295234E1102129\,BAC K TO START. ALL ACFT ARE
+  FORBIDDEN TO FLY INTO THE TEMPORARY RESTRICTED AREA. … 继续阅读长
+ 征四号乙 • 天绘二号02组卫星 • LongMarch-4B • Tianhui-2A/2
+ B →
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/long-march-4b-launch-tianhui-group
+ -02-satellite?instance_id=5054
 END:VEVENT
 END:VCALENDAR
