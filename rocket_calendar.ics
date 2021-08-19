@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-19T00:33:27
+X-1-EDT:2021-08-20T00:33:14
 X-2-EDT:2021-08-10T00:33:27
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -20145,8 +20145,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号F/G Y13 • 神舟十三号载人飞船 • LongMarch 
  2F/G Y13 • Shenzhou-13
-DTSTART;TZID=Asia/Shanghai:20211031
-DTEND;TZID=Asia/Shanghai:20211031
+DTSTART;TZID=Asia/Shanghai:20211003
+DTEND;TZID=Asia/Shanghai:20211003
 UID:85159
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
@@ -20241,7 +20241,7 @@ DESCRIPTION:地点：中国内蒙古酒泉卫星发射中心 LC-90工位
  播 动态： … 继续阅读长征二号F/G Y13 • 神舟十三号载
  人飞船 • LongMarch 2F/G Y13 • Shenzhou-13 →
 LOCATION:中国内蒙古酒泉卫星发射中心
-URL:http://www.spaceflightfans.cn/event/cz-2f-shenzhou-13?instance_id=4633
+URL:http://www.spaceflightfans.cn/event/cz-2f-shenzhou-13?instance_id=5065
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第十二批次组网
@@ -23751,11 +23751,9 @@ DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心LC-94 火
  载荷(Payload)：遥感三十二号02组卫星 客户(Customer)：NF 重
  量(Mass)：＜2500kg 轨道(Orbit)：688km SSO 卫星平台(Satellite Bus
  )：CAST-2000 设计寿命(Designed Life)：TBD 动态： 【2021年08月1
- 8日】添加此次任务，由发射场周转周期及远望6号测控周
- 期判断，此次发射于9月12日左右执行。 公司党委、工会
- 向奋战在发射任务一线的遥感卫星三十二号02组试验队、
- 技术试验卫星试验队及独自奋战在海外的员工致以慰问
- 和感谢。
+ 8日】添加此次任务。 公司党委、工会向奋战在发射任务
+ 一线的遥感卫星三十二号02组试验队、技术试验卫星试验
+ 队及独自奋战在海外的员工致以慰问和感谢。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%ba%8c%e5%8f%
  b7%e4%b8%99-%e8%bf%9c%e5%be%81%e4%b8%80%e5%8f%b7s-%e2%80%a2-%e9%81%a5%e6%8
