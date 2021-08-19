@@ -23664,8 +23664,8 @@ URL:http://www.spaceflightfans.cn/event/launcherone-%e2%80%a2-stp-s28a?ins
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electron • BlackSky Global 12/13地球遥感卫星
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20210910
+DTEND;TZID=Asia/Shanghai:20210910
 UID:96506
 CATEGORIES:Electron
 CATEGORIES:RocketLab
@@ -23679,12 +23679,12 @@ DESCRIPTION:简要信息： 地点：新西兰玛西亚半岛航天发射
  此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron-%e2%80%a2-blacksky12-13?i
- nstance_id=5029
+ nstance_id=5066
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electron • BlackSky Global 14/15地球遥感卫星
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20210910
+DTEND;TZID=Asia/Shanghai:20210910
 UID:96507
 CATEGORIES:Electron
 CATEGORIES:RocketLab
@@ -23698,7 +23698,7 @@ DESCRIPTION:简要信息： 地点：新西兰玛西亚半岛航天发射
  此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron-%e2%80%a2-blacksky14-15?i
- nstance_id=5030
+ nstance_id=5067
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征三号乙 • LongMarch-3B
@@ -23763,10 +23763,10 @@ URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%ba%8c%e5%8f%
  80%a2-longmarch-2c?instance_id=5058
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:长征四号乙 • 天绘二号02组卫星 • LongMarch-4B • T
- ianhui-2A/2B
-DTSTART;TZID=Asia/Shanghai:20210819T063500
-DTEND;TZID=Asia/Shanghai:20210819T063500
+SUMMARY:长征四号乙 • 天绘二号02组卫星 • LongMarch-4B Y50 
+ • Tianhui-2A/2B • 发射成功
+DTSTART;TZID=Asia/Shanghai:20210819T063200
+DTEND;TZID=Asia/Shanghai:20210819T063200
 UID:95999
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
@@ -23774,17 +23774,33 @@ CATEGORIES:长征四号乙
 CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国太原卫星发射中心LC-9 火
- 箭(Vehicle)：长征四号乙运载火箭（LongMarch-4B） 载荷(Payloa
- d)：天绘二号02组卫星 客户(Customer)：NF 重量(Mass)：约2200k
- g 轨道(Orbit)：500km SSO 平台：？ 设计寿命：？ 动态： 【2
- 021年08月16日】NOTAMs已出，8月19日06:35-07:02发射。 A2020/21 
- – A TEMPORARY RESTRICTED AREA ESTABLISHED BOUNDED BY:N303018E1102534-N30
- 2830E1104717-N295049E1104308-N295234E1102129\,BAC K TO START. ALL ACFT ARE
-  FORBIDDEN TO FLY INTO THE TEMPORARY RESTRICTED AREA. … 继续阅读长
- 征四号乙 • 天绘二号02组卫星 • LongMarch-4B • Tianhui-2A/2
- B →
+ 箭(Vehicle)：长征四号乙遥五十运载火箭（LongMarch-4B Y50） 
+ 载荷(Payload)：天绘二号02组卫星 客户(Customer)：NF 重量(Mas
+ s)：约2200kg 轨道(Orbit)：500km SSO 平台：？ 设计寿命：？ 8
+ 月19日6时32分，长征四号乙运载火箭在太原卫星发射中心
+ 点火升空，随后将天绘二号02组卫星送入预定轨道，发射
+ 任务取得圆满成功。长征四号乙运载火箭由中国航天科
+ 技集团有限公司八院研制，为三级常温液体火箭。本发
+ 火箭在长征四号乙系列火箭基线状态的基础上采用“去
+ 任务化”设计思路，适应任务要求采用了双星串联发射
+ 构型，并沿袭了本型号近年来已飞行验证的技术改进项
+ 目。 本次发射是长四队伍今年第九次发射任务，连同此
+ 前任务，至此取得了“九连胜”的战绩。面对高密度发
+ 射的挑战，航天科技集团八院型号队伍在优化研制流程
+ 的基础上，建立巡检制度严控产保细节，推行质量确认
+ 制，确保责任压准压实，利用MES系统和PAD推动总装和发
+ 射场测试环节的信息集成和效率提升，打造三支队伍实
+ 现三地协同作战，推动多项任务并行开展、实现接续成
+ 功。 天绘二号02组卫星由航天科技集团八院研制。本次
+ 发射是长征系列运载火箭的第384次发射。   动态： 【202
+ 1年08月19日】火箭于06时32分发射升空，任务成功，遥号Y5
+ 0。 【2021年08月16日】NOTAMs已出，8月19日06:35-07:02发射。 A
+ 2020/21 – A TEMPORARY RESTRICTED AREA ESTABLISHED BOUNDED BY:N303018E110
+ 2534-N302830E1104717-N295049E1104308-N295234E1102129\,BAC K TO START. ALL 
+ ACFT ARE FORBIDDEN TO … 继续阅读长征四号乙 • 天绘二号02
+ 组卫星 • LongMarch-4B Y50 • Tianhui-2A/2B • 发射成功 →
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/long-march-4b-launch-tianhui-group
- -02-satellite?instance_id=5054
+URL:http://www.spaceflightfans.cn/event/long-march-4b-launch-tianhui2-grou
+ p-02-satellite?instance_id=5063
 END:VEVENT
 END:VCALENDAR
