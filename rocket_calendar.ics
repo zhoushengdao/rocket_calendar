@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-20T00:33:14
+X-1-EDT:2021-08-21T00:32:38
 X-2-EDT:2021-08-10T00:33:27
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -23600,14 +23600,12 @@ CLASS:PUBLIC
 DESCRIPTION:地点：中国酒泉卫星发射中心LC-94 火箭：长征
  二号丙遥五十一运载火箭 （LongMarch-2C Y51） 载荷：互联
  网融合卫星试验双星 质量：NaN 客户：通信与导航卫星总
- 体部 轨道：590km×590km 50°LEO 动态： 【2021年08月20日】：
- 继续推迟至21日待定。 【2021年08月17日】：任务推迟至20
- 日。 【2021年08月04日】：添加此次任务。
+ 体部 轨道：590km×590km 50°LEO 动态： 【2021年08月20日】继
+ 续推迟至21日待定。 【2021年08月17日】任务推迟至20日。 
+ 【2021年08月04日】添加此次任务。
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/%e9%95%bf%e5%be%81%e4%ba%8c%e5%8f%
- b7%e4%b8%99-%e2%80%a2-%e4%ba%92%e8%81%94%e7%bd%91%e8%9e%8d%e5%90%88%e5%8d%
- ab%e6%98%9f%e8%af%95%e9%aa%8c%e5%8f%8c%e6%98%9f-%e2%80%a2-%e4%ba%94%e9%99%
- a2%e9%80%9a?instance_id=5070
+URL:http://www.spaceflightfans.cn/event/long-march-2c-launch-internet-fusi
+ on-test-satellite?instance_id=5070
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Astra-Rocket 3 • STP-27AD1 • 该火箭首次携带载荷飞行
