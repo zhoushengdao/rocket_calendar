@@ -1165,20 +1165,20 @@ DESCRIPTION:地点(Launch Site)：中国酒泉卫星发射中心95B场坪
  飞行试验未达到预期目的。此次发射进一步验证了双曲
  线一号火箭总体方案的正确性，获取了有效的飞行数据
  ，积累了宝贵的经验教训。（星际荣耀官方公众号） 火
- 箭信息：   动态： 【2021年08月04日】由外网报道，双曲
- 线一号遥五火箭最大飞行速度仅为7400m/s，完全未达到入
- 轨条件，发射完全未成功。 轨道：-950km×200km×97deg 【2021
- 年08月03日】新华社消息，8月3日15时39分，双曲线一号第3
- 发民营商业运载火箭在我国酒泉卫星发射中心点火升空
- ，火箭飞行异常，卫星分离后未正常入轨，飞行试验未
- 达到预期目的。 【2021年08月03日】据多方消息，载荷吉
- 林一号魔方01A未进入预定轨道，发射失利。等待官方通
- 稿中。 【2021年08月03日】NOTAM已出，确定为北京时间15:43
- —16:15间择机发射。 A0753/21 NOTAMN Q) VCCF/QRDCA/IV/BO/W/000/999/0
- 116N09120E030 A) VCCF B) 2108030743 C) 2108030815 E) DUE TO AN AEROSPACE F
- LIGHT … 继续阅读双曲线一号 • 暨“天书”发射失利后
- 复飞 • 吉林一号魔方01A及配重 • Hyperbola-1 Y5 • JL-1-Cube
- -01A • 发射失败 →
+ 箭信息：   动态： 【2021年08月20日】火箭照片流出： 【
+ 2021年08月04日】由外网报道，双曲线一号遥五火箭最大飞
+ 行速度仅为7400m/s，完全未达到入轨条件，发射完全未成
+ 功。 轨道：-950km×200km×97deg 【2021年08月03日】新华社消
+ 息，8月3日15时39分，双曲线一号第3发民营商业运载火箭
+ 在我国酒泉卫星发射中心点火升空，火箭飞行异常，卫
+ 星分离后未正常入轨，飞行试验未达到预期目的。 【2021
+ 年08月03日】据多方消息，载荷吉林一号魔方01A未进入预
+ 定轨道，发射失利。等待官方通稿中。 【2021年08月03日
+ 】NOTAM已出，确定为北京时间15:43—16:15间择机发射。 A075
+ 3/21 NOTAMN Q) VCCF/QRDCA/IV/BO/W/000/999/0116N09120E030 A) VCCF B) 210803
+ 0743 C) 2108030815 E) DUE TO AN AEROSPACE … 继续阅读双曲线一号 
+ • 暨“天书”发射失利后复飞 • 吉林一号魔方01A及配
+ 重 • Hyperbola-1 Y5 • JL-1-Cube-01A • 发射失败 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/hyperbola-1_y5?instance_id=4980
 END:VEVENT
@@ -1245,8 +1245,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第九批次组网发
  射
-DTSTART;TZID=Asia/Shanghai:20210820T062300
-DTEND;TZID=Asia/Shanghai:20210820T062300
+DTSTART;TZID=Asia/Shanghai:20210821T061800
+DTEND;TZID=Asia/Shanghai:20210821T061800
 UID:91028
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
@@ -1314,7 +1314,7 @@ DESCRIPTION:地点：拜科努尔航天发射场 火箭：Soyuz 2.1b/Frega
  网发射 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1b-fregat-m-launch-oneweb-
- satellite-batch-9?instance_id=5062
+ satellite-batch-9?instance_id=5069
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征三号乙 • 中星2E通信卫星 • LongMarch-3B/G3 Y76 
