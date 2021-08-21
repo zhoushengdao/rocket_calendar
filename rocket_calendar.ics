@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-21T00:32:38
+X-1-EDT:2021-08-22T00:31:47
 X-2-EDT:2021-08-10T00:33:27
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -2000,11 +2000,12 @@ CATEGORIES:RocketLab
 CATEGORIES:美国发射
 CATEGORIES:
 CLASS:PUBLIC
-DESCRIPTION:  简要信息： 地点：瓦普勒斯岛 Launch Complex 2 
- 火箭：Electron(电子) 载荷：CAPSTONE 质量：25kg(12u 立方星) 
- 客户：NASA 轨道：LTO 箭体名：TBD 火箭信息： 动态： 【20
- 21年08月05日】预计2021年10月20日发射 【2020年01月09日】添
- 加此次任务
+DESCRIPTION:  简要信息： 地点：新西兰玛西亚半岛 火箭：
+ Electron(电子) 载荷：CAPSTONE 质量：25kg(12u 立方星) 客户：N
+ ASA 轨道：LTO 箭体名：TBD 火箭信息： 动态： 【2021年08月
+ 10日】由于NASA对Electron火箭自毁系统审核延期，本次任务
+ 改回新西兰玛西亚半岛发射 【2021年08月05日】预计2021年1
+ 0月20日发射 【2020年01月09日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron-rocket-launch-nasa-capsto
  ne-mission?instance_id=4989
@@ -23592,8 +23593,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号丙 • 互联网融合卫星试验双星 • LongMarc
  h-2C Y51
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20210824
+DTEND;TZID=Asia/Shanghai:20210824
 UID:96283
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
@@ -23603,13 +23604,13 @@ CLASS:PUBLIC
 DESCRIPTION:地点：中国酒泉卫星发射中心LC-94 火箭：长征
  二号丙遥五十一运载火箭 （LongMarch-2C Y51） 载荷：互联
  网融合卫星试验双星 质量：NaN 客户：通信与导航卫星总
- 体部 轨道：590km×590km 50°LEO 动态： 【2021年08月21日】暂
- 无最新消息，置于月底待定。 【2021年08月20日】继续推
- 迟至21日待定。 【2021年08月17日】任务推迟至20日。 【202
- 1年08月04日】添加此次任务。
+ 体部 轨道：590km×590km 50°LEO 动态： 【2021年08月21日】推
+ 迟至24日晚。 【2021年08月20日】继续推迟至21日待定。 【
+ 2021年08月17日】任务推迟至20日。 【2021年08月04日】添加
+ 此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/long-march-2c-launch-internet-fusi
- on-test-satellite?instance_id=5076
+ on-test-satellite?instance_id=5078
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Astra-Rocket 3 • STP-27AD1 • 该火箭首次携带载荷飞行
