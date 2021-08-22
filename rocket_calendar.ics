@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-22T00:31:47
+X-1-EDT:2021-08-23T00:31:43
 X-2-EDT:2021-08-10T00:33:27
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -23593,8 +23593,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号丙 • 互联网融合卫星试验双星 • LongMarc
  h-2C Y51
-DTSTART;TZID=Asia/Shanghai:20210824
-DTEND;TZID=Asia/Shanghai:20210824
+DTSTART;TZID=Asia/Shanghai:20210824T192200
+DTEND;TZID=Asia/Shanghai:20210824T192200
 UID:96283
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
@@ -23604,13 +23604,13 @@ CLASS:PUBLIC
 DESCRIPTION:地点：中国酒泉卫星发射中心LC-94 火箭：长征
  二号丙遥五十一运载火箭 （LongMarch-2C Y51） 载荷：互联
  网融合卫星试验双星 质量：NaN 客户：通信与导航卫星总
- 体部 轨道：590km×590km 50°LEO 动态： 【2021年08月21日】推
+ 体部 轨道：590km×590km 85°LEO 动态： 【2021年08月21日】推
  迟至24日晚。 【2021年08月20日】继续推迟至21日待定。 【
  2021年08月17日】任务推迟至20日。 【2021年08月04日】添加
  此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/long-march-2c-launch-internet-fusi
- on-test-satellite?instance_id=5078
+ on-test-satellite?instance_id=5085
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Astra-Rocket 3 • STP-27AD1 • 该火箭首次携带载荷飞行
@@ -23804,5 +23804,67 @@ DESCRIPTION:地点(Launch Site)：中国太原卫星发射中心LC-9 火
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/long-march-4b-launch-tianhui2-grou
  p-02-satellite?instance_id=5063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Epsilon F5 • 革新的衛星技術実証2号機 • RAISE-2等
+ 共计九颗卫星
+DTSTART;TZID=Asia/Shanghai:20211001T084800
+DTEND;TZID=Asia/Shanghai:20211001T084800
+UID:96839
+CATEGORIES:Epsilon
+CATEGORIES:JAXA
+CATEGORIES:日本发射
+CATEGORIES:
+CLASS:PUBLIC
+DESCRIPTION:地点：日本鹿儿岛内之浦宇宙空间观测所 火箭
+ ：Epsilon 艾普斯龙 载荷：RAISE-2，TeikyoSat-4，Hibari，Z-Sat，
+ DRUMS，ASTERISC，ARICA，NANODRAGON，KOSEN-1 重量：主载荷110kg，
+ 其余TBD 客户：JAXA(日本宇宙航空研究开发机构) 轨道：560
+ km SSO 简介： ”革新的卫星技术验证“提供了利用企业、
+ 大学等的超小型卫星来获得和积累新知识，将来开发任
+ 务项目、航天系统的主要部件和新技术的轨道试验等。 
+ “革新的卫星技术实证2号机”任务由小型验证卫星2号机
+ （RAISE-2）和4台超小型卫星、4颗立方星，共9颗卫星构成
+ 。 RAISE-2为“小型验证卫星2号“。 75cm×100cm×100cm的立方
+ 体，自重110kg，载荷质量85kg。 RAISE-2验证以下6项载荷： 
+ • 多核心节能星上计算机(SPRESENSE™ SPR)[索尼半导体] 
+ • 闭环式干涉型光纤陀螺仪(I-FOG)[多摩川精密机械株式
+ 会社] • 立方星用微型星敏感器(ASC)[天之技株式会社] •
+  3D打印的X波段天线(3D-ANT)[三菱电机株式会社] • 轻量无
+ 耗电型高功能热控制设备(ATCD)[日本东北大学] • MEMS惯性
+ 传感器冗余试验(MEMS IMU MARINA)[JAXA] 索尼制造的微型计算
+ 机(SPRESENSE)具有作为下一代航天器应用的潜在能力，将在
+ 轨道上进行验证，并搭载到未来的探测器上，以提高卫
+ 星、探测器的独立控制性能为目标。 闭环式光纤陀螺仪(
+ I-FOG)通过开发高精度且低价格的I-FOG惯性基准装置，以稳
+ 定供应市场为目标。 立方星用微型星敏感器(ASC)用于一
+ 种立方星用星敏感器。 3D打印X波段天线(3D-ANT)将开发和
+ 评估3D打印天线，实现廉价和制造技术的突破，通过轨道
+ 质量验证与商业化相连。 轻量无耗电型高功能热控制设
+ 备(ATCD)将展示3个装置组合而成的热控制组件，以实现前
+ 所未有的轻量、省电、独创的热控制技术。 MEMS惯性传感
+ 器冗余试验(MEMS IMU … 继续阅读Epsilon F5 • 革新的衛星技
+ 術実証2号機 • RAISE-2等共计九颗卫星 →
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/epsilon-%e2%80%a2-launch-raise-2%e
+ f%bc%8cteikyosat-4%ef%bc%8chibari%ef%bc%8cz-sat%ef%bc%8cdrums%ef%bc%8caste
+ risc%ef%bc%8carica%ef%bc%8cnanodragon%ef%bc%8ckosen-1?instance_id=5082
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nuri (KSLV-II) • 韩国KSLV-II系列运载火箭首飞
+DTSTART;TZID=Asia/Shanghai:20211021
+DTEND;TZID=Asia/Shanghai:20211021
+UID:96579
+CATEGORIES:KSLV-2
+CATEGORIES:韩国发射
+CATEGORIES:
+CLASS:PUBLIC
+DESCRIPTION:地点：罗老航天中心 나로우주센터 Naro Space Cent
+ er 火箭：Nuri (KSLV-II) 客户：KARI 韩国航空宇宙研究院 载
+ 荷：模拟载荷 轨道：LEO 寿命：/ 质量：1500kg 动态： 【20
+ 21年08月13日】添加此次任务，预计10月21日发射。
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/nuri-kslv-ii-%e2%80%a2-test-flight
+ ?instance_id=5043
 END:VEVENT
 END:VCALENDAR
