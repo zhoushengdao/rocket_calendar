@@ -23591,8 +23591,8 @@ URL:http://www.spaceflightfans.cn/event/long-march-2d-launch-tianhui-4-sat
  ellite?instance_id=4963
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:长征二号丙 • 互联网融合卫星试验双星 • LongMarc
- h-2C Y51
+SUMMARY:长征二号丙/远征一号S • 互联网融合卫星试验双
+ 星 • LongMarch-2C Y51/YZ-1S Y2
 DTSTART;TZID=Asia/Shanghai:20210824T192200
 DTEND;TZID=Asia/Shanghai:20210824T192200
 UID:96283
@@ -23602,12 +23602,14 @@ CATEGORIES:长征二号丙
 CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：中国酒泉卫星发射中心LC-94 火箭：长征
- 二号丙遥五十一运载火箭 （LongMarch-2C Y51） 载荷：互联
- 网融合卫星试验双星 质量：NaN 客户：通信与导航卫星总
- 体部 轨道：590km×590km 85°LEO 动态： 【2021年08月21日】推
- 迟至24日晚。 【2021年08月20日】继续推迟至21日待定。 【
- 2021年08月17日】任务推迟至20日。 【2021年08月04日】添加
- 此次任务。
+ 二号丙遥五十一运载火箭/远征一号S遥二 （LongMarch-2C Y51/
+ YZ-1S Y2） 载荷：互联网融合卫星试验双星 质量：NaN 客户
+ ：通信与导航卫星总体部 轨道：590km 85°LEO 动态： 【2021
+ 年08月23日】NOTAMs已出，19:22—19:47发射。 F2622/21 – CHINESE
+  AEROSPACE FLIGHT ACTIVITIES WILL TAKE PLACE FLW RECEIVED FROM CIVIL AVIAT
+ ION ADMINISTRATION OF CHINA: DUE TO AEROSPACE FLIGHT ACTIVITIES\, THE … 
+ 继续阅读长征二号丙/远征一号S • 互联网融合卫星试验
+ 双星 • LongMarch-2C Y51/YZ-1S Y2 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/long-march-2c-launch-internet-fusi
  on-test-satellite?instance_id=5085
