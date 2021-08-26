@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-26T00:33:14
+X-1-EDT:2021-08-27T00:34:00
 X-2-EDT:2021-08-10T00:33:27
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -983,8 +983,8 @@ URL:http://www.spaceflightfans.cn/event/ariane-5-eca-%e2%80%a2launch-star-
  one-d2-%e2%80%a2-eutelsat-quantum?instance_id=4928
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:快舟一号甲 • 吉林一号高分02-F星 • KZ-1A Y4 • JL-
- 1-GF02-F
+SUMMARY:【2021年9月中下旬待定】快舟一号甲 • 吉林一号
+ 高分02-F星 • KZ-1A Y4 • JL-1-GF02-F
 DTSTART;TZID=Asia/Shanghai:20210919
 DTEND;TZID=Asia/Shanghai:20210919
 UID:79280
@@ -1022,8 +1022,8 @@ URL:http://www.spaceflightfans.cn/event/kuaizhou-1a-rocket-launch-jilin-1-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L29批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20210930
+DTEND;TZID=Asia/Shanghai:20210930
 UID:91591
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1037,7 +1037,7 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L29批次星链
  日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l29?instance_id=4936
+ -0-l29?instance_id=5095
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L30批次Starlink通信卫星组网发射
@@ -1078,8 +1078,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz-2.1a / Fregat-M•“秃鹰-FKA”（Kondor-FKA）01星•
  俄首颗民用对地观测雷达卫星•18年开始不断延期
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20210930
+DTEND;TZID=Asia/Shanghai:20210930
 UID:93485
 CATEGORIES:Soyuz
 CATEGORIES:Soyuz 2
@@ -1135,10 +1135,8 @@ DESCRIPTION:Kondor-FKA 01民用对地观测雷达卫星示意图 地点：
  读Soyuz-2.1a / Fregat-M•“秃鹰-FKA”（Kondor-FKA）01星•俄首
  颗民用对地观测雷达卫星•18年开始不断延期 →
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-fregat-m%e2%80%a2%e7%a7
- %83%e9%b9%b0-fka%ef%bc%88kondor-fka%ef%bc%8901%e6%98%9f%e2%80%a2%e4%bf%84%
- e9%a6%96%e9%a2%97%e6%b0%91%e7%94%a8%e5%af%b9%e5%9c%b0%e8%a7%82%e6%b5%8b?in
- stance_id=4929
+URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-fregat-m%e2%80%a2launch
+ -kondor-fka-satellite?instance_id=5097
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:双曲线一号 • 暨“天书”发射失利后复飞 • 吉
@@ -2536,25 +2534,28 @@ URL:http://www.spaceflightfans.cn/event/%e3%80%902021%e5%b9%b410%e6%9c%88%
  %be%85%e5%ae%9a?instance_id=4646
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【TBD】长征六号遥六火箭 • 中科院广目一号遥感
- 卫星 • LongMarch-6 Y6 • GuangMu-1
+SUMMARY:【2021年10月】长征六号 • 广目一号地球科学卫星 
+ • LongMarch-6 Y8 • GuangMu-1
 DTSTART;TZID=Asia/Shanghai:20211031
 DTEND;TZID=Asia/Shanghai:20211031
 UID:89599
 CATEGORIES:中国发射
 CATEGORIES:中国航天科技集团
 CATEGORIES:长征六号
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国太原卫星发射中心 LC-16 火
- 箭(Vehicle)：长征六号遥六运载火箭（CZ-6 Y6） 载荷(Payload)
- ：广目一号遥感卫星 客户(Customer)：中国科学院（CAS） 
- 重量(Mass)：TBD 轨道(Orbit)：SSO 卫星平台(Satellite Bus)：TBD 
- 【2021年3月5日】添加此次任务。
+ 箭(Vehicle)：长征六号遥八运载火箭（CZ-6 Y8） 载荷(Payload)
+ ：广目一号地球科学遥感卫星 客户(Customer)：中国科学院
+ （CAS） 重量(Mass)：TBD 轨道(Orbit)：SSO 卫星平台(Satellite Bu
+ s)：TBD 动态： 【2021年08月31日】确定广目一号为2021年10
+ 月发射，这进度够快的，7月才转正样。 【2021年3月5日】
+ 添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e3%80%902021%e5%b9%b45%e6%9c%88%e
  5%be%85%e5%ae%9a%e3%80%91%e9%95%bf%e5%be%81%e5%85%ad%e5%8f%b7%e9%81%a5%e5%
  85%ad%e7%81%ab%e7%ae%ad-%e2%80%a2-%e4%b8%ad%e7%a7%91%e9%99%a2%e5%b9%bf%e7%
- 9b%ae%e4%b8%80?instance_id=4692
+ 9b%ae%e4%b8%80?instance_id=5090
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征四号丙 • 高分三号03星 • LongMarch-4C • GaoFen-
@@ -23537,8 +23538,8 @@ URL:http://www.spaceflightfans.cn/event/long-march-6-rocket-launch-kl-%ce%
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz-2-1v • EMKA-2(Kosmos-2551)光学侦察卫星
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20210930
+DTEND;TZID=Asia/Shanghai:20210930
 UID:95925
 CATEGORIES:Soyuz 2.1v
 CATEGORIES:俄罗斯发射
@@ -23551,7 +23552,7 @@ DESCRIPTION:地点：普列谢茨克航天发射场 火箭：Soyuz 2.1v
  】发射任务推迟 【2021年07月24日】添加此次任务  
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1v-%e2%80%a2-rocket-luanch
- -emka-2-satellite?instance_id=4972
+ -emka-2-satellite?instance_id=5096
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号丁 • 天绘一号04星 • 发射成功 • LongMar
@@ -23949,5 +23950,25 @@ DESCRIPTION:地点(Launch Site)：中国西昌卫星发射中心 LC-3 火
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/long-march-3b-launch-txsy-7?instan
  ce_id=5087
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【2021年10月】长征十一号海射 • 载荷未知 • LongM
+ arch-11HY3
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
+UID:96956
+CATEGORIES:中国发射
+CATEGORIES:中国航天科技集团
+CATEGORIES:长征十一号
+CATEGORIES:
+CLASS:PUBLIC
+DESCRIPTION:地点：山东附近海域 火箭：长征十一号海射型
+ 遥三（LM-11 HY3） 载荷：未知 客户：未知 轨道：SSO 动态
+ ： 【2021年08月26日】添加此次任务。
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/%e3%80%902021%e5%b9%b410%e6%9c%88%
+ e3%80%91%e9%95%bf%e5%be%81%e5%8d%81%e4%b8%80%e5%8f%b7%e6%b5%b7%e5%b0%84-%e
+ 2%80%a2-%e8%bd%bd%e8%8d%b7%e6%9c%aa%e7%9f%a5-%e2%80%a2-longmarch-11hy3?ins
+ tance_id=5094
 END:VEVENT
 END:VCALENDAR
