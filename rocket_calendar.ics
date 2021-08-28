@@ -1317,7 +1317,7 @@ URL:http://www.spaceflightfans.cn/event/soyuz-2-1b-fregat-m-launch-oneweb-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征三号乙 • 中星2E通信卫星 • LongMarch-3B/G3 Y76 
- • CHINASAT-2E • 发射成功
+ • ChinaSat-2E • 发射成功
 DTSTART;TZID=Asia/Shanghai:20210806T003000
 DTEND;TZID=Asia/Shanghai:20210806T003000
 UID:95288
@@ -1396,8 +1396,8 @@ URL:http://www.spaceflightfans.cn/event/antares-ng-16-resupply-mission?ins
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • CRS-23 • 国际空间站货运补给任务
-DTSTART;TZID=Asia/Shanghai:20210828T153700
-DTEND;TZID=Asia/Shanghai:20210828T153700
+DTSTART;TZID=Asia/Shanghai:20210829T151400
+DTEND;TZID=Asia/Shanghai:20210829T151400
 UID:88337
 CATEGORIES:Falcon 9
 CATEGORIES:NASA
@@ -1415,18 +1415,19 @@ DESCRIPTION:（任务logo） 地点：肯尼迪航天中心LC-39A发射台
  载货物：TBD 货运2代龙飞船基本情况，其对于载人龙飞船
  取消了逃逸使用的超级天龙发动机，非加压舱段取消一
  对飞翼。不过单次货运飞船任务的价格倒是比载人飞船
- 价格更贵。 动态： 【2021年07月31日】原定于08月18日的任
- 务推迟 【2021年07月10日】预计08月18日 … 继续阅读Falcon 9
-  • CRS-23 • 国际空间站货运补给任务 →
+ 价格更贵。 动态： 【2021年08月28日】原定今天15:37的发
+ 射由于天气不能达到预期，推迟到明天8月29日15:14发射。
+  【2021年07月31日】原定于08月18日的任务推迟 … 继续阅
+ 读Falcon 9 • CRS-23 • 国际空间站货运补给任务 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-crs-23-inte
- rnational-space-station-resupply-mission?instance_id=5081
+ rnational-space-station-resupply-mission?instance_id=5103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alpha • Spinnaker 3\, NPS-CENETIX-Orbital 1\, Teachers in Space 
  CubeSat 1等多颗卫星  • 此为该型号运载火箭首飞任务
-DTSTART;TZID=Asia/Shanghai:20210930
-DTEND;TZID=Asia/Shanghai:20210930
+DTSTART;TZID=Asia/Shanghai:20210903T090000
+DTEND;TZID=Asia/Shanghai:20210903T090000
 UID:78422
 CATEGORIES:Alpha
 CATEGORIES:Firefly
@@ -1442,7 +1443,7 @@ DESCRIPTION:地点：美国加州范登堡空军基地SLC-2W发射台（
  →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/alpha-rocket-first-launch?instance
- _id=4988
+ _id=5100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ariane 5 ECA • SES-17 / Syracuse 4A (Comsat-NG 1) 一箭双星
@@ -23651,8 +23652,8 @@ URL:http://www.spaceflightfans.cn/event/long-march-2c-launch-internet-fusi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Astra-Rocket 3 • STP-27AD1 • 该火箭首次携带载荷飞行
-DTSTART;TZID=Asia/Shanghai:20210828T040000
-DTEND;TZID=Asia/Shanghai:20210828T040000
+DTSTART;TZID=Asia/Shanghai:20210829T050000
+DTEND;TZID=Asia/Shanghai:20210829T050000
 UID:96405
 CATEGORIES:Astra
 CATEGORIES:Rocket 3.1
@@ -23661,10 +23662,11 @@ CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：美国阿拉斯加州科迪亚克太平洋太空港 
  火箭：Rocket 3 载荷：STP-27AD1 客户：美国太空军 轨道：SSO
-  发射商：Astra 动态： 【2021年08月06日】添加此次任务
+  发射商：Astra 动态： 【2021年08月28日】点火时序终止，
+ 原因有待排查 【2021年08月06日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/rocket-3-lanuch-stp-27ad1?instance
- _id=4996
+ _id=5101
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electron • BlackSky Global 10/11地球遥感卫星
