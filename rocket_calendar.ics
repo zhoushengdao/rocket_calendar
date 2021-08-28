@@ -23652,8 +23652,8 @@ URL:http://www.spaceflightfans.cn/event/long-march-2c-launch-internet-fusi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Astra-Rocket 3 • STP-27AD1 • 该火箭首次携带载荷飞行
-DTSTART;TZID=Asia/Shanghai:20210829T050000
-DTEND;TZID=Asia/Shanghai:20210829T050000
+DTSTART;TZID=Asia/Shanghai:20210829T063000
+DTEND;TZID=Asia/Shanghai:20210829T063000
 UID:96405
 CATEGORIES:Astra
 CATEGORIES:Rocket 3.1
@@ -23662,16 +23662,19 @@ CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：美国阿拉斯加州科迪亚克太平洋太空港 
  火箭：Rocket 3 载荷：STP-27AD1 客户：美国太空军 轨道：SSO
-  发射商：Astra 动态： 【2021年08月28日】点火时序终止，
- 原因有待排查 【2021年08月06日】添加此次任务
+  发射商：Astra 动态： 【2021年08月29日】昨天的发射因为
+ 发动机起动较慢而在倒计时0秒时放弃发射。调整后今天0
+ 6:00再次进行发射。因燃料加注需求推迟到06:30发射。 【2
+ 021年08月28日】点火时序终止，原因有待排查。明天早上0
+ 5:00将再次尝试发射。 【2021年08月06日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/rocket-3-lanuch-stp-27ad1?instance
- _id=5101
+ _id=5106
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electron • BlackSky Global 10/11地球遥感卫星
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20210830T190000
+DTEND;TZID=Asia/Shanghai:20210830T190000
 UID:96481
 CATEGORIES:Electron
 CATEGORIES:RocketLab
@@ -23682,10 +23685,11 @@ DESCRIPTION:简要信息： 地点：新西兰玛西亚半岛航天发射
  场 LC-1A 火箭：Electron(电子) 载荷：BlackSky Global 10/11地球
  遥感卫星 质量：112kg(单颗重56kg) 客户：BlackSky 轨道：SSO 
  箭体名：Love At First Insight 火箭信息：   动态： 【2021年0
- 8月10日】添加此次任务
+ 8月28日】预计08月30日发射 【2021年08月10日】添加此次任
+ 务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron-rocket-launch-blacksky-10
- -11-satellite?instance_id=5024
+ -11-satellite?instance_id=5104
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LauncherOne • STP-S28A
