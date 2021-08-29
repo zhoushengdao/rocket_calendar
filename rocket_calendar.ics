@@ -1425,7 +1425,7 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-crs-23-inte
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alpha • Spinnaker 3\, NPS-CENETIX-Orbital 1\, Teachers in Space 
- CubeSat 1等多颗卫星  • 此为该型号运载火箭首飞任务
+ CubeSat 1等多颗卫星  • 火箭首飞
 DTSTART;TZID=Asia/Shanghai:20210903T090000
 DTEND;TZID=Asia/Shanghai:20210903T090000
 UID:78422
@@ -1439,11 +1439,10 @@ DESCRIPTION:地点：美国加州范登堡空军基地SLC-2W发射台（
   3 / NPS-CENETIX-Orbital 1 / Teachers in Space CubeSat 1 / Hiapo / BSS 1 /
   MAGNETO / CRESST DREAM COMET / FossaCon 1A - H / Firefly Capsule 1 … 
  继续阅读Alpha • Spinnaker 3\, NPS-CENETIX-Orbital 1\, Teachers in Sp
- ace CubeSat 1等多颗卫星  • 此为该型号运载火箭首飞任务 
- →
+ ace CubeSat 1等多颗卫星  • 火箭首飞 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/alpha-rocket-first-launch?instance
- _id=5100
+ _id=5108
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ariane 5 ECA • SES-17 / Syracuse 4A (Comsat-NG 1) 一箭双星
@@ -23652,24 +23651,35 @@ URL:http://www.spaceflightfans.cn/event/long-march-2c-launch-internet-fusi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Astra-Rocket 3 • STP-27AD1 • 该火箭首次携带载荷飞行
-DTSTART;TZID=Asia/Shanghai:20210829T063000
-DTEND;TZID=Asia/Shanghai:20210829T063000
+  • 发射失败
+DTSTART;TZID=Asia/Shanghai:20210829T063500
+DTEND;TZID=Asia/Shanghai:20210829T063500
 UID:96405
 CATEGORIES:Astra
 CATEGORIES:Rocket 3.1
 CATEGORIES:美国发射
-CATEGORIES:
+CATEGORIES:发射失败
 CLASS:PUBLIC
 DESCRIPTION:地点：美国阿拉斯加州科迪亚克太平洋太空港 
  火箭：Rocket 3 载荷：STP-27AD1 客户：美国太空军 轨道：SSO
-  发射商：Astra 动态： 【2021年08月29日】昨天的发射因为
- 发动机起动较慢而在倒计时0秒时放弃发射。调整后今天0
- 6:00再次进行发射。因燃料加注需求推迟到06:30发射。 【2
- 021年08月28日】点火时序终止，原因有待排查。明天早上0
- 5:00将再次尝试发射。 【2021年08月06日】添加此次任务
+  发射商：Astra 发射回放： ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
+ ﻿﻿﻿﻿﻿﻿﻿﻿﻿   动态： 【2021年08月29日】Astra公
+ 司随后发表说明，火箭于06:35发射升空。五个主发动机中
+ 的一个在升空后不到一秒就关闭了，由于推力不平衡，
+ 导致火箭倾斜侧移升离发射台。在大约两分三十秒的飞
+ 行后，由于推力不足，火箭偏离预定飞行轨迹过多，靶
+ 场发出命令要求所有发动机关机，结束了飞行。飞行器
+ 在返回地球之前达到了大约50公里的高度。 【2021年08月29
+ 日】昨天的发射因为发动机起动较慢而在倒计时0秒时放
+ 弃发射。调整后今天06:00再次进行发射。因燃料加注需求
+ 推迟到06:30发射。最后于06:35发射时发生偏移，但仍起飞
+ 成功。发射后约02:30发生异常，发动机提前关机，发射失
+ 败。 【2021年08月28日】点火时序终止，原因有待排查。
+ 明天早上05:00将再次尝试发射。 【2021年08月06日】添加此
+ 次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/rocket-3-lanuch-stp-27ad1?instance
- _id=5106
+ _id=5110
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electron • BlackSky Global 10/11地球遥感卫星
