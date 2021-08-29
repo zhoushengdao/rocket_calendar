@@ -1395,7 +1395,8 @@ URL:http://www.spaceflightfans.cn/event/antares-ng-16-resupply-mission?ins
  tance_id=5027
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 • CRS-23 • 国际空间站货运补给任务
+SUMMARY:Falcon 9 • CRS-23 • 国际空间站货运补给任务 • 发
+ 射成功
 DTSTART;TZID=Asia/Shanghai:20210829T151400
 DTEND;TZID=Asia/Shanghai:20210829T151400
 UID:88337
@@ -1405,6 +1406,8 @@ CATEGORIES:SpaceX
 CATEGORIES:美国发射
 CATEGORIES:CrewDragon
 CATEGORIES:CRS-23
+CATEGORIES:发射成功
+CATEGORIES:海上回收
 CLASS:PUBLIC
 DESCRIPTION:（任务logo） 地点：肯尼迪航天中心LC-39A发射台
   火箭：Falcon 9 Block 5 载荷：龙货运飞船 CRS-23国际空间站
@@ -1415,13 +1418,15 @@ DESCRIPTION:（任务logo） 地点：肯尼迪航天中心LC-39A发射台
  载货物：TBD 货运2代龙飞船基本情况，其对于载人龙飞船
  取消了逃逸使用的超级天龙发动机，非加压舱段取消一
  对飞翼。不过单次货运飞船任务的价格倒是比载人飞船
- 价格更贵。 动态： 【2021年08月28日】原定今天15:37的发
- 射由于天气不能达到预期，推迟到明天8月29日15:14发射。
-  【2021年07月31日】原定于08月18日的任务推迟 … 继续阅
- 读Falcon 9 • CRS-23 • 国际空间站货运补给任务 →
+ 价格更贵。 动态： 【2021年08月29日】于今天下午15:14准
+ 时发射，一级成功返回新回收船ASOG，发射后12分钟成功
+ 将货运龙送入预定轨道。 【2021年08月28日】原定今天15:37
+ 的发射由于天气不能达到预期，推迟到明天8月29日15:14发
+ 射。 … 继续阅读Falcon 9 • CRS-23 • 国际空间站货运补给
+ 任务 • 发射成功 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-crs-23-inte
- rnational-space-station-resupply-mission?instance_id=5103
+ rnational-space-station-resupply-mission?instance_id=5111
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alpha • Spinnaker 3\, NPS-CENETIX-Orbital 1\, Teachers in Space 
@@ -1836,7 +1841,7 @@ URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e9%95%bf%e5%
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征三号乙 • 中星9B电视直播卫星 • 中星9A替代
- 星 • LongMarch-3B/G2 • ChinaSat-9B
+ 星 • LongMarch-3B/G2 Y86 • ChinaSat-9B
 DTSTART;TZID=Asia/Shanghai:20210909T190000
 DTEND;TZID=Asia/Shanghai:20210909T190000
 UID:85700
@@ -1846,21 +1851,22 @@ CATEGORIES:长征三号乙
 CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国西昌卫星发射中心 火箭(Ve
- hicle)：长征三号乙改二运载火箭（LongMarch 3B/G2） 载荷(Pay
- load)：中星9B通信卫星（ChinaSat-9B） 客户(Customer)：中国卫
- 通 重量(Mass)：5600kg 轨道(Orbit)：GTO 设计寿命：15年 卫星
- 平台：东方红四号增强型平台（DFH-4E） 任务代号：N/A 通
- 信容量：N/A 简介： 中星9B卫星（接替中星9A卫星，设计
- 寿命15年，采用东四增强型平台，承载Ku BSS频段载荷） 
- 动态： 【2021年08月14日】中星9B卫星已进场。 同时，中
- 星9B卫星试验队正式上线“党史学习卡”，“第一时间”
- “第一议题”组织学习习近平总书记重要讲话精神，分
- 为两个主题，第一主题为“今日一习话”，专题推送习
- 近平总书记“七一”期间重要讲话精神，第二主题为“
- 光影中的百年峥嵘”，专题推送讲述中国共产党历史的
- 红色电影、文学等艺术作品，推动全体试验队员将理论
- 收获转化为誓夺型号发射任务圆满完成的强大精神引擎
- 。 【2021年01月11日】添加此次任务。
+ hicle)：长征三号乙改二遥八十六运载火箭（LongMarch 3B/G2 Y
+ 86） 载荷(Payload)：中星9B通信卫星（ChinaSat-9B） 客户(Custo
+ mer)：中国卫通 重量(Mass)：5600kg 轨道(Orbit)：GTO 设计寿命
+ ：15年 卫星平台：东方红四号增强型平台（DFH-4E） 任务
+ 代号：N/A 通信容量：N/A 简介： 中星9B卫星（接替中星9A
+ 卫星，设计寿命15年，采用东四增强型平台，承载Ku BSS频
+ 段载荷） 动态： 【2021年08月28日】遥号确定为遥86。 【2
+ 021年08月14日】中星9B卫星已进场。 同时，中星9B卫星试
+ 验队正式上线“党史学习卡”，“第一时间”“第一议
+ 题”组织学习习近平总书记重要讲话精神，分为两个主
+ 题，第一主题为“今日一习话”，专题推送习近平总书
+ 记“七一”期间重要讲话精神，第二主题为“光影中的
+ 百年峥嵘”，专题推送讲述中国共产党历史的红色电影
+ 、文学等艺术作品，推动全体试验队员将理论收获转化
+ 为誓夺型号发射任务圆满完成的强大精神引擎。 【2021年
+ 01月11日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e9%95%bf%e5%
  be%81%e4%b8%89%e5%8f%b7%e4%b9%99-%e2%80%a2-%e4%b8%ad%e6%98%9f9b%e9%80%9a%e
@@ -23651,7 +23657,7 @@ URL:http://www.spaceflightfans.cn/event/long-march-2c-launch-internet-fusi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Astra-Rocket 3 • STP-27AD1 • 该火箭首次携带载荷飞行
-  • 发射失败
+  • 该火箭首次执行特殊平飞试验
 DTSTART;TZID=Asia/Shanghai:20210829T063500
 DTEND;TZID=Asia/Shanghai:20210829T063500
 UID:96405
@@ -23661,22 +23667,23 @@ CATEGORIES:美国发射
 CATEGORIES:发射失败
 CLASS:PUBLIC
 DESCRIPTION:地点：美国阿拉斯加州科迪亚克太平洋太空港 
- 火箭：Rocket 3 载荷：STP-27AD1 客户：美国太空军 轨道：SSO
-  发射商：Astra 发射回放： ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
- ﻿﻿﻿﻿﻿﻿﻿﻿﻿   动态： 【2021年08月29日】Astra公
- 司随后发表说明，火箭于06:35发射升空。五个主发动机中
- 的一个在升空后不到一秒就关闭了，由于推力不平衡，
- 导致火箭倾斜侧移升离发射台。在大约两分三十秒的飞
- 行后，由于推力不足，火箭偏离预定飞行轨迹过多，靶
- 场发出命令要求所有发动机关机，结束了飞行。飞行器
- 在返回地球之前达到了大约50公里的高度。 【2021年08月29
- 日】昨天的发射因为发动机起动较慢而在倒计时0秒时放
- 弃发射。调整后今天06:00再次进行发射。因燃料加注需求
- 推迟到06:30发射。最后于06:35发射时发生偏移，但仍起飞
- 成功。发射后约02:30发生异常，发动机提前关机，发射失
- 败。 【2021年08月28日】点火时序终止，原因有待排查。
- 明天早上05:00将再次尝试发射。 【2021年08月06日】添加此
- 次任务
+ 火箭：Rocket 3.3(加长型）LV0006号箭 载荷：STP-27AD1 客户：
+ 美国太空军 轨道：500km SSO 发射商：Astra 发射回放： ﻿
+ ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿   动态
+ ： 【2021年08月29日】热烈庆祝Rocket 3.3运载火箭执行特殊
+ 平飞试验任务圆满成功！ 【2021年08月29日】Astra公司随后
+ 发表说明，火箭于06:35发射升空。五个主发动机中的一个
+ 在升空后不到一秒就关闭了，由于推力不平衡，导致火
+ 箭倾斜侧移升离发射台。在大约两分三十秒的飞行后，
+ 由于推力不足，火箭偏离预定飞行轨迹过多，靶场发出
+ 命令要求所有发动机关机，结束了飞行。飞行器在返回
+ 地球之前达到了大约50公里的高度。 【2021年08月29日】昨
+ 天的发射因为发动机起动较慢而在倒计时0秒时放弃发射
+ 。调整后今天06:00再次进行发射。因燃料加注需求推迟到
+ 06:30发射。最后于06:35发射时发生偏移，但仍起飞成功。
+ 发射后约02:30发生异常，发动机提前关机，发射失败。 
+ 【2021年08月28日】点火时序终止，原因有待排查。明天早
+ 上05:00将再次尝试发射。 【2021年08月06日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/rocket-3-lanuch-stp-27ad1?instance
  _id=5110
