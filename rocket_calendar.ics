@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-30T00:31:56
+X-1-EDT:2021-08-31T00:33:24
 X-2-EDT:2021-08-10T00:33:27
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -983,8 +983,8 @@ URL:http://www.spaceflightfans.cn/event/ariane-5-eca-%e2%80%a2launch-star-
  one-d2-%e2%80%a2-eutelsat-quantum?instance_id=4928
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【2021年9月中下旬待定】快舟一号甲 • 吉林一号
- 高分02-F星 • KZ-1A Y4 • JL-1-GF02-F
+SUMMARY:【2021年9月中下旬】快舟一号甲 • 吉林一号高分02
+ -D星 • KZ-1A Y4 • JL-1-GF02-D
 DTSTART;TZID=Asia/Shanghai:20210919
 DTEND;TZID=Asia/Shanghai:20210919
 UID:79280
@@ -995,35 +995,35 @@ CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:相关信息： 地点(Location)：中国酒泉卫星发射中
  心 95A场坪 火箭(Vehicle)：快舟一号甲遥四运载火箭“和平
- 精英号”(KZ-1A Y4) 载荷(Payload)：吉林一号高分02F星 客户(C
- ustomer)：长光卫星 轨道(Orbit)：535km SSO 卫星平台(Satellite B
- us)：TBD 动态： 【2021年08月21日】：确定此次发射为2021年
- 9月中下旬进行，载荷为吉林一号高分02F星。 【2021年08月
- 06日】：受双曲线一号遥五发射失利影响，新的发射月份
- 待定。 【2021年07月16日】：8-9月组织快舟一号甲火箭复
- 飞工作。求求了快点吧，这个预报都改了不下十次了。 
- 【2021年02月20日】：由官方推送，确定3月组织快舟1A火箭
- 复飞。 2月19日，沿着航天大道一路向东，两侧的厂房林
- 立。其中最引人注目的是航天科工火箭园区总装车间，4
- 枚白灰相间的快舟一号甲火箭停在架车上，一字儿排开
- 。“计划3月份要运送到酒泉基地发射，从发布指令、点
- 火分离、姿态调整，所有的流程要全部测试一遍，确保
- 万无一失。”科研主管刘欣告诉湖北日报全媒记者，通
- 过夜以继日的加班加点，总装中心一期工程已具备年产20
- 发火箭的产能。二期预留了1000亩土地，保障和测试中心
- 今年已经启动论证。 【2021年02月14日】：该任务置于2021
- 年上半年发射，为快舟一号甲运载火箭复飞任务。 【2020
- 年09月20日】：因9月12日快舟一号甲运载火箭发射“吉林
- 一号”高分02C卫星失利，三次连射中断，后两次至于年
- 底待定。 【2020年08月29日】：添加此次任务。
+ 精英号”(KZ-1A Y4) 载荷(Payload)：吉林一号高分02-D星 客户(
+ Customer)：长光卫星 轨道(Orbit)：535km SSO 卫星平台(Satellite 
+ Bus)：TBD 动态： 【2021年08月21日】：确定此次发射为2021
+ 年9月中下旬进行，载荷为吉林一号高分02D星。 【2021年08
+ 月06日】：受双曲线一号遥五发射失利影响，新的发射月
+ 份待定。 【2021年07月16日】：8-9月组织快舟一号甲火箭
+ 复飞工作。求求了快点吧，这个预报都改了不下十次了
+ 。 【2021年02月20日】：由官方推送，确定3月组织快舟1A
+ 火箭复飞。 2月19日，沿着航天大道一路向东，两侧的厂
+ 房林立。其中最引人注目的是航天科工火箭园区总装车
+ 间，4枚白灰相间的快舟一号甲火箭停在架车上，一字儿
+ 排开。“计划3月份要运送到酒泉基地发射，从发布指令
+ 、点火分离、姿态调整，所有的流程要全部测试一遍，
+ 确保万无一失。”科研主管刘欣告诉湖北日报全媒记者
+ ，通过夜以继日的加班加点，总装中心一期工程已具备
+ 年产20发火箭的产能。二期预留了1000亩土地，保障和测
+ 试中心今年已经启动论证。 【2021年02月14日】：该任务
+ 置于2021年上半年发射，为快舟一号甲运载火箭复飞任务
+ 。 【2020年09月20日】：因9月12日快舟一号甲运载火箭发
+ 射“吉林一号”高分02C卫星失利，三次连射中断，后两
+ 次至于年底待定。 【2020年08月29日】：添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/kuaizhou-1a-rocket-launch-jilin-1-
  gaofen-02d-satellite?instance_id=5077
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L29批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210930
-DTEND;TZID=Asia/Shanghai:20210930
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:91591
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1037,7 +1037,7 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L29批次星链
  日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l29?instance_id=5095
+ -0-l29?instance_id=5126
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L30批次Starlink通信卫星组网发射
@@ -1745,7 +1745,7 @@ URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%80%a2-soyuz-ms-20%e
  %b8%b8%e5%ae%a2%e6%9c%8d%e5%8a%a1?instance_id=4368
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:快舟一号甲 • 吉林一号高分02-D星 • KZ-1A Y5• JL-1
+SUMMARY:快舟一号甲 • 吉林一号高分02-F星 • KZ-1A Y5• JL-1
  -GF02-F
 DTSTART;TZID=Asia/Shanghai:20210925
 DTEND;TZID=Asia/Shanghai:20210925
@@ -1757,10 +1757,10 @@ CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:相关信息： 地点：中国酒泉卫星发射中心95A场
  坪 火箭(Vehicle)：快舟一号甲遥五运载火箭“新洲号”(Kua
- izhou-1A Y5) 载荷(Payload)：吉林一号高分02D星 客户(Customer)
+ izhou-1A Y5) 载荷(Payload)：吉林一号高分02-F星 客户(Customer)
  ：长光卫星 轨道(Orbit)：535km SSO 卫星平台(Satellite Bus)：TB
  D 动态： 【2021年08月21日】快舟一号甲遥五“新洲号”将
- 于2021年9月下旬发射吉林一号高分02D星。 【2021年02月14日
+ 于2021年9月下旬发射吉林一号高分02F星。 【2021年02月14日
  】该任务置于2021年上半年发射。 【2020年09月20日】因酒
  泉9月12日快舟一号甲运载火箭发射“吉林一号”高分02C
  卫星失利，三次连射中断，后两次至于年底待定。 【2020
