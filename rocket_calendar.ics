@@ -1850,7 +1850,7 @@ CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：中国西昌卫星发射中心 火箭(Ve
  hicle)：长征三号乙改二遥八十六运载火箭（LongMarch 3B/G2 Y
  86） 载荷(Payload)：中星9B通信卫星（ChinaSat-9B） 客户(Custo
- mer)：中国卫通 重量(Mass)：5600kg 轨道(Orbit)：GTO 设计寿命
+ mer)：中国卫通 重量(Mass)：5550kg 轨道(Orbit)：GTO 设计寿命
  ：15年 卫星平台：东方红四号增强型平台（DFH-4E） 任务
  代号：N/A 通信容量：N/A 简介： 中星9B卫星（接替中星9A
  卫星，设计寿命15年，采用东四增强型平台，承载Ku BSS频
@@ -1947,8 +1947,8 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-crew-dragon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas-V 401构型 • LandSat-9地球遥感卫星
-DTSTART;TZID=Asia/Shanghai:20210917T021100
-DTEND;TZID=Asia/Shanghai:20210917T021100
+DTSTART;TZID=Asia/Shanghai:20210923T021100
+DTEND;TZID=Asia/Shanghai:20210923T021100
 UID:89830
 CATEGORIES:Atlas 5
 CATEGORIES:ULA（联合发射联盟）
@@ -1966,7 +1966,7 @@ DESCRIPTION:地点：范德堡空军基地 SLC-3E 火箭：Atlas V 401（
  -9地球遥感卫星 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/atlas-v-401-rocket-launch-landsat9
- -satellite?instance_id=5018
+ -satellite?instance_id=5115
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征七号遥四 • 天舟三号货运飞船 • LongMarch 7 Y4
@@ -23687,8 +23687,8 @@ URL:http://www.spaceflightfans.cn/event/rocket-3-lanuch-stp-27ad1?instance
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electron • BlackSky Global 10/11地球遥感卫星
-DTSTART;TZID=Asia/Shanghai:20210830T190000
-DTEND;TZID=Asia/Shanghai:20210830T190000
+DTSTART;TZID=Asia/Shanghai:20210915
+DTEND;TZID=Asia/Shanghai:20210915
 UID:96481
 CATEGORIES:Electron
 CATEGORIES:RocketLab
@@ -23703,7 +23703,7 @@ DESCRIPTION:简要信息： 地点：新西兰玛西亚半岛航天发射
  务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron-rocket-launch-blacksky-10
- -11-satellite?instance_id=5104
+ -11-satellite?instance_id=5114
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LauncherOne • STP-S28A
