@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-08-31T00:33:24
+X-1-EDT:2021-09-01T00:32:56
 X-2-EDT:2021-08-10T00:33:27
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -23654,7 +23654,7 @@ URL:http://www.spaceflightfans.cn/event/long-march-2c-launch-internet-fusi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Astra-Rocket 3 • STP-27AD1 • 该火箭首次携带载荷飞行
-  • 该火箭首次执行特殊平飞试验
+  • 发射失败
 DTSTART;TZID=Asia/Shanghai:20210829T063500
 DTEND;TZID=Asia/Shanghai:20210829T063500
 UID:96405
