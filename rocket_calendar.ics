@@ -1658,8 +1658,8 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V2.0-L1批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210930
-DTEND;TZID=Asia/Shanghai:20210930
+DTSTART;TZID=Asia/Shanghai:20210913T000000
+DTEND;TZID=Asia/Shanghai:20210913T000000
 UID:93380
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1676,7 +1676,7 @@ DESCRIPTION:地点：范登堡SLC-4E 火箭：Falcon 9 载荷：V2.0 L1批
  卫星组网发射 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v2
- -0-l1?instance_id=5057
+ -0-l1?instance_id=5133
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1a • Soyuz MS-20•  俄罗斯12天太空游客服务，
@@ -1890,9 +1890,9 @@ URL:http://www.spaceflightfans.cn/event/soyuz-2-1b-fregat-m-launch-oneweb-
  satellite-batch-10?instance_id=4902
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【不早于9月份】Falcon 9 •Crew Dragon Inspiration4 •纯
- 旅游的载人航天项目•企业家购买“载人龙”任务，其
- 他3个座位船票兼做慈善，不对接国际空间站
+SUMMARY:Falcon 9 •Crew Dragon Inspiration4 •纯旅游的载人航天
+ 项目•企业家购买“载人龙”任务，其他3个座位船票兼
+ 做慈善，不对接国际空间站
 DTSTART;TZID=Asia/Shanghai:20210915
 DTEND;TZID=Asia/Shanghai:20210915
 UID:87651
@@ -1938,9 +1938,9 @@ DESCRIPTION:Inspiration4任务徽章 敲定名单的4名成员 地点：
  。 Leadership对应任务指挥官，由本次飞行的出资人、亿万
  富翁贾里德·艾萨克曼（Jared Isaacman）担任。飞船将在低
  地轨道上飞行两到四天，但将不去同国际空间站对接。 
- … 继续阅读【不早于9月份】Falcon 9 •Crew Dragon Inspiration4
-  •纯旅游的载人航天项目•企业家购买“载人龙”任务
- ，其他3个座位船票兼做慈善，不对接国际空间站 →
+ … 继续阅读Falcon 9 •Crew Dragon Inspiration4 •纯旅游的载人
+ 航天项目•企业家购买“载人龙”任务，其他3个座位船
+ 票兼做慈善，不对接国际空间站 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-crew-dragon
  -inspiration4?instance_id=4577
