@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-09-02T00:33:19
+X-1-EDT:2021-09-04T18:22:59
 X-2-EDT:2021-08-10T00:33:27
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -151,6 +151,7 @@ UID:91329
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：CCSFS SLC-40 火箭：Falcon 9 Block 5 载荷：SXM-8
   重量：约7吨 客户：Sirius XM 轨道：地球同步转移轨道(GTO
@@ -208,6 +209,7 @@ DTEND;TZID=Asia/Shanghai:20210612T000000
 UID:69378
 CATEGORIES:Simorgh
 CATEGORIES:伊朗发射
+CATEGORIES:发射失败
 CLASS:PUBLIC
 DESCRIPTION:地点：伊朗伊玛目•霍梅尼航天发射场LC-2发射
  工位 火箭：使者二号(“神鸟”号\, Safir-2\, Simorgh) 载荷
@@ -231,6 +233,7 @@ UID:94385
 CATEGORIES:NorthropGrumman
 CATEGORIES:Pegasus
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:  地点：西海岸加州范德堡空域 L-1011“三星”
  运输机(飞马座) 火箭：Pegasus XL 载荷：TacRL-2 重量：TBD 客
@@ -435,7 +438,9 @@ SUMMARY:LauncherOne • Tubular Bells\, Part One • 军方STP载荷和国
 DTSTART;TZID=Asia/Shanghai:20210630T224700
 DTEND;TZID=Asia/Shanghai:20210630T224700
 UID:92996
-CATEGORIES:
+CATEGORIES:LauncherOne
+CATEGORIES:Virgin Orbit
+CATEGORIES:美国发射
 CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：美国加州莫哈维沙漠空域 运载机：波音7
@@ -1568,8 +1573,8 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-sarah1-sate
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L31批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210930
-DTEND;TZID=Asia/Shanghai:20210930
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:93375
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1582,7 +1587,7 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-31批次星链
  加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l31?instance_id=5010
+ -0-l31?instance_id=5128
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L32批次Starlink通信卫星组网发射
@@ -2240,8 +2245,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz ST-B • Fregat-M • Galileo FOC 23&#038\;24 • 欧洲伽
  利略卫星导航系统双星组网任务
-DTSTART;TZID=Asia/Shanghai:20210930
-DTEND;TZID=Asia/Shanghai:20210930
+DTSTART;TZID=Asia/Shanghai:20211123T090700
+DTEND;TZID=Asia/Shanghai:20211123T090700
 UID:83576
 CATEGORIES:Soyuz 2
 CATEGORIES:欧洲发射
@@ -2251,10 +2256,11 @@ DESCRIPTION:简要信息： 地点：法属圭亚那库鲁圭亚那太空
  中心 ELS 火箭：Soyuz ST-B 箭体：VS26 载荷：Galileo FOC 23 & 24
  导航卫星 质量：733kg每颗 客户：欧洲空间局 轨道：中地
  球轨道(MEO) 直播地址：http://www.arianespace.com/ 动态： 【202
- 1年02月02日】推迟至九月 【2020年11月26日】添加此次任务
+ 1年08月22日】计划于11月23日发射 【2021年02月02日】推迟
+ 至九月 【2020年11月26日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-st-b-with-fregat-m-launch-ga
- lileo-foc-2324-navigation-satellite?instance_id=4274
+ lileo-foc-2324-navigation-satellite?instance_id=5083
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:谷神星一号遥二 • 方舟二号F返回式试验卫星 • C
@@ -20590,8 +20596,8 @@ URL:http://www.spaceflightfans.cn/event/space-launch-system_em-1?instance_
  id=4816
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 • DART小行星探测任务 • Double Asteroid Redirec
- tion Test
+SUMMARY:Falcon 9 • DART小行星重定向测试任务 • Double Asteroi
+ d Redirection Test
 DTSTART;TZID=Asia/Shanghai:20211124
 DTEND;TZID=Asia/Shanghai:20211124
 UID:54010
@@ -20608,8 +20614,8 @@ DESCRIPTION:地点：范登堡空军基地SLC4E发射台 火箭：Falcon 9
  心轨道 箭体：TBD 回收：TBD 官宣网址： https://www.nasa.gov/p
  ress-release/nasa-awards-launch-services-contract-for-asteroid-redirect-te
  st-mission 任务官方页面： https://www.nasa.gov/planetarydefense/dar
- t … 继续阅读Falcon 9 • DART小行星探测任务 • Double Astero
- id Redirection Test →
+ t … 继续阅读Falcon 9 • DART小行星重定向测试任务 • Doub
+ le Asteroid Redirection Test →
 LOCATION:范登堡空军基地SLC4E发射台
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-double-aste
  roid-redirection-test-satellite?instance_id=4894
@@ -20623,6 +20629,7 @@ UID:88350
 CATEGORIES:Soyuz
 CATEGORIES:Soyuz 2
 CATEGORIES:俄罗斯发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：哈萨克斯坦拜科努尔航天发射场 LC-31/6（
  拜科努尔进步飞船发射工位） 火箭：Soyuz-2.1b（第19XX枚R-
@@ -20632,33 +20639,30 @@ DESCRIPTION:地点：哈萨克斯坦拜科努尔航天发射场 LC-31/6（
  021年11月24日 与国际空间站对接时间：2021年11月26日 节点
  舱质量：4吨，加上推进舱模块为7.29吨 任务时长：永久 
  任务窗口：零窗口任务 对接模式：2天模式 对接口：MLM
- 科学号实验舱对接口 直播： NASATV 俄罗斯联邦航天局官
- 网主页 国内B站直播：https://live.bilibili.com/390508 观看提示
- （v1.0）： 1.你看到到火箭往下飞，不是失败了往下掉，
- 是视角问题，实际上飞行没有问题。 2.火箭冒烟？那不
- 是烟，是挥发的液氧 3.火箭变白色？那是冷凝的水蒸气 4
- .这是联盟火箭，不能回收 5.为什么画质这么差？因为俄
- 罗斯摄像设备就这么差（或者网不好） 6.直播的动画是
- 提前做好的，不是实时模拟的。 节点舱介绍： 专用节点
- 模块UM是为国际空间站的俄罗斯部分设计的，它也可以作
- 为俄罗斯未来可能的独立新空间站的节点舱。Prichal将被
- 连接到Nauk，为俄罗斯部分提供了五个额外的坞站端口，
- 并为未来的前哨站提供了无限的使用寿命。 UM将与改进
- 的Progress货运飞船推进舱组合，推进舱将护送节点舱段与
- 国际空间站科学号实验舱的对接口对接，之后推进舱自
- 主分离后再入。因此节点舱与推进舱的组合体也称为Progr
- ess-MS-UM，它将由Soyuz-2-1b火箭发射。 UM将在MLM与ISS国际空
- 间站对接后3个月组织实施发射，因为MLM的推迟，UM节点
- 舱的发射日期也一再推迟。 为配合新舱段的加入，俄罗
- 斯航天员将在舱段加入期间实施多次太空行走（EVA）。 U
- M节点舱对接示意图 动态： &hellip\; <a href="http://www.spacefli
- ghtfans.cn/event/soyuz-2-1b-%e2%80%a2-um%e8%8a%82%e7%82%b9%e8%88%b1%ef%bc%
- 88prichal-node-module%ef%bc%8cprogress-ms-um%ef%bc%89%e2%80%a2-%e7%a0%81%e
- 5%a4%b4%e8%8a%82%e7%82%b9%e8%88%b1%e7%9a%84%e4%b8%8b%e4%b8%80" class="more
- -link">继续阅读<span class="screen-reader-text">Soyuz 2.1b • UM节
- 点舱（Prichal Node Module，Progress-MS-UM）• 码头节点舱的下
- 一代产品，连接科学号实验舱</span> <span class="meta-nav">&rar
- r\;</span></a>
+ 科学号实验舱星下点被动端对接口 直播： NASATV 俄罗斯
+ 联邦航天局官网主页 国内B站直播：https://live.bilibili.com/3
+ 90508 观看提示（v1.0）： 1.你看到到火箭往下飞，不是失
+ 败了往下掉，是视角问题，实际上飞行没有问题。 2.火
+ 箭冒烟？那不是烟，是挥发的液氧 3.火箭变白色？那是
+ 冷凝的水蒸气 4.这是联盟火箭，不能回收 5.为什么画质
+ 这么差？因为俄罗斯摄像设备就这么差（或者网不好） 6
+ .直播的动画是提前做好的，不是实时模拟的。 节点舱介
+ 绍： 专用节点模块UM是为国际空间站的俄罗斯部分设计
+ 的，它也可以作为俄罗斯未来可能的独立新空间站的节
+ 点舱。新的码头号（Prichal）将被连接到科学号实验舱，
+ 为俄罗斯部分提供了五个额外的对接端口，，其中2个混
+ 合被动端，3个杆锥被动端与一个杆锥主动端对接口，并
+ 为未来的前哨站提供了无限的使用寿命。 UM将与改进的Pr
+ ogress货运飞船推进舱组合，推进舱将护送节点舱段与国
+ 际空间站科学号实验舱的对接口对接，之后推进舱自主
+ 分离后再入。因此节点舱与推进舱的组合体也称为Progress
+ -MS-UM，它将由Soyuz-2-1b火箭发射。 UM将在MLM与ISS国际空间
+ 站对接后3个月组织实施发射，因为MLM的推迟，UM节点舱
+ 的发射日期也一再推迟。 为配合新舱段的加入，俄罗斯
+ 航天员将在舱段加入期间实施多次太空行走（EVA）。 UM
+ 节点舱对接示意图 动态： … 继续阅读Soyuz 2.1b • UM节点
+ 舱（Prichal Node Module，Progress-MS-UM）• 码头节点舱的下一
+ 代产品，连接科学号实验舱 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1b-%e2%80%a2-um%e8%8a%82%e
  7%82%b9%e8%88%b1%ef%bc%88prichal-node-module%ef%bc%8cprogress-ms-um%ef%bc%
@@ -23990,5 +23994,47 @@ URL:http://www.spaceflightfans.cn/event/%e3%80%902021%e5%b9%b410%e6%9c%88%
  e3%80%91%e9%95%bf%e5%be%81%e5%8d%81%e4%b8%80%e5%8f%b7%e6%b5%b7%e5%b0%84-%e
  2%80%a2-%e8%bd%bd%e8%8d%b7%e6%9c%aa%e7%9f%a5-%e2%80%a2-longmarch-11hy3?ins
  tance_id=5094
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:H-2A F44 • QZSS-1R • QZSS-1替代星 • 第五颗准天顶区
+ 域导航增强系统 • Quasi-Zenith Satellite System-1R
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
+UID:96841
+CATEGORIES:H-2A
+CATEGORIES:JAXA
+CATEGORIES:日本发射
+CATEGORIES:
+CLASS:PUBLIC
+DESCRIPTION:地点(Launch Site)：种子岛宇宙开发中心 火箭(Vehic
+ le)：H-2A F44 202构型 载荷(Payload)：QZSS-1R 客户(Customer)：JAXA
+  重量(Mass)：4100kg 轨道(Orbit)：GTO 工作轨道：椭圆IGSO（约
+ 32600km×39000km，41°） 设计寿命：15年 卫星平台：DS-2000 简
+ 介： QZSS-1R是QZSS-1的备份星。运行于椭圆IGSO。 动态： 【
+ 2021年08月22日】添加此次任务，发射QZSS-1R的H-2A 202 F44火
+ 箭已进场。计划2021年10月发射。
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/h-2a-f44-%e2%80%a2-qzss-1r-%e2%80%
+ a2-qzss-1%e6%9b%bf%e4%bb%a3%e6%98%9f-%e2%80%a2-%e7%ac%ac%e4%ba%94%e9%a2%97
+ %e5%87%86%e5%a4%a9%e9%a1%b6%e5%8c%ba%e5%9f%9f%e5%af%bc%e8%88%aa%e5%a2%9e%e
+ 5%bc%ba%e7%b3%bb?instance_id=5084
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSLV • EOS-06(Oceansat-3) • 印度海洋环境卫星
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
+UID:96551
+CATEGORIES:ISRO
+CATEGORIES:PSLV
+CATEGORIES:印度发射
+CATEGORIES:
+CLASS:PUBLIC
+DESCRIPTION:地点：印度斯里赫里戈达岛萨迪什·达万航天中
+ 心 火箭：PSLV C-53 载荷：EOS-06(Oceansat-3)海洋环境卫星 质
+ 量：960kg 电功率：1360W 轨道：SSO 723km高度 客户：IRSO 设
+ 计寿命：8年 动态： 【2021年08月12日】添加此次任务
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/pslv-%e2%80%a2-eos-06oceansat-3-%e
+ 2%80%a2?instance_id=5036
 END:VEVENT
 END:VCALENDAR
