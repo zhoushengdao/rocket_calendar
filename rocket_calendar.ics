@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-09-08T06:20:57
-X-2-EDT:2021-08-10T00:33:27
+X-1-EDT:2021-09-09T00:32:56
+X-2-EDT:2021-09-09T00:32:56
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
 SUMMARY:长征七号遥三火箭 • 天舟二号货运飞船 • 8小时
@@ -1591,8 +1591,8 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L32批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20211031
-DTEND;TZID=Asia/Shanghai:20211031
+DTSTART;TZID=Asia/Shanghai:20211130
+DTEND;TZID=Asia/Shanghai:20211130
 UID:93376
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1605,12 +1605,12 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-32批次星链
  加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l32?instance_id=5009
+ -0-l32?instance_id=5125
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L33批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20211031
-DTEND;TZID=Asia/Shanghai:20211031
+DTSTART;TZID=Asia/Shanghai:20211130
+DTEND;TZID=Asia/Shanghai:20211130
 UID:93377
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1623,12 +1623,12 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-33批次星链
  加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l33?instance_id=5008
+ -0-l33?instance_id=5124
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L34批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20211031
-DTEND;TZID=Asia/Shanghai:20211031
+DTSTART;TZID=Asia/Shanghai:20211231
+DTEND;TZID=Asia/Shanghai:20211231
 UID:93378
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1641,12 +1641,12 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-31批次星链
  加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l34?instance_id=5007
+ -0-l34?instance_id=5123
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V1.0-L35批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20211031
-DTEND;TZID=Asia/Shanghai:20211031
+DTSTART;TZID=Asia/Shanghai:20211231
+DTEND;TZID=Asia/Shanghai:20211231
 UID:93379
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1659,7 +1659,7 @@ DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L-35批次星链
  加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
- -0-l35?instance_id=5006
+ -0-l35?instance_id=5122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • V2.0-L1批次Starlink通信卫星组网发射
@@ -1686,8 +1686,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1a • Soyuz MS-20•  俄罗斯12天太空游客服务，
  钱则友作绕月前太空预热豪迈
-DTSTART;TZID=Asia/Shanghai:20210831
-DTEND;TZID=Asia/Shanghai:20210831
+DTSTART;TZID=Asia/Shanghai:20211208
+DTEND;TZID=Asia/Shanghai:20211208
 UID:88559
 CATEGORIES:Soyuz
 CATEGORIES:Soyuz 2
@@ -1745,9 +1745,8 @@ DESCRIPTION:联盟飞船太空游客商业旅行任务logo （国际空间
  。 … 继续阅读Soyuz 2.1a • Soyuz MS-20•  俄罗斯12天太空游
  客服务，钱则友作绕月前太空预热豪迈 →
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%80%a2-soyuz-ms-20%e
- 2%80%a2-%e4%bf%84%e7%bd%97%e6%96%af%e9%87%8d%e5%90%af%e5%a4%aa%e7%a9%ba%e6
- %b8%b8%e5%ae%a2%e6%9c%8d%e5%8a%a1?instance_id=4368
+URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%80%a2-rocket-launch
+ -ms-20-spacecraft?instance_id=5016
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:快舟一号甲 • 吉林一号高分02-F星 • KZ-1A Y5• JL-1
@@ -20678,6 +20677,7 @@ UID:88345
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:CrewDragon
 CLASS:PUBLIC
 DESCRIPTION:地点：肯尼迪航天中心 火箭：Falcon 9 Block 5 载
  荷：龙货运飞船 CRS-26国际空间站货运任务 客户：NASA 轨
@@ -20752,6 +20752,9 @@ SUMMARY:Soyuz 2.1b/Fregat-M • Meteor-M №2-3/Monitor-1/Monitor-2
 DTSTART;TZID=Asia/Shanghai:20211130
 DTEND;TZID=Asia/Shanghai:20211130
 UID:95341
+CATEGORIES:Roscosmos
+CATEGORIES:Soyuz 2
+CATEGORIES:俄罗斯发射
 CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：东方航天发射场 火箭：Soyuz 2.1b/Fregat-M 
@@ -20795,6 +20798,7 @@ UID:69782
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:发射台：卡纳维拉尔角空军基地LC-40发射台 火
  箭：Falcon 9 载荷：GPS IIIA-6 客户：美国空军（USAF） 轨道
@@ -20802,10 +20806,8 @@ DESCRIPTION:发射台：卡纳维拉尔角空军基地LC-40发射台 火
  直播：http://www.spacex.com/webcast 国内B站直播：https://live.bil
  ibili.com/390508 相关新闻： 相关资料 (1) GPS 3 System Operations 
  Concepts (2) GPS III Selected Acquisition Report (3) Introduction to GPS a
- nd other Global Navigation Satellite &hellip\; <a href="http://www.spacefl
- ightfans.cn/event/falcon-9_gps3a-6" class="more-link">继续阅读<span cl
- ass="screen-reader-text">Falcon 9 • GPSⅢA-6 • 第三代GPS导航定
- 位卫星第6发</span> <span class="meta-nav">&rarr\;</span></a>
+ nd other Global Navigation Satellite … 继续阅读Falcon 9 • GPSⅢA-
+ 6 • 第三代GPS导航定位卫星第6发 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9_gps3a-6?instance_id=4020
 END:VEVENT
@@ -20991,13 +20993,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:【年底待定】Falcon 9 • CRS-24 • 国际空间站货运补
  给任务
-DTSTART;TZID=Asia/Shanghai:20211231
-DTEND;TZID=Asia/Shanghai:20211231
+DTSTART;TZID=Asia/Shanghai:20211208
+DTEND;TZID=Asia/Shanghai:20211208
 UID:88339
 CATEGORIES:Falcon 9
 CATEGORIES:NASA
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:CrewDragon
 CLASS:PUBLIC
 DESCRIPTION:地点：肯尼迪航天中心 火箭：Falcon 9 Block 5 载
  荷：龙货运飞船 CRS-24国际空间站货运任务 客户：NASA 轨
@@ -21005,13 +21008,11 @@ DESCRIPTION:地点：肯尼迪航天中心 火箭：Falcon 9 Block 5 载
  货运2代龙飞船基本情况，其对于载人龙飞船取消了逃逸
  使用的超级天龙发动机，非加压舱段取消一对飞翼。不
  过单次货运飞船任务的价格倒是比载人飞船价格更贵。 
- 动态： 【2021年02月14日】添加此次任务，预计年底或者
- 明年年初发射。
+ 动态： 【2021年07月24日】预计12月08日发射 【2021年02月14
+ 日】添加此次任务，预计年底或者明年年初发射。
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/%e3%80%90%e5%b9%b4%e5%ba%95%e5%be%
- 85%e5%ae%9a%e3%80%91falcon-9-%e2%80%a2-crs-24-%e2%80%a2-%e5%9b%bd%e9%99%85
- %e7%a9%ba%e9%97%b4%e7%ab%99%e8%b4%a7%e8%bf%90%e8%a1%a5%e7%bb%99%e4%bb%bb%e
- 5%8a%a1?instance_id=4346
+URL:http://www.spaceflightfans.cn/event/crs-24-international-space-station
+ -resupply-mission?instance_id=4942
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angara A5/Briz-M • 载荷未知 • 俄重型火箭第三发
@@ -21021,6 +21022,7 @@ UID:84302
 CATEGORIES:Angara A5
 CATEGORIES:ILS
 CATEGORIES:俄罗斯发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：俄罗斯普列谢茨克航天发射场 35/1 火箭
  ：Angara A5火箭+微风M上面级 载荷：? 质量：? 客户：VKS 轨
@@ -21038,6 +21040,7 @@ UID:91969
 CATEGORIES:Ariane 5
 CATEGORIES:Arianespace
 CATEGORIES:欧洲发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:简要信息： 地点：法属圭亚那库鲁圭亚那太空
  中心 ELA-3工位 火箭：Ariane 5 ECA 载荷：MEASAT 3d，Syracuse 4A 
@@ -21056,6 +21059,7 @@ UID:85823
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：卡纳维拉尔角空军基地 火箭：Falcon 9 Bloc
  k 5 载荷：Türksat 5B 客户：Türksat 质量：3500 kg 平台：Euros
@@ -21073,6 +21077,7 @@ UID:33623
 CATEGORIES:Falcon Heavy
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：卡纳维拉尔角 LC-39A发射工位 火箭：重型
  猎鹰 看点：好像没什么看点 客户：美国太空军（U.S. Spac
@@ -21084,10 +21089,8 @@ DESCRIPTION:地点：卡纳维拉尔角 LC-39A发射工位 火箭：重型
  LA是拿重型德尔塔4来竞标的，D4H要3个亿一发，FH要1.3亿
  ，空军除非脑子有坑。 原文是：The Falcon Heavy beat United La
  unch Alliance’s Delta 4 in a competition under the Evolved Expendable La
- unch &hellip\; <a href="http://www.spaceflightfans.cn/event/falcon-heavy-a
- fspc-52" class="more-link">继续阅读<span class="screen-reader-text">Fa
- lcon Heavy • USSF 52 • FH第二个正式军用任务</span> <span clas
- s="meta-nav">&rarr\;</span></a>
+ unch … 继续阅读Falcon Heavy • USSF 52 • FH第二个正式军用
+ 任务 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-heavy-afspc-52?instance_id=
  4658
@@ -21100,6 +21103,7 @@ UID:68326
 CATEGORIES:GSLV MK2
 CATEGORIES:ISRO
 CATEGORIES:印度发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：印度斯里赫里戈达岛萨迪什·达万航天中
  心 火箭：GSLV Mk.2 F12 载荷：GISAT-2 地球同步轨道光学卫星
@@ -21127,30 +21131,32 @@ UID:40008
 CATEGORIES:GSLV MK3
 CATEGORIES:ISRO
 CATEGORIES:印度发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：印度斯里赫里戈达岛萨迪什·达万航天中
  心 三号发射台 火箭：GSLV Mk.3 载荷：Gaganyann载人飞船 重
- 量：&lt\;10吨 轨道：LEO 客户：ISRO 相关新闻： 印将在2022
- 年前用“天舟”飞船送人上天 【新冠：这锅我可不背】
- 印度载人航天和落月任务被推迟 动态： 【2021年02月12日
- 】以普遍理性而论，应该置于2031年待定。 【2018年09月30
- 日】添加此次任务，暂定2021年12月；本站管理员大灰狼
- 表示，如果能按时上天，将在公众群现发100￥红包！
+ 量：<10吨 轨道：LEO 客户：ISRO 相关新闻： 印将在2022年
+ 前用“天舟”飞船送人上天 【新冠：这锅我可不背】印
+ 度载人航天和落月任务被推迟 动态： 【2021年02月12日】
+ 以普遍理性而论，应该置于2031年待定。 【2018年09月30日
+ 】添加此次任务，暂定2021年12月；本站管理员大灰狼表
+ 示，如果能按时上天，将在公众群现发100￥红包！
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/gslv-mk-3-rocket-launch-gaganyann-
  manned-spacecraft?instance_id=4443
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:H-2A F44 • Inmarsat-6 F1 • H-2A 204收官之战
+SUMMARY:H-2A F45 • Inmarsat-6 F1 • H-2A 204收官之战
 DTSTART;TZID=Asia/Shanghai:20211231
 DTEND;TZID=Asia/Shanghai:20211231
 UID:95411
 CATEGORIES:H-2A
 CATEGORIES:JAXA
 CATEGORIES:日本发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点(Launch Site)：种子岛宇宙开发中心 火箭(Vehic
- le)：H-2A F44 204构型 载荷(Payload)：Inmarsat-6 F1 客户(Customer)
+ le)：H-2A F45 204构型 载荷(Payload)：Inmarsat-6 F1 客户(Customer)
  ：Inmarsat 重量(Mass)：5800kg 轨道(Orbit)：GTO 设计寿命：15年
   卫星平台：Eurostar-3000EOR 通信容量：N/A 介绍： Inmarsat-6
  是总部位于伦敦的全球移动卫星通信运营商Inmarsat的第六
@@ -21170,8 +21176,34 @@ DESCRIPTION:地点(Launch Site)：种子岛宇宙开发中心 火箭(Vehic
  灵活的信道到波束分配。 第一颗卫星（I-6 F1）定于2021年
  发射，其电力推进系统将使其能够在4至6个月内到达地球
  静止轨道，具体取决于所使用的运载器类型。Inmarsat-6 F1
- 设计寿命15年。 动态： 【2021年07月06日】添加此次任务
- 。Inmarsat-6 F1已经完成热真空测试，2021年下半年发射。
+ 设计寿命15年。 Inmarsat-6 F1卫星是世界上第一个同时搭载
+ 了L波段和Ka波段载荷的通信卫星。该卫星通过极高地提
+ 高L波段服务的通信能力，除了面向移动体（手机、船舶
+ 、飞机等）的安全且低价的通信之外，还提供面向物联
+ 网的通信服务。另外，Ka带服务还可以进一步提高从2015
+ 年开始的第五代通信卫星的全球快递（Global Xpress）系统
+ 。根据Ka波段载荷，在需求大的地区也能发挥高容量的通
+ 信能力，使之强化Inmarsat全球覆盖的计划。 Inmarsat公司的
+ CEO(Lute Pearce)表示：“对于三菱重工和H-IIA火箭的发射，
+ 我感到非常高兴。在本公司的战略中，与提高运输业者
+ 的合作体制特别重要，为了扩大合作关系，使之多样化
+ 而不断努力。相信三菱重工会使用H-IIA火箭，提供世界水
+ 准的提高运输服务。” 另外，珀斯CEO继续表示：“正如
+ 新型火箭H3的开发所看到的那样，三菱重工显然是追求创
+ 新的企业。这是我们对本公司的合作伙伴的要求，作为
+ 承担提高运输事业的本公司合作伙伴的一员，我们期待
+ 着与三菱重工有长期成果的关系。” 另一方面，三菱重
+ 工宇宙事业部长渥美正博则阐述了自己的抱负：“移动
+ 通信业界的领先公司Inmarsat公司，这次能选择本公司的发
+ 射服务，我感到很光荣。关于这次的决定，我感受到至
+ 今为止本公司(MHI）非常重视的高可靠性和准时发射的实
+ 战记录，以及支持它的技术力得到了很高的评价。为了
+ 回应客户对发射的期待，今后将以一如既往的“款待之
+ 心”进行具体的调整和准备。此外，为了使这次的发射
+ 服务与现在正在开发的H3火箭的发射服务相关联，我们将
+ 与Inmarsat公司建立长久的良好关系。” 动态： 【2021年07
+ 月06日】添加此次任务。Inmarsat-6 F1已经完成热真空测试
+ ，2021年下半年发射。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/h-2a-f44-%e2%80%a2-inmarsat-6-f1-%
  e2%80%a2-h-2a-204%e6%94%b6%e5%ae%98%e4%b9%8b%e6%88%98?instance_id=4908
@@ -21184,6 +21216,7 @@ UID:71097
 CATEGORIES:Arianespace
 CATEGORIES:Vega C
 CATEGORIES:欧洲发射
+CATEGORIES:首次发射
 CLASS:PUBLIC
 DESCRIPTION:地点：法属圭亚那库鲁圭亚那太空中心 ZLV 火箭
  ：Vega-C（织女星-C） 箭体：VC01? 载荷：LARES 2地质探测卫
@@ -21283,6 +21316,7 @@ UID:92960
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：卡纳拉维拉尔角太空军基地40号发射台 
  火箭：Falcon 9 载荷：NROL-85，白云三代对海监视卫星（NOSS
@@ -21303,6 +21337,7 @@ UID:91610
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：卡纳维拉尔角SLC-40 火箭：Falcon 9 Block 5 
  载荷：Nilesat 301 重量：4100kg 客户：Nilesat 轨道：地球同
@@ -21320,6 +21355,7 @@ UID:70423
 CATEGORIES:H-2A
 CATEGORIES:JAXA
 CATEGORIES:日本发射
+CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：日本九州种子岛宇宙中心 火箭：H-3 型号
  ：22（芯级2发动机，2助推） 载荷：ALOS-3 质量：约3吨 客
@@ -21334,29 +21370,26 @@ DESCRIPTION:地点：日本九州种子岛宇宙中心 火箭：H-3 型号
  路结构设计(WISH)： WISH 的总质量约为 560千克，包括了连
  接到系统总线的组件。其中光学系统、OSA 和焦平面组件
  所占用的质量在最大估计值中约为 500千克。 WISH 的光学
- 系统采用了大型离轴&#8221\;四镜&#8221\;去像散透镜（FMA） 
- 设计，以实现高分辨率和宽阔视野。与众所周知的离轴
- 三镜去像散透镜（TMA）基本相同，但通过使四元镜具有
- 相当轻微的曲率，整个光学器件的总长度可以比传统三
- 镜偏置反射镜的总长度小30%。从减重的角度来看，这对
- 于卫星上的仪器来说也是一个非常重要的问题。虽然离
- 轴TMA望远镜存在总体体积比轴上TMA大很多的缺点，但由
- 于二次镜没有中心障碍物，使其具有良好的调制传递函
- 数(MTF)，从而获得了较高的成像质量。 主载荷：WISH-承力
- 结构设计： 如图所示，所有的轻量镜都有一个开背结构
- 。每面反射镜采用三片具有弯曲型的逆反双波 组成静压
- 支撑结构。多亏了这个支撑系统，望远镜结构的任何变
- 形都得到了抑制，镜子表面的形状也因此而保持。 在光
- 学结构上，选用了碳纤维布管和超中空金属接头组成的
- 桁架结构。该碳纤维增强塑料管在制造时，表面涂铝，
- 防止吸湿。也就是说，热变形和湿变形名义上为零。因
- 此，在不同的环境下，镜子之间的对齐度保持了不错的
- 稳定性。 相关文件： ALOS-3卫星相关文件： (1) Advanced Opti
- cal Satellite (ALOS-3) Overviews (2) Advanced Optical &hellip\; <a href="h
- ttp://www.spaceflightfans.cn/event/h3-alos-3-first-launch" class="more-lin
- k">继续阅读<span class="screen-reader-text">H-3 • ALOS-3 • 火箭
- 首飞 • 先进光学卫星发射</span> <span class="meta-nav">&rarr\;<
- /span></a>
+ 系统采用了大型离轴”四镜”去像散透镜（FMA） 设计，
+ 以实现高分辨率和宽阔视野。与众所周知的离轴三镜去
+ 像散透镜（TMA）基本相同，但通过使四元镜具有相当轻
+ 微的曲率，整个光学器件的总长度可以比传统三镜偏置
+ 反射镜的总长度小30%。从减重的角度来看，这对于卫星
+ 上的仪器来说也是一个非常重要的问题。虽然离轴TMA望
+ 远镜存在总体体积比轴上TMA大很多的缺点，但由于二次
+ 镜没有中心障碍物，使其具有良好的调制传递函数(MTF)，
+ 从而获得了较高的成像质量。 主载荷：WISH-承力结构设
+ 计： 如图所示，所有的轻量镜都有一个开背结构。每面
+ 反射镜采用三片具有弯曲型的逆反双波 组成静压支撑结
+ 构。多亏了这个支撑系统，望远镜结构的任何变形都得
+ 到了抑制，镜子表面的形状也因此而保持。 在光学结构
+ 上，选用了碳纤维布管和超中空金属接头组成的桁架结
+ 构。该碳纤维增强塑料管在制造时，表面涂铝，防止吸
+ 湿。也就是说，热变形和湿变形名义上为零。因此，在
+ 不同的环境下，镜子之间的对齐度保持了不错的稳定性
+ 。 相关文件： ALOS-3卫星相关文件： (1) Advanced Optical Satel
+ lite (ALOS-3) Overviews (2) Advanced Optical … 继续阅读H-3 • ALOS-
+ 3 • 火箭首飞 • 先进光学卫星发射 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/h3-alos-3-first-launch?instance_id
  =4208
