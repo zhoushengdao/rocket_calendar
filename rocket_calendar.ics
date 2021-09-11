@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-09-11T00:32:22
+X-1-EDT:2021-09-12T00:31:31
 X-2-EDT:2021-09-09T00:32:56
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -24031,8 +24031,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:H-2A F44 • QZSS-1R • QZSS-1替代星 • 第五颗准天顶区
  域导航增强系统 • Quasi-Zenith Satellite System-1R
-DTSTART;TZID=Asia/Shanghai:20211031
-DTEND;TZID=Asia/Shanghai:20211031
+DTSTART;TZID=Asia/Shanghai:20211025T100000
+DTEND;TZID=Asia/Shanghai:20211025T100000
 UID:96841
 CATEGORIES:H-2A
 CATEGORIES:JAXA
@@ -24044,13 +24044,14 @@ DESCRIPTION:地点(Launch Site)：种子岛宇宙开发中心 火箭(Vehic
   重量(Mass)：4100kg 轨道(Orbit)：GTO 工作轨道：椭圆IGSO（约
  32600km×39000km，41°） 设计寿命：15年 卫星平台：DS-2000 简
  介： QZSS-1R是QZSS-1的备份星。运行于椭圆IGSO。 动态： 【
- 2021年08月22日】添加此次任务，发射QZSS-1R的H-2A 202 F44火
- 箭已进场。计划2021年10月发射。
+ 2021年09月11日】确定此次发射于2021年10月25日1100-1200JST发
+ 射。 【2021年08月22日】添加此次任务，发射QZSS-1R的H-2A 20
+ 2 F44火箭已进场。计划2021年10月发射。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/h-2a-f44-%e2%80%a2-qzss-1r-%e2%80%
  a2-qzss-1%e6%9b%bf%e4%bb%a3%e6%98%9f-%e2%80%a2-%e7%ac%ac%e4%ba%94%e9%a2%97
  %e5%87%86%e5%a4%a9%e9%a1%b6%e5%8c%ba%e5%9f%9f%e5%af%bc%e8%88%aa%e5%a2%9e%e
- 5%bc%ba%e7%b3%bb?instance_id=5084
+ 5%bc%ba%e7%b3%bb?instance_id=5136
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSLV • EOS-06(Oceansat-3) • 印度海洋环境卫星
