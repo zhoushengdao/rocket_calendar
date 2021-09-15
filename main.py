@@ -74,7 +74,7 @@ def 抓取(url):
         'Cache-Control': 'no-cache'
     }
 
-    结果 = requests.get(url, headers=请求头)
+    结果 = requests.get(url, headers=请求头, timeout=30)
     info("%s %s" % (结果.status_code, 结果.url))
 
     结果 = 结果.json()
@@ -200,7 +200,6 @@ if __name__ == '__main__':
         提交消息 += ' 错误'
         error(错误)
 
-    environ['PUSH_TOKEN'] = 'f4d6ff7b044a46b08524b216f9e9e186'
     with open("test.log", "rt", encoding="utf-8") as 日志:
         内容 = 日志.read()
         print(内容)
