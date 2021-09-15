@@ -1431,10 +1431,10 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-crs-23-inte
  rnational-space-station-resupply-mission?instance_id=5111
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alpha • Spinnaker 3\, NPS-CENETIX-Orbital 1\, Teachers in Space 
- CubeSat 1等多颗卫星  • 火箭首飞
-DTSTART;TZID=Asia/Shanghai:20210903T090000
-DTEND;TZID=Asia/Shanghai:20210903T090000
+SUMMARY:Alpha-FLTA001• Spinnaker 3\, NPS-CENETIX-Orbital 1\, Teachers in
+  Space CubeSat 1等多颗卫星  • 火箭首飞  •  发射失败
+DTSTART;TZID=Asia/Shanghai:20210903T095900
+DTEND;TZID=Asia/Shanghai:20210903T095900
 UID:78422
 CATEGORIES:Alpha
 CATEGORIES:Firefly
@@ -1445,11 +1445,12 @@ DESCRIPTION:地点：美国加州范登堡空军基地SLC-2W发射台（
  前Delta II工位） 发射商：Firefly 火箭：Alpha 载荷：Spinnaker
   3 / NPS-CENETIX-Orbital 1 / Teachers in Space CubeSat 1 / Hiapo / BSS 1 /
   MAGNETO / CRESST DREAM COMET / FossaCon 1A - H / Firefly Capsule 1 … 
- 继续阅读Alpha • Spinnaker 3\, NPS-CENETIX-Orbital 1\, Teachers in Sp
- ace CubeSat 1等多颗卫星  • 火箭首飞 →
+ 继续阅读Alpha-FLTA001• Spinnaker 3\, NPS-CENETIX-Orbital 1\, Teacher
+ s in Space CubeSat 1等多颗卫星  • 火箭首飞  •  发射失败 
+ →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/alpha-rocket-first-launch?instance
- _id=5108
+ _id=5139
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ariane 5 ECA • SES-17 / Syracuse 4A (Comsat-NG 1) 一箭双星
@@ -1876,22 +1877,24 @@ URL:http://www.spaceflightfans.cn/event/%e3%80%90tbd%e3%80%91%e9%95%bf%e5%
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第十批次组网发
- 射
-DTSTART;TZID=Asia/Shanghai:20210909
-DTEND;TZID=Asia/Shanghai:20210909
+ 射 • 发射成功
+DTSTART;TZID=Asia/Shanghai:20210915T020700
+DTEND;TZID=Asia/Shanghai:20210915T020700
 UID:91029
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
 CATEGORIES:俄罗斯发射
 CATEGORIES:
 CLASS:PUBLIC
-DESCRIPTION:地点：东方航天发射场 火箭：Soyuz 2.1b/Fregat-M 
- 载荷：第十批次36颗OneWeb互联网通讯卫星 质量：5810kg 客
- 户：OneWeb（所有者：英国政府42.2%，Bharti Enterprises 42.2%）
-  轨道：LEO-450km 动态： 【2021年03月05日】添加此次任务
+DESCRIPTION:地点：拜科努尔航天发射场 火箭：Soyuz 2.1b/Frega
+ t-M 载荷：第十批次36颗OneWeb互联网通讯卫星 质量：5810kg 
+ 客户：OneWeb（所有者：英国政府42.2%，Bharti Enterprises 42.2%
+ ） 轨道：LEO-450km     动态： 【2021年09月15日】火箭于02:
+ 07点火升空，卫星顺利分离进入预定轨道 【2021年03月05日
+ 】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1b-fregat-m-launch-oneweb-
- satellite-batch-10?instance_id=4902
+ satellite-batch-10?instance_id=5141
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 •Crew Dragon Inspiration4 •纯旅游的载人航天
@@ -23577,9 +23580,10 @@ URL:http://www.spaceflightfans.cn/event/long-march-6-rocket-launch-kl-%ce%
  b2-satellite?instance_id=4985
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Soyuz-2-1v • EMKA-2(Kosmos-2551)光学侦察卫星
-DTSTART;TZID=Asia/Shanghai:20210930
-DTEND;TZID=Asia/Shanghai:20210930
+SUMMARY:Soyuz-2-1v • Razbeg-1 (Kosmos-2551)俄罗斯光学侦察卫星 
+ • 发射成功
+DTSTART;TZID=Asia/Shanghai:20210910T035900
+DTEND;TZID=Asia/Shanghai:20210910T035900
 UID:95925
 CATEGORIES:Soyuz 2.1v
 CATEGORIES:俄罗斯发射
@@ -23587,12 +23591,13 @@ CATEGORIES:俄罗斯国防部
 CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：普列谢茨克航天发射场 火箭：Soyuz 2.1v 
- 载荷：EMKA-2(Kosmos-2551)光学侦察卫星 客户：俄罗斯太空部
- 队 质量：TBD 轨道：SSO 倾角：TBD 动态： 【2021年07月25日
- 】发射任务推迟 【2021年07月24日】添加此次任务  
+ 载荷：Razbeg-1(Kosmos-2551)光学侦察卫星 客户：俄罗斯太空
+ 部队 质量：TBD 轨道：SSO 倾角：TBD 动态： 【2021年09月10
+ 日】火箭于09月10日 03:59点火升空 【2021年07月25日】发射
+ 任务推迟 【2021年07月24日】添加此次任务  
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1v-%e2%80%a2-rocket-luanch
- -emka-2-satellite?instance_id=5096
+ -emka-2-satellite?instance_id=5140
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号丁 • 天绘一号04星 • 发射成功 • LongMar
