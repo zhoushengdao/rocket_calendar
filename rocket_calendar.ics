@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-09-17T00:32:08
+X-1-EDT:2021-09-18T00:32:34
 X-2-EDT:2021-09-09T00:32:56
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -1663,7 +1663,7 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
  -0-l35?instance_id=5122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 • V2.0-L1批次Starlink通信卫星组网发射 • 发
+SUMMARY:Falcon 9 • V1.5-L1批次Starlink通信卫星组网发射 • 发
  射成功
 DTSTART;TZID=Asia/Shanghai:20210914T115500
 DTEND;TZID=Asia/Shanghai:20210914T115500
@@ -1679,7 +1679,7 @@ DESCRIPTION:地点：范登堡SLC-4E 火箭：Falcon 9 载荷：V2.0 L1批
  号回收船海上回收 芯级此前执行任务(点击日期可前往相
  应任务)： 1. Crew Dragon Demo-1 2019.03.02 2. RADARSAT Constellation 2
  019.06.12 3. Starlink v1.0 L3-1 ~ L3-60 2020.01.29 4. Starlink v1.0 L6-1 ~
-  L6-60 2020.04.23 5. … 继续阅读Falcon 9 • V2.0-L1批次Starlink通
+  L6-60 2020.04.23 5. … 继续阅读Falcon 9 • V1.5-L1批次Starlink通
  信卫星组网发射 • 发射成功 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v2
@@ -2386,9 +2386,9 @@ URL:http://www.spaceflightfans.cn/event/soyuz-2-1b-fregat-m-launch-oneweb-
  satellite-batch-11?instance_id=5147
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 • Crew Dragon Crew-3（66s） • 载人航班常态化
-DTSTART;TZID=Asia/Shanghai:20211023
-DTEND;TZID=Asia/Shanghai:20211023
+SUMMARY:Falcon 9 • Crew Dragon Crew-3（66s）• 载人航班常态化
+DTSTART;TZID=Asia/Shanghai:20211031T140000
+DTEND;TZID=Asia/Shanghai:20211031T140000
 UID:87578
 CATEGORIES:Falcon 9
 CATEGORIES:NASA
@@ -2440,13 +2440,13 @@ DESCRIPTION:任务logo 任务logo(2) 远征-66队logo 国际空间站站
  的 爱好主要为：背包旅行和登山，家庭活动，游泳，潜
  水，滑雪，弹吉他和阅读。 【德，任务专家-1（ MS-1），
  第一次执行任务】中文：马蒂亚斯.约瑟夫/英文： … 继
- 续阅读Falcon 9 • Crew Dragon Crew-3（66s） • 载人航班常态
- 化 →
+ 续阅读Falcon 9 • Crew Dragon Crew-3（66s）• 载人航班常态化
+  →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/%e3%80%909%e6%9c%88%e5%be%85%e5%ae
  %9a%e3%80%91falcon-9-crew-dragon-crew-3-%e8%bd%bd%e4%ba%ba%e8%88%aa%e7%8f%
  ad%e5%b8%b8%e6%80%81%e5%8c%96%e2%80%a2%e6%88%90%e5%91%98%e7%bb%84?instance
- _id=4753
+ _id=5152
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1a • Progress МS-18 (79P) 货运飞船 • 国际空间
@@ -20265,7 +20265,9 @@ SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第十二批次组网
 DTSTART;TZID=Asia/Shanghai:20211101
 DTEND;TZID=Asia/Shanghai:20211101
 UID:95340
-CATEGORIES:
+CATEGORIES:Roscosmos
+CATEGORIES:Soyuz 2
+CATEGORIES:俄罗斯发射
 CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：拜科努尔航天发射场31/6 火箭：Soyuz 2.1b/F
@@ -24072,5 +24074,24 @@ DESCRIPTION:地点：印度斯里赫里戈达岛萨迪什·达万航天中
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/pslv-%e2%80%a2-eos-06oceansat-3-%e
  2%80%a2?instance_id=5036
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon-9 • COSMO-SkyMed 2nd Gen • 意大利X-Band SAR地球观
+ 测卫星组网发射
+DTSTART;TZID=Asia/Shanghai:20211119T071100
+DTEND;TZID=Asia/Shanghai:20211119T071100
+UID:97156
+CATEGORIES:
+CATEGORIES:
+CLASS:PUBLIC
+DESCRIPTION:地点：卡纳维拉尔角 火箭：Falcon-9 箭体：TBD 载
+ 荷：COSMO-SkyMed 2nd Gen 平台：Prima Bus 质量：2205kg 轨道：619
+ km高度\, 97.86°倾角太阳同步轨道 客户：意大利航天局 动
+ 态： 【2021年09月17日】添加此次任务
+LOCATION:
+URL:http://www.spaceflightfans.cn/event/falcon-9-%e2%80%a2-cosmo-skymed-2n
+ d-gen-%e2%80%a2-%e6%84%8f%e5%a4%a7%e5%88%a9x-band-sar%e5%9c%b0%e7%90%83%e8
+ %a7%82%e6%b5%8b%e5%8d%ab%e6%98%9f%e7%bb%84%e7%bd%91%e5%8f%91%e5%b0%84?inst
+ ance_id=5158
 END:VEVENT
 END:VCALENDAR
