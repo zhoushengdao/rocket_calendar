@@ -1454,8 +1454,8 @@ URL:http://www.spaceflightfans.cn/event/alpha-rocket-first-launch?instance
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ariane 5 ECA • SES-17 / Syracuse 4A (Comsat-NG 1) 一箭双星
-DTSTART;TZID=Asia/Shanghai:20211015T081500
-DTEND;TZID=Asia/Shanghai:20211015T081500
+DTSTART;TZID=Asia/Shanghai:20211022T081500
+DTEND;TZID=Asia/Shanghai:20211022T081500
 UID:42228
 CATEGORIES:Ariane 5
 CATEGORIES:Arianespace
@@ -1475,13 +1475,13 @@ DESCRIPTION:地点：法属圭亚那库鲁圭亚那太空中心 ELA-3工
  ，称其“最近同阿里安航天公司签署了2021年发射我们的
  卫星的合同”。该公司说：“我们由此退出了原有的初
  步协议。” 相关新闻： “重鹰”一客户退订，改用阿里
- 安5 动态： 【2021年08月10日】预计10月15日 08：15发射 【20
+ 安5 动态： 【2021年08月10日】预计10月22日 08：15发射 【20
  21年07月24日】拼单卫星更改， Ovzon-3改为Syracuse 4A  【2019
  年08月27日】任务叛逃，改为阿丽亚娜5发射。 【2018年11
  月01日】添加此次任务。
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/ariane-5-rocket-launch-ses-17-and-
- syracuse-4a-comsat-ng-1?instance_id=5021
+ syracuse-4a-comsat-ng-1?instance_id=5149
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas-V 511构型 • AFSPC-8（GSSAP-5＆6监视卫星） • 新
@@ -1663,9 +1663,10 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
  -0-l35?instance_id=5122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 • V2.0-L1批次Starlink通信卫星组网发射
-DTSTART;TZID=Asia/Shanghai:20210913T000000
-DTEND;TZID=Asia/Shanghai:20210913T000000
+SUMMARY:Falcon 9 • V2.0-L1批次Starlink通信卫星组网发射 • 发
+ 射成功
+DTSTART;TZID=Asia/Shanghai:20210914T115500
+DTEND;TZID=Asia/Shanghai:20210914T115500
 UID:93380
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1673,16 +1674,16 @@ CATEGORIES:美国发射
 CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：范登堡SLC-4E 火箭：Falcon 9 载荷：V2.0 L1批
- 次星链组网卫星（Starlink） 质量：单星260kg 客户：SpaceX 
- 轨道：SSO，70度 芯级：B1049-10 回收：“我依旧爱你”号
- 回收船海上回收 芯级此前执行任务(点击日期可前往相应
- 任务)： 1. Crew Dragon Demo-1 2019.03.02 2. RADARSAT Constellation 2019
- .06.12 3. Starlink v1.0 L3-1 ~ L3-60 2020.01.29 4. Starlink v1.0 L6-1 ~ L6
- -60 2020.04.23 5. … 继续阅读Falcon 9 • V2.0-L1批次Starlink通信
- 卫星组网发射 →
+ 次51颗星链组网卫星（Starlink） 质量：单星260kg 客户：Spa
+ ceX 轨道：SSO，70度 芯级：B1049-10 回收：“我依旧爱你”
+ 号回收船海上回收 芯级此前执行任务(点击日期可前往相
+ 应任务)： 1. Crew Dragon Demo-1 2019.03.02 2. RADARSAT Constellation 2
+ 019.06.12 3. Starlink v1.0 L3-1 ~ L3-60 2020.01.29 4. Starlink v1.0 L6-1 ~
+  L6-60 2020.04.23 5. … 继续阅读Falcon 9 • V2.0-L1批次Starlink通
+ 信卫星组网发射 • 发射成功 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v2
- -0-l1?instance_id=5133
+ -0-l1?instance_id=5143
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1a • Soyuz MS-20•  俄罗斯12天太空游客服务，
@@ -1889,19 +1890,19 @@ CLASS:PUBLIC
 DESCRIPTION:地点：拜科努尔航天发射场 火箭：Soyuz 2.1b/Frega
  t-M 载荷：第十批次36颗OneWeb互联网通讯卫星 质量：5810kg 
  客户：OneWeb（所有者：英国政府42.2%，Bharti Enterprises 42.2%
- ） 轨道：LEO-450km     动态： 【2021年09月15日】火箭于02:
- 07点火升空，卫星顺利分离进入预定轨道 【2021年03月05日
- 】添加此次任务
+ ） 轨道：LEO-450km 火箭发射图片： 火箭整装及转运图片 
+   动态： 【2021年09月15日】火箭于02:07点火升空，卫星顺
+ 利分离进入预定轨道 【2021年03月05日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1b-fregat-m-launch-oneweb-
  satellite-batch-10?instance_id=5141
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 •Crew Dragon Inspiration4 •纯旅游的载人航天
- 项目•企业家购买“载人龙”任务，其他3个座位船票兼
- 做慈善，不对接国际空间站
-DTSTART;TZID=Asia/Shanghai:20210915
-DTEND;TZID=Asia/Shanghai:20210915
+SUMMARY:Falcon 9 • Crew Dragon Inspiration4 • 纯旅游的载人航天
+ 项目 • 企业家购买“载人龙”任务，其他3个座位船票
+ 兼做慈善，不对接国际空间站 • 发射成功
+DTSTART;TZID=Asia/Shanghai:20210916T080200
+DTEND;TZID=Asia/Shanghai:20210916T080200
 UID:87651
 CATEGORIES:Falcon 9
 CATEGORIES:SpaceX
@@ -1932,30 +1933,25 @@ DESCRIPTION:Inspiration4任务徽章 敲定名单的4名成员 地点：
  球一圈的姿态完成3-4天的飞行。 芯级此前执行任务(点击
  日期可前往相应任务)： 1. GPSⅢA-4 第三代GPS导航定位卫
  星第4发 2020.11.06 2. GPSⅢA-5 第三代GPS导航定位卫星第5发 2
- 021.06.18 任务介绍： 当地时间2021年2月2日，美国航空爱好
- 者贾里德·艾萨克曼(Jared Isaacman)将担任首次平民太空任
- 务的指挥官，此次飞行将在2021年底前进行。此次飞行任
- 务一共包含4个座位，已经被Shift4 Payments的创始人兼首席
- 执行官贾里德·艾萨克曼全部购买，其他3个名额将由艾
- 萨克曼进行分配。这名37岁的亿万富翁表示：“我记得上
- 幼儿园的时候，看到图书里的太空舱，我告诉老师，将
- 来我也要去太空。” 本次航天飞行任务被赋予特定的文
- 化符号。Inspiration4乘组四席，分别代表Leadership（领导力
- ）、Hope（希望）、Generosity（慷慨）和Prosperity（成功）
- 。 Leadership对应任务指挥官，由本次飞行的出资人、亿万
- 富翁贾里德·艾萨克曼（Jared Isaacman）担任。飞船将在低
- 地轨道上飞行两到四天，但将不去同国际空间站对接。 
- … 继续阅读Falcon 9 •Crew Dragon Inspiration4 •纯旅游的载人
- 航天项目•企业家购买“载人龙”任务，其他3个座位船
- 票兼做慈善，不对接国际空间站 →
+ 021.06.18   动态： 【2021年09月16日】08：02分火箭点火升空
+ ，飞船顺利进入预定轨道 【2021年04月24日】成员组参观
+ 了Crew-2任务发射 【2021年04月01日】3月31日消息，当地时
+ 间周二，美国太空探索技术公司SpaceX人类航天部负责人
+ 本吉·里德（Benji Reed）和亿万富翁企业家杰瑞德·伊萨克
+ 曼（Jared Isaacman）在NASA下属肯尼迪航天中心的新闻发布
+ 会上宣布，SpaceX人类史上首次全平民太空旅行名单已最
+ 终确定。并且确定用穹顶取代了飞船的APAS对接系统。 …
+  继续阅读Falcon 9 • Crew Dragon Inspiration4 • 纯旅游的载人
+ 航天项目 • 企业家购买“载人龙”任务，其他3个座位
+ 船票兼做慈善，不对接国际空间站 • 发射成功 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-crew-dragon
- -inspiration4?instance_id=4577
+ -inspiration4?instance_id=5145
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas-V 401构型 • LandSat-9地球遥感卫星
-DTSTART;TZID=Asia/Shanghai:20210923T021100
-DTEND;TZID=Asia/Shanghai:20210923T021100
+DTSTART;TZID=Asia/Shanghai:20210928T021100
+DTEND;TZID=Asia/Shanghai:20210928T021100
 UID:89830
 CATEGORIES:Atlas 5
 CATEGORIES:ULA（联合发射联盟）
@@ -1973,7 +1969,7 @@ DESCRIPTION:地点：范德堡空军基地 SLC-3E 火箭：Atlas V 401（
  -9地球遥感卫星 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/atlas-v-401-rocket-launch-landsat9
- -satellite?instance_id=5115
+ -satellite?instance_id=5144
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征七号遥四 • 天舟三号货运飞船 • LongMarch 7 Y4
@@ -2372,8 +2368,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1b/Fregat-M • OneWeb互联网星座第十一批次组网
  发射
-DTSTART;TZID=Asia/Shanghai:20211007
-DTEND;TZID=Asia/Shanghai:20211007
+DTSTART;TZID=Asia/Shanghai:20211014
+DTEND;TZID=Asia/Shanghai:20211014
 UID:95339
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
@@ -2383,11 +2379,11 @@ CLASS:PUBLIC
 DESCRIPTION:地点：拜科努尔航天发射场31/6 火箭：Soyuz 2.1b/F
  regat-M 载荷：第十一次36颗OneWeb互联网通讯卫星 质量：581
  0kg 客户：OneWeb（所有者：英国政府42.2%，Bharti Enterprises 4
- 2.2%） 轨道：LEO-450km 动态： 【2021年07月04日】添加此次
- 任务
+ 2.2%） 轨道：LEO-450km 动态： 【2021年09月17日】预计10月14
+ 日发射 【2021年07月04日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1b-fregat-m-launch-oneweb-
- satellite-batch-11?instance_id=4903
+ satellite-batch-11?instance_id=5147
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • Crew Dragon Crew-3（66s） • 载人航班常态化
@@ -2517,7 +2513,7 @@ LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%80%a2-progress-%d0%
  bcs-18-79p-%e8%b4%a7%e8%bf%90%e9%a3%9e%e8%88%b9-%e2%80%a2-%e5%9b%bd%e9%99%
  85%e7%a9%ba%e9%97%b4%e7%ab%99%e8%a1%a5%e7%bb%99%e4%bb%bb%e5%8a%a1?instance
- _id=4359
+ _id=5151
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:【2021年10月待定】长征二号丁遥五十三 • 疑似携
@@ -20138,28 +20134,29 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon Heavy • USSF-44 • 美太空军卫星 • 重型猎鹰
  直送GEO
-DTSTART;TZID=Asia/Shanghai:20211031
-DTEND;TZID=Asia/Shanghai:20211031
+DTSTART;TZID=Asia/Shanghai:20211009
+DTEND;TZID=Asia/Shanghai:20211009
 UID:52376
 CATEGORIES:Falcon Heavy
 CATEGORIES:SpaceX
 CATEGORIES:美国发射
 CATEGORIES:
 CLASS:PUBLIC
-DESCRIPTION:地点：CCSFS LC-39A 火箭：Falcon Heavy F4 客户：美国
- 太空军（U.S. Space Force） 载荷：USSF-44 质量：3.7t 回收：
- 助推陆上回收，芯级不要了 目标轨道：GEO 直播地址：htt
- p://www.spacex.com/webcast 简介： 根据AFSPC-44的招标公告，本
- 次任务需要将3.7t的载荷送入36100km的@0°的轨道，基本可
- 以确定这是一次FH任务，据称该卫星将有直径超过100m的
- 巨型可展开天线。 动态： 【2021年5月31日】因为载荷原
- 因，USSF-44推迟到2021年10月。 【2020年09月24日】The mission\,
-  USSF-44\, is scheduled to launch no earlier than February 28\, 2021. The 
- classified payload for the … 继续阅读Falcon Heavy • USSF-44 • 
- 美太空军卫星 • 重型猎鹰直送GEO →
+DESCRIPTION:地点：肯尼迪航天中心 LC-39A 火箭：Falcon Heavy F4
+  客户：美国太空军（U.S. Space Force） 载荷：USSF-44 质量：
+ 3.7t 回收：两侧助推陆上回收，芯级不进行回收 目标轨
+ 道：GEO 直播地址：http://www.spacex.com/webcast 简介： 根据AFS
+ PC-44的招标公告，本次任务需要将3.7t的载荷送入36100km的@
+ 0°的轨道，基本可以确定这是一次FH任务，据称该卫星将
+ 有直径超过100m的巨型可展开天线。 动态： 【2021年09月17
+ 日】本次发射预计在10月09日执行 【2021年05月31日】因为
+ 载荷原因，USSF-44推迟到2021年10月。 【2020年09月24日】The 
+ mission\, USSF-44\, is scheduled to launch no earlier than February 28\, 2
+ 021. The classified payload for … 继续阅读Falcon Heavy • USSF-44 
+ • 美太空军卫星 • 重型猎鹰直送GEO →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-heavy-afspc-44?instance_id=
- 4777
+ 5146
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号F/G Y13 • 神舟十三号载人飞船 • LongMarch 
@@ -20303,8 +20300,8 @@ URL:http://www.spaceflightfans.cn/event/proton-m-%e2%80%a2-launch-ekspress
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas-V 401构型 • Lucy(“露西”号小行星探测器)
-DTSTART;TZID=Asia/Shanghai:20211116T173400
-DTEND;TZID=Asia/Shanghai:20211116T173400
+DTSTART;TZID=Asia/Shanghai:20211016T173400
+DTEND;TZID=Asia/Shanghai:20211016T173400
 UID:89754
 CATEGORIES:Atlas 5
 CATEGORIES:ULA（联合发射联盟）
@@ -20424,7 +20421,7 @@ DESCRIPTION:地点：美国卡纳维拉尔角空军基地 SLC-41 火箭：
  401构型 • Lucy(“露西”号小行星探测器) →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/atlas-5-%e2%80%a2-launch-lucy-sate
- llite?instance_id=5020
+ llite?instance_id=5148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:【预计推迟至22年】Soyuz 2.1a • Progress МS-19 (80P) 货
@@ -23592,9 +23589,9 @@ CATEGORIES:
 CLASS:PUBLIC
 DESCRIPTION:地点：普列谢茨克航天发射场 火箭：Soyuz 2.1v 
  载荷：Razbeg-1(Kosmos-2551)光学侦察卫星 客户：俄罗斯太空
- 部队 质量：TBD 轨道：SSO 倾角：TBD 动态： 【2021年09月10
- 日】火箭于09月10日 03:59点火升空 【2021年07月25日】发射
- 任务推迟 【2021年07月24日】添加此次任务  
+ 部队 质量：约为250kg 轨道：SSO 倾角：约为97度 动态： 
+ 【2021年09月10日】火箭于09月10日 03:59点火升空 【2021年07
+ 月25日】发射任务推迟 【2021年07月24日】添加此次任务  
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1v-%e2%80%a2-rocket-luanch
  -emka-2-satellite?instance_id=5140
@@ -23729,8 +23726,8 @@ URL:http://www.spaceflightfans.cn/event/rocket-3-lanuch-stp-27ad1?instance
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electron • BlackSky Global 10/11地球遥感卫星
-DTSTART;TZID=Asia/Shanghai:20210915
-DTEND;TZID=Asia/Shanghai:20210915
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:96481
 CATEGORIES:Electron
 CATEGORIES:RocketLab
@@ -23745,7 +23742,7 @@ DESCRIPTION:简要信息： 地点：新西兰玛西亚半岛航天发射
  务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron-rocket-launch-blacksky-10
- -11-satellite?instance_id=5114
+ -11-satellite?instance_id=5155
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LauncherOne • STP-S28A
@@ -23766,8 +23763,8 @@ URL:http://www.spaceflightfans.cn/event/launcherone-%e2%80%a2-stp-s28a?ins
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electron • BlackSky Global 12/13地球遥感卫星
-DTSTART;TZID=Asia/Shanghai:20210930
-DTEND;TZID=Asia/Shanghai:20210930
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:96506
 CATEGORIES:Electron
 CATEGORIES:RocketLab
@@ -23781,12 +23778,12 @@ DESCRIPTION:简要信息： 地点：新西兰玛西亚半岛航天发射
  此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron-%e2%80%a2-blacksky12-13?i
- nstance_id=5129
+ nstance_id=5156
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electron • BlackSky Global 14/15地球遥感卫星
-DTSTART;TZID=Asia/Shanghai:20210930
-DTEND;TZID=Asia/Shanghai:20210930
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:96507
 CATEGORIES:Electron
 CATEGORIES:RocketLab
@@ -23800,7 +23797,7 @@ DESCRIPTION:简要信息： 地点：新西兰玛西亚半岛航天发射
  此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/electron-%e2%80%a2-blacksky14-15?i
- nstance_id=5130
+ nstance_id=5157
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征三号乙 • LongMarch-3B
@@ -23910,7 +23907,7 @@ URL:http://www.spaceflightfans.cn/event/long-march-4b-launch-tianhui2-grou
  p-02-satellite?instance_id=5063
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epsilon F5 • 革新的衛星技術実証2号機 • RAISE-2等
+SUMMARY:Epsilon F5 • 革新的卫星技术实证2号机 • RAISE-2等
  共计九颗卫星
 DTSTART;TZID=Asia/Shanghai:20211001T084800
 DTEND;TZID=Asia/Shanghai:20211001T084800
@@ -23947,8 +23944,8 @@ DESCRIPTION:地点：日本鹿儿岛内之浦宇宙空间观测所 火箭
  质量验证与商业化相连。 轻量无耗电型高功能热控制设
  备(ATCD)将展示3个装置组合而成的热控制组件，以实现前
  所未有的轻量、省电、独创的热控制技术。 MEMS惯性传感
- 器冗余试验(MEMS IMU … 继续阅读Epsilon F5 • 革新的衛星技
- 術実証2号機 • RAISE-2等共计九颗卫星 →
+ 器冗余试验(MEMS IMU … 继续阅读Epsilon F5 • 革新的卫星技
+ 术实证2号机 • RAISE-2等共计九颗卫星 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/epsilon-%e2%80%a2-launch-raise-2%e
  f%bc%8cteikyosat-4%ef%bc%8chibari%ef%bc%8cz-sat%ef%bc%8cdrums%ef%bc%8caste
