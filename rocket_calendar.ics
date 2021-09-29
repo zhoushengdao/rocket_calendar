@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-09-29T00:32:21
+X-1-EDT:2021-09-30T00:32:22
 X-2-EDT:2021-09-09T00:32:56
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -1064,8 +1064,8 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1a • Bars-M No. 3光学侦察卫星
-DTSTART;TZID=Asia/Shanghai:20210930
-DTEND;TZID=Asia/Shanghai:20210930
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:95454
 CATEGORIES:Roscosmos
 CATEGORIES:Soyuz 2
@@ -1078,13 +1078,13 @@ DESCRIPTION:地点：普列谢茨克航天发射场 火箭：Soyuz 2.1a
  务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-%e2%80%a2-bars-m-no-3?i
- nstance_id=5015
+ nstance_id=5161
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz-2.1a / Fregat-M•“秃鹰-FKA”（Kondor-FKA）01星•
  俄首颗民用对地观测雷达卫星•18年开始不断延期
-DTSTART;TZID=Asia/Shanghai:20210930
-DTEND;TZID=Asia/Shanghai:20210930
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:93485
 CATEGORIES:Soyuz
 CATEGORIES:Soyuz 2
@@ -1141,7 +1141,7 @@ DESCRIPTION:Kondor-FKA 01民用对地观测雷达卫星示意图 地点：
  颗民用对地观测雷达卫星•18年开始不断延期 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/soyuz-2-1a-fregat-m%e2%80%a2launch
- -kondor-fka-satellite?instance_id=5097
+ -kondor-fka-satellite?instance_id=5162
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:双曲线一号 • 暨“天书”发射失利后复飞 • 吉
@@ -1949,7 +1949,7 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-crew-dragon
  -inspiration4?instance_id=5145
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas-V 401构型 • LandSat-9地球遥感卫星
+SUMMARY:Atlas-V 401构型 • LandSat-9地球遥感卫星 • 发射成功
 DTSTART;TZID=Asia/Shanghai:20210928T021100
 DTEND;TZID=Asia/Shanghai:20210928T021100
 UID:89830
@@ -1966,7 +1966,7 @@ DESCRIPTION:地点：范德堡空军基地 SLC-3E 火箭：Atlas V 401（
  顿大学(Boston University) (3) CUTE客户：科罗拉多大学博尔德
  分校(CU Boulder) 相关资料： 1. Landsat 9 and the Future of the Sust
  ainable Land Imaging Program … 继续阅读Atlas-V 401构型 • LandSat
- -9地球遥感卫星 →
+ -9地球遥感卫星 • 发射成功 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/atlas-v-401-rocket-launch-landsat9
  -satellite?instance_id=5144
@@ -23819,8 +23819,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSLV • EOS-04(GIAST-1A) • 印度SAR-X波段雷达环境监测
  卫星
-DTSTART;TZID=Asia/Shanghai:20210930
-DTEND;TZID=Asia/Shanghai:20210930
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:96550
 CATEGORIES:ISRO
 CATEGORIES:PSLV
@@ -23834,7 +23834,7 @@ DESCRIPTION:地点：印度斯里赫里戈达岛萨迪什·达万航天中
  】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/pslv-%e2%80%a2-eos-04giast-1a-%e2%
- 80%a2?instance_id=5035
+ 80%a2?instance_id=5160
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号丙/远征一号S • 遥感三十二号02组卫星 
