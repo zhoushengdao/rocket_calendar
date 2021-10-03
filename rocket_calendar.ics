@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:周盛道 <26922dd@sina.com>
 SUMMARY:火箭发射时间
-X-1-EDT:2021-10-03T00:31:27
+X-1-EDT:2021-10-04T06:20:26
 X-2-EDT:2021-09-09T00:32:56
 X-O-EDT:2021-07-11T16:40:16
 BEGIN:VEVENT
@@ -1026,7 +1026,7 @@ URL:http://www.spaceflightfans.cn/event/kuaizhou-1a-rocket-launch-jilin-1-
  gaofen-02d-satellite?instance_id=5077
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 • V1.0-L29批次Starlink通信卫星组网发射
+SUMMARY:Falcon 9 • V2.0-L2批次Starlink通信卫星组网发射
 DTSTART;TZID=Asia/Shanghai:20211031
 DTEND;TZID=Asia/Shanghai:20211031
 UID:91591
@@ -1035,11 +1035,12 @@ CATEGORIES:SpaceX
 CATEGORIES:美国发射
 CATEGORIES:
 CLASS:PUBLIC
-DESCRIPTION:地点：TBD 火箭：Falcon 9 载荷：V1.0 L29批次星链
- 组网卫星（Starlink） 质量：单星260kg 客户：SpaceX 轨道：L
- EO 芯级：TBD 回收：海上回收 动态： 【2021年07月09日】发
- 射推迟 【2021年06月27日】预计07月12日发射 【2021年04月08
- 日】添加此次任务
+DESCRIPTION:地点：范登堡SLC-4E 火箭：Falcon 9 载荷：V2.0 L2批
+ 次51颗星链组网卫星（Starlink） 质量：单星260kg 客户：Spa
+ ceX 轨道：SSO，70度 芯级：待定 回收：待定 动态： 【2021
+ 年10月03日】预报改为V2星链第二批发射。 【2021年07月09
+ 日】发射推迟 【2021年06月27日】预计07月12日发射 【2021
+ 年04月08日】添加此次任务
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
  -0-l29?instance_id=5126
@@ -1663,7 +1664,7 @@ URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v1
  -0-l35?instance_id=5122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 • V1.5-L1批次Starlink通信卫星组网发射 • 发
+SUMMARY:Falcon 9 • V2.0-L1批次Starlink通信卫星组网发射 • 发
  射成功
 DTSTART;TZID=Asia/Shanghai:20210914T115500
 DTEND;TZID=Asia/Shanghai:20210914T115500
@@ -1679,7 +1680,7 @@ DESCRIPTION:地点：范登堡SLC-4E 火箭：Falcon 9 载荷：V2.0 L1批
  号回收船海上回收 芯级此前执行任务(点击日期可前往相
  应任务)： 1. Crew Dragon Demo-1 2019.03.02 2. RADARSAT Constellation 2
  019.06.12 3. Starlink v1.0 L3-1 ~ L3-60 2020.01.29 4. Starlink v1.0 L6-1 ~
-  L6-60 2020.04.23 5. … 继续阅读Falcon 9 • V1.5-L1批次Starlink通
+  L6-60 2020.04.23 5. … 继续阅读Falcon 9 • V2.0-L1批次Starlink通
  信卫星组网发射 • 发射成功 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-9-rocket-launch-starlink-v2
@@ -2387,8 +2388,8 @@ URL:http://www.spaceflightfans.cn/event/soyuz-2-1b-fregat-m-launch-oneweb-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • Crew Dragon Crew-3（66s）• 载人航班常态化
-DTSTART;TZID=Asia/Shanghai:20211031T140000
-DTEND;TZID=Asia/Shanghai:20211031T140000
+DTSTART;TZID=Asia/Shanghai:20211031T144300
+DTEND;TZID=Asia/Shanghai:20211031T144300
 UID:87578
 CATEGORIES:Falcon 9
 CATEGORIES:NASA
@@ -2405,48 +2406,45 @@ DESCRIPTION:任务logo 任务logo(2) 远征-66队logo 国际空间站站
  包括3004磅（1363千克）的四氧化二氮和1881磅/853千克）的
  一甲基肼，飞船发射的典型重量在19840到33070磅（9吨到15
  吨）之间，载人运货时发射重量差距不大。 客户：NASA、
- ESA(可能会有俄方) 轨道：LEO，ISS 箭体：预计为B. 1067.1 回
- 收方式：海上回收 主成员组： 【美，指挥官（ CDR）第
- 一次执行任务】中文：拉贾·乔恩·伍尔普托尔·查里/英
- 文：Raja Jon Vurputoor “Grinder” 查里1977年6月24日出生于 威
- 斯康星州密尔沃基市，查理将是继1997年的卡尔帕纳·舒
- 拉和2006年的苏尼塔·威廉姆斯之后，第三位进入太空的
- 印度裔美国人。2017年，当NASA宣布“ 阿耳特弥斯”项目
- 时，他从18000名申请者中脱颖而出。查里的父亲斯里尼瓦
- 斯·查里来自泰伦加纳邦马赫布讷格尔，在海得拉巴的奥
- 斯马尼亚大学完成学业后移居美国。 他毕业于美国空军
- 学院，并获得了航空工程和工程科学学士学位。他继续
- 攻读麻省理工学院（MIT）获得航空航天学硕士学位，并
- 从美国海军试验飞行员学校毕业。入选航天员前其为美
- 国空军中校，在爱德华兹空军基地第461测试飞行中队担
- 任F-35联合攻击战斗机集成试验部队主任，在F-35，F-15，F-
- 16和F-18战斗机上的累计飞行时间超过2000个小时。 查理17
- 年成功入选NASA-22批次航天员，此前21批次航天员的选拔
- 中他遗憾落选。去年12月美国前副总统迈克·彭斯在NASA位
- 于佛罗里达州的肯尼迪航天中心宣布了18名参加“ 阿耳
- 特弥斯”项目的成员名单，查理成功入选，此次载人龙
- 飞船任务将是其太空的“练手”机会，之后查理将转入
- “阿尔忒弥斯”机会的登月成员组。个人已婚，目前有
- 三个孩子。 【美，任务飞行员（PLT），第三次执行任务
- 】中文：托马斯.马什本/英文：Thomas Marshburn 托马斯.马什
- 本1960年08月29日出生于北卡罗来纳州斯戴兹维尔镇。1982
- 年在北科罗莱纳州戴维森学院获得物理学学士学位，之
- 后攻读取得弗吉尼亚大学工程物理学理学硕士与得克萨
- 斯大学医学分校医学科学理学硕士学位，1989年获北卡罗
- 来纳州威克森林大学医学博士学位；，1997年其第一次申
- 请NASA-18批次航天员落选，2004年加入NASA-19批次航天员。
- 马什本曾在2009年参加STS-127航天飞机飞行任务，2012-13年
- 乘坐联盟TMA-07M飞船进入国际空间站驻留5个月。 其个人
- 的 爱好主要为：背包旅行和登山，家庭活动，游泳，潜
- 水，滑雪，弹吉他和阅读。 【德，任务专家-1（ MS-1），
- 第一次执行任务】中文：马蒂亚斯.约瑟夫/英文： … 继
- 续阅读Falcon 9 • Crew Dragon Crew-3（66s）• 载人航班常态化
-  →
+ ESA 轨道：LEO，ISS 箭体：预计为B. 1067.1 回收方式：海上
+ 回收 主成员组： 【美，指挥官（ CDR）第一次执行任务
+ 】中文：拉贾·乔恩·伍尔普托尔·查里/英文：Raja Jon Vurp
+ utoor “Grinder” 查里1977年6月24日出生于 威斯康星州密尔
+ 沃基市，查理将是继1997年的卡尔帕纳·舒拉和2006年的苏
+ 尼塔·威廉姆斯之后，第三位进入太空的印度裔美国人。
+ 2017年，当NASA宣布“ 阿耳特弥斯”项目时，他从18000名申
+ 请者中脱颖而出。查里的父亲斯里尼瓦斯·查里来自泰伦
+ 加纳邦马赫布讷格尔，在海得拉巴的奥斯马尼亚大学完
+ 成学业后移居美国。 他毕业于美国空军学院，并获得了
+ 航空工程和工程科学学士学位。他继续攻读麻省理工学
+ 院（MIT）获得航空航天学硕士学位，并从美国海军试验
+ 飞行员学校毕业。入选航天员前其为美国空军中校，在
+ 爱德华兹空军基地第461测试飞行中队担任F-35联合攻击战
+ 斗机集成试验部队主任，在F-35，F-15，F-16和F-18战斗机上
+ 的累计飞行时间超过2000个小时。 查理17年成功入选NASA-22
+ 批次航天员，此前21批次航天员的选拔中他遗憾落选。去
+ 年12月美国前副总统迈克·彭斯在NASA位于佛罗里达州的肯
+ 尼迪航天中心宣布了18名参加“ 阿耳特弥斯”项目的成
+ 员名单，查理成功入选，此次载人龙飞船任务将是其太
+ 空的“练手”机会，之后查理将转入“阿尔忒弥斯”机
+ 会的登月成员组。个人已婚，目前有三个孩子。 【美，
+ 任务飞行员（PLT），第三次执行任务】中文：托马斯.马
+ 什本/英文：Thomas Marshburn 托马斯.马什本1960年08月29日出
+ 生于北卡罗来纳州斯戴兹维尔镇。1982年在北科罗莱纳州
+ 戴维森学院获得物理学学士学位，之后攻读取得弗吉尼
+ 亚大学工程物理学理学硕士与得克萨斯大学医学分校医
+ 学科学理学硕士学位，1989年获北卡罗来纳州威克森林大
+ 学医学博士学位；，1997年其第一次申请NASA-18批次航天员
+ 落选，2004年加入NASA-19批次航天员。马什本曾在2009年参
+ 加STS-127航天飞机飞行任务，2012-13年乘坐联盟TMA-07M飞船
+ 进入国际空间站驻留5个月。 其个人的 爱好主要为：背
+ 包旅行和登山，家庭活动，游泳，潜水，滑雪，弹吉他
+ 和阅读。 【德，任务专家-1（ MS-1），第一次执行任务】
+ 中文：马蒂亚斯.约瑟夫/英文： … 继续阅读Falcon 9 • Cre
+ w Dragon Crew-3（66s）• 载人航班常态化 →
 LOCATION:
-URL:http://www.spaceflightfans.cn/event/%e3%80%909%e6%9c%88%e5%be%85%e5%ae
- %9a%e3%80%91falcon-9-crew-dragon-crew-3-%e8%bd%bd%e4%ba%ba%e8%88%aa%e7%8f%
- ad%e5%b8%b8%e6%80%81%e5%8c%96%e2%80%a2%e6%88%90%e5%91%98%e7%bb%84?instance
- _id=5152
+URL:http://www.spaceflightfans.cn/event/falcon-9-crew-dragon-crew-3?instan
+ ce_id=5167
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyuz 2.1a • Progress МS-18 (79P) 货运飞船 • 国际空间
@@ -2630,8 +2628,8 @@ URL:http://www.spaceflightfans.cn/event/atlas-5-rocket-launch-cft-1-spacec
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ariane 5 ECA • 詹姆斯·韦伯太空望远镜
-DTSTART;TZID=Asia/Shanghai:20211031
-DTEND;TZID=Asia/Shanghai:20211031
+DTSTART;TZID=Asia/Shanghai:20211218
+DTEND;TZID=Asia/Shanghai:20211218
 UID:13530
 CATEGORIES:Ariane 5
 CATEGORIES:Arianespace
@@ -2716,7 +2714,7 @@ DESCRIPTION:地点：法属圭亚那库鲁圭亚那太空中心 ELA-3工
  空望远镜 →
 LOCATION:法属圭亚那库鲁圭亚那太空中心 ELA-3
 URL:http://www.spaceflightfans.cn/event/ariane-5-eca-%e2%80%a2-james-webb-
- space-telescope?instance_id=3489
+ space-telescope?instance_id=5163
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 • WorldView Legion 1 &#038\; 2 地球遥感卫星星座
@@ -20132,10 +20130,10 @@ LOCATION:卡萨克斯坦拜科努尔航天发射场 200/39
 URL:http://www.spaceflightfans.cn/event/event-sffid-16017?instance_id=1160
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon Heavy • USSF-44 • 美太空军卫星 • 重型猎鹰
- 直送GEO
-DTSTART;TZID=Asia/Shanghai:20211009
-DTEND;TZID=Asia/Shanghai:20211009
+SUMMARY:【待定】Falcon Heavy • USSF-44 • 美太空军卫星 • 
+ 重型猎鹰直送GEO
+DTSTART;TZID=Asia/Shanghai:20211231
+DTEND;TZID=Asia/Shanghai:20211231
 UID:52376
 CATEGORIES:Falcon Heavy
 CATEGORIES:SpaceX
@@ -20148,15 +20146,16 @@ DESCRIPTION:地点：肯尼迪航天中心 LC-39A 火箭：Falcon Heavy F4
  道：GEO 直播地址：http://www.spacex.com/webcast 简介： 根据AFS
  PC-44的招标公告，本次任务需要将3.7t的载荷送入36100km的@
  0°的轨道，基本可以确定这是一次FH任务，据称该卫星将
- 有直径超过100m的巨型可展开天线。 动态： 【2021年09月17
+ 有直径超过100m的巨型可展开天线。 动态： 【2021年10月03
+ 日】没有相关消息，发射置于年底待定。 【2021年09月17
  日】本次发射预计在10月09日执行 【2021年05月31日】因为
  载荷原因，USSF-44推迟到2021年10月。 【2020年09月24日】The 
  mission\, USSF-44\, is scheduled to launch no earlier than February 28\, 2
- 021. The classified payload for … 继续阅读Falcon Heavy • USSF-44 
- • 美太空军卫星 • 重型猎鹰直送GEO →
+ 021. The classified payload … 继续阅读【待定】Falcon Heavy • U
+ SSF-44 • 美太空军卫星 • 重型猎鹰直送GEO →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/falcon-heavy-afspc-44?instance_id=
- 5146
+ 5164
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:长征二号F/G Y13 • 神舟十三号载人飞船 • LongMarch 
@@ -23909,10 +23908,10 @@ URL:http://www.spaceflightfans.cn/event/long-march-4b-launch-tianhui2-grou
  p-02-satellite?instance_id=5063
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epsilon F5 • 革新的卫星技术实证2号机 • RAISE-2等
- 共计九颗卫星
-DTSTART;TZID=Asia/Shanghai:20211001T084800
-DTEND;TZID=Asia/Shanghai:20211001T084800
+SUMMARY:【待定】Epsilon F5 • 革新的卫星技术实证2号机 • 
+ RAISE-2等共计九颗卫星
+DTSTART;TZID=Asia/Shanghai:20211031
+DTEND;TZID=Asia/Shanghai:20211031
 UID:96839
 CATEGORIES:Epsilon
 CATEGORIES:JAXA
@@ -23946,12 +23945,12 @@ DESCRIPTION:地点：日本鹿儿岛内之浦宇宙空间观测所 火箭
  质量验证与商业化相连。 轻量无耗电型高功能热控制设
  备(ATCD)将展示3个装置组合而成的热控制组件，以实现前
  所未有的轻量、省电、独创的热控制技术。 MEMS惯性传感
- 器冗余试验(MEMS IMU … 继续阅读Epsilon F5 • 革新的卫星技
- 术实证2号机 • RAISE-2等共计九颗卫星 →
+ 器冗余试验(MEMS IMU … 继续阅读【待定】Epsilon F5 • 革新
+ 的卫星技术实证2号机 • RAISE-2等共计九颗卫星 →
 LOCATION:
 URL:http://www.spaceflightfans.cn/event/epsilon-%e2%80%a2-launch-raise-2%e
  f%bc%8cteikyosat-4%ef%bc%8chibari%ef%bc%8cz-sat%ef%bc%8cdrums%ef%bc%8caste
- risc%ef%bc%8carica%ef%bc%8cnanodragon%ef%bc%8ckosen-1?instance_id=5082
+ risc%ef%bc%8carica%ef%bc%8cnanodragon%ef%bc%8ckosen-1?instance_id=5165
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nuri (KSLV-II) • 韩国KSLV-II系列运载火箭首飞
